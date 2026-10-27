@@ -22,12 +22,25 @@ const store = {
   },
 };
 
-// Reports used to be a plain list of IDs; upgrade those to { reason, comment } entries.
+// Saved data can be missing, from an older version, or edited by hand, so only accept the shape we expect.
+function savedList(key) {
+  const saved = store.get(key, []);
+  return Array.isArray(saved) ? saved.filter((id) => typeof id === "string") : [];
+}
+
 function loadReports() {
   const saved = store.get("lq.reports", null);
-  if (saved && typeof saved === "object") return new Map(Object.entries(saved));
-  const legacy = store.get("lq.reported", []);
-  return new Map(legacy.map((id) => [id, { reason: "remove", comment: "" }]));
+  if (saved && typeof saved === "object" && !Array.isArray(saved)) {
+    return new Map(Object.entries(saved)
+      .filter(([, report]) => report && typeof report === "object")
+      .map(([id, report]) => [id, {
+        // hasOwn, not `in`, so names like "__proto__" or "toString" aren't accepted.
+        reason: Object.hasOwn(REPORT_REASONS, report.reason) ? report.reason : "remove",
+        comment: typeof report.comment === "string" ? report.comment.slice(0, 500) : "",
+      }]));
+  }
+  // Reports used to be a plain list of IDs; upgrade those to { reason, comment } entries.
+  return new Map(savedList("lq.reported").map((id) => [id, { reason: "remove", comment: "" }]));
 }
 
 const state = {
@@ -36,12 +49,12 @@ const state = {
   groupOfCategory: new Map(),
   loaded: new Map(),          // group id -> question array
   byId: new Map(),            // question id -> question
-  selectedDifficulties: new Set(store.get("lq.difficulties", [])),
-  selectedCategories: new Set(store.get("lq.categories", [])),
-  asked: new Set(store.get("lq.asked", [])),
-  skipped: new Set(store.get("lq.skipped", [])),
+  selectedDifficulties: new Set(savedList("lq.difficulties")),
+  selectedCategories: new Set(savedList("lq.categories")),
+  asked: new Set(savedList("lq.asked")),
+  skipped: new Set(savedList("lq.skipped")),
   reports: loadReports(),     // question id -> { reason, comment }
-  showAnswers: store.get("lq.showAnswers", true),
+  showAnswers: store.get("lq.showAnswers", true) !== false,
   order: new Map(),           // question id -> random sort key for this visit
   pool: [],                   // filtered, shuffled questions for the current view
   rendered: 0,
