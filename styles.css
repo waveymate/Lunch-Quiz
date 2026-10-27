@@ -252,7 +252,22 @@ dialog::backdrop { background: rgb(0 0 0 / 0.4); }
 .dialog-inner h2 { font-size: 1.125rem; }
 .muted { color: var(--muted); font-size: 0.875rem; }
 .reported-list { max-height: 40vh; overflow-y: auto; padding-left: 18px; font-size: 0.875rem; }
+.reported-list li + li { margin-top: 8px; }
 .reported-list code { color: var(--muted); }
+.report-comment { display: block; color: var(--muted); font-style: italic; }
+.skipped-list li { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+.skipped-list .link { white-space: nowrap; }
+
+.reasons { border: 1px solid var(--line); border-radius: 10px; padding: 8px 12px 10px; margin: 12px 0; }
+.reasons legend { font-size: 0.8125rem; color: var(--muted); padding: 0 4px; }
+.reasons label { display: flex; gap: 8px; align-items: flex-start; padding: 4px 0; font-size: 0.9375rem; cursor: pointer; }
+.reasons input { margin-top: 4px; accent-color: var(--accent); }
+.field { display: grid; gap: 4px; font-size: 0.8125rem; color: var(--muted); }
+.field textarea {
+  font: inherit; font-size: 0.9375rem; color: var(--text);
+  background: var(--bg); border: 1px solid var(--line); border-radius: 10px;
+  padding: 8px 10px; resize: vertical;
+}
 .dialog-actions { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 8px; margin-top: 12px; }
 
 @media (max-width: 520px) {

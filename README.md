@@ -10,10 +10,11 @@ A shuffled list of quiz questions, with answers, for reading out to a group at l
 - **Filters:** pick difficulties (Easy, Medium, Hard, Very Hard, PhD) and categories. Tapping a group name selects all of its subcategories.
 - **Answers switch:** shows or hides every answer at once.
 - **✓ Asked:** marks a question as read. It stays hidden on later visits until you press **Reset**.
-- **⚑ Report:** removes a question that's wrong or too obscure. Use **Reported questions** at the bottom to copy their IDs so they can be deleted from the bank for good.
+- **Skip:** sets a question aside without asking it. Find it under **Skipped** at the bottom of the page and bring it back whenever you like (Reset brings back all of them).
+- **⚑ Report:** choose **Fact needs updating** or **Remove question**, and add a comment if you like. The question disappears from your list. Open **Reported** at the bottom and press **Copy report** to get a list (ID, reason, comment) to send over so the bank can be fixed.
 - Questions marked "Correct as of …" are about things that can change (records, champions, counts).
 
-Asked and reported questions are saved in your browser only (`localStorage`), so each device keeps its own progress.
+Asked, skipped and reported questions are saved in your browser only (`localStorage`), so each device keeps its own progress.
 
 ## How it's built
 

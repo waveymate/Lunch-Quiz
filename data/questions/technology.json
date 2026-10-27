@@ -45,5 +45,14 @@
 {"id":"q0365","question":"Which car maker built the Prius, the first mass-produced hybrid car?","answer":"Toyota (first sold in Japan in 1997)","difficulty":"Easy","category":"Engineering"},
 {"id":"q0370","question":"Which German manufacturer first developed the Wankel rotary engine for cars, before Mazda made it famous?","answer":"NSU","difficulty":"Very Hard","category":"Engineering"},
 {"id":"q0419","question":"What is the difference between torque and horsepower?","answer":"Torque is the twisting force an engine produces; horsepower is the rate of doing work (hp = torque in lb-ft × RPM ÷ 5,252)","difficulty":"Hard","category":"Engineering"},
-{"id":"q0497","question":"What is the tallest building in the world?","answer":"The Burj Khalifa in Dubai (828 m)","difficulty":"Easy","category":"Engineering","asOf":"2026"}
+{"id":"q0497","question":"What is the tallest building in the world?","answer":"The Burj Khalifa in Dubai (828 m)","difficulty":"Easy","category":"Engineering","asOf":"2026"},
+{"id":"q1413","question":"Which unsolved computer science problem asks whether every problem whose answer can be checked quickly can also be solved quickly?","answer":"P versus NP","difficulty":"Very Hard","category":"Computing"},
+{"id":"q1414","question":"Who is often called the first computer programmer, for her notes on Charles Babbage's Analytical Engine?","answer":"Ada Lovelace","difficulty":"Medium","category":"Computing"},
+{"id":"q1415","question":"Which mathematician proposed the 'imitation game' as a test of machine intelligence in 1950?","answer":"Alan Turing","difficulty":"Easy","category":"Computing"},
+{"id":"q1416","question":"What is the time complexity of binary search on a sorted list?","answer":"O(log n)","difficulty":"Very Hard","category":"Computing"},
+{"id":"q1417","question":"Which public-key encryption system, named after its three inventors, relies on the difficulty of factoring large numbers?","answer":"RSA (Rivest, Shamir and Adleman)","difficulty":"Very Hard","category":"Computing"},
+{"id":"q1418","question":"What does it mean for a programming language or system to be 'Turing complete'?","answer":"Given enough time and memory, it can compute anything any computer can (it can simulate a Turing machine)","difficulty":"PhD","category":"Computing"},
+{"id":"q1419","question":"Which US research network, first used in 1969, became the foundation of the internet?","answer":"ARPANET","difficulty":"Hard","category":"Internet"},
+{"id":"q1420","question":"How many bits long is an IPv6 address?","answer":"128","difficulty":"Very Hard","category":"Internet"},
+{"id":"q1421","question":"What does 'HTML' stand for?","answer":"HyperText Markup Language","difficulty":"Easy","category":"Internet"}
 ]

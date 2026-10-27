@@ -25,5 +25,20 @@
 {"id":"q0328","question":"What does 'legato' mean in music?","answer":"Smoothly, with the notes connected and no gaps between them","difficulty":"Medium","category":"Music Theory"},
 {"id":"q0462","question":"What is a composition in which a theme is introduced by one voice and then imitated by others at different pitches?","answer":"A fugue","difficulty":"Hard","category":"Music Theory"},
 {"id":"q0466","question":"What does 'Op.' mean after the title of a classical work?","answer":"Opus: a catalogue number showing the order in which a composer's works were published","difficulty":"Medium","category":"Music Theory"},
-{"id":"q0470","question":"What is the basic difference between a major key and a minor key?","answer":"A major scale has a major third (bright sound); a minor scale has a flattened, minor third (darker sound)","difficulty":"Easy","category":"Music Theory"}
+{"id":"q0470","question":"What is the basic difference between a major key and a minor key?","answer":"A major scale has a major third (bright sound); a minor scale has a flattened, minor third (darker sound)","difficulty":"Easy","category":"Music Theory"},
+{"id":"q1453","question":"How many symphonies did Gustav Mahler complete?","answer":"Nine (he left a tenth unfinished)","difficulty":"Very Hard","category":"Composers"},
+{"id":"q1454","question":"Which composer wrote the four-opera cycle 'Der Ring des Nibelungen'?","answer":"Richard Wagner","difficulty":"Medium","category":"Operas"},
+{"id":"q1455","question":"Which Puccini opera is set in Nagasaki?","answer":"Madama Butterfly","difficulty":"Medium","category":"Operas"},
+{"id":"q1456","question":"From which opera does the aria 'Nessun dorma' come?","answer":"Turandot (by Puccini)","difficulty":"Medium","category":"Operas"},
+{"id":"q1457","question":"Who composed 'The Barber of Seville' (1816)?","answer":"Gioachino Rossini","difficulty":"Medium","category":"Operas"},
+{"id":"q1458","question":"Who composed 'Boléro' (1928)?","answer":"Maurice Ravel","difficulty":"Medium","category":"Composers"},
+{"id":"q1459","question":"Which composer's 'Symphonie fantastique' uses a recurring melody he called an 'idée fixe'?","answer":"Hector Berlioz","difficulty":"Very Hard","category":"Composers"},
+{"id":"q1460","question":"Which composer developed the twelve-tone technique?","answer":"Arnold Schoenberg","difficulty":"Very Hard","category":"Composers"},
+{"id":"q1461","question":"Which composer wrote '4′33″', in which the performers play nothing at all?","answer":"John Cage","difficulty":"Hard","category":"Composers"},
+{"id":"q1462","question":"What is the name of Mozart's final, unfinished choral work?","answer":"His Requiem in D minor","difficulty":"Hard","category":"Composers"},
+{"id":"q1463","question":"Which pianist-composer wrote the 'Hungarian Rhapsodies'?","answer":"Franz Liszt","difficulty":"Medium","category":"Composers"},
+{"id":"q1464","question":"How many preludes and fugues are in each book of Bach's 'The Well-Tempered Clavier'?","answer":"24: one in every major and minor key","difficulty":"PhD","category":"Composers"},
+{"id":"q1465","question":"Which musical interval was nicknamed 'the devil in music' (diabolus in musica)?","answer":"The tritone (an augmented fourth)","difficulty":"Very Hard","category":"Music Theory"},
+{"id":"q1466","question":"What does the instruction 'da capo' tell a musician to do?","answer":"Go back to the beginning","difficulty":"Hard","category":"Music Theory"},
+{"id":"q1467","question":"Which Italian violin virtuoso was rumoured to have sold his soul to the devil?","answer":"Niccolò Paganini","difficulty":"Hard","category":"Performers"}
 ]

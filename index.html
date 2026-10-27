@@ -51,16 +51,50 @@
   </main>
 
   <footer class="footer">
-    <button type="button" class="link" id="reportedBtn">Reported questions (0)</button>
+    <button type="button" class="link" id="skippedBtn">Skipped (0)</button>
+    <span class="muted" aria-hidden="true">·</span>
+    <button type="button" class="link" id="reportedBtn">Reported (0)</button>
   </footer>
+
+  <dialog id="reportDialog">
+    <form method="dialog" class="dialog-inner" id="reportForm">
+      <h2>Report question</h2>
+      <p class="muted" id="reportQuestion"></p>
+      <fieldset class="reasons">
+        <legend>What needs doing?</legend>
+        <label><input type="radio" name="reason" value="update" checked> Fact needs updating</label>
+        <label><input type="radio" name="reason" value="remove"> Remove question (wrong, too obscure, badly worded)</label>
+      </fieldset>
+      <label class="field">
+        <span>Comment (optional)</span>
+        <textarea name="comment" rows="3" placeholder="e.g. Saturn now has more moons, or the answer should be…"></textarea>
+      </label>
+      <div class="dialog-actions">
+        <button class="btn" value="cancel" formnovalidate>Cancel</button>
+        <button class="btn primary" value="report">Report</button>
+      </div>
+    </form>
+  </dialog>
+
+  <dialog id="skippedDialog">
+    <form method="dialog" class="dialog-inner">
+      <h2>Skipped questions</h2>
+      <p class="muted">Skipped questions stay out of the list until you bring them back or press Reset.</p>
+      <ul id="skippedList" class="reported-list skipped-list"></ul>
+      <div class="dialog-actions">
+        <button type="button" class="btn" id="restoreSkipped">Bring all back</button>
+        <button class="btn primary" value="close">Done</button>
+      </div>
+    </form>
+  </dialog>
 
   <dialog id="reportedDialog">
     <form method="dialog" class="dialog-inner">
       <h2>Reported questions</h2>
-      <p class="muted">These are hidden on this device. Copy the IDs and send them over to have them removed from the bank for good.</p>
+      <p class="muted">These are hidden on this device. Copy the report and send it over to have the questions fixed or removed from the bank.</p>
       <ul id="reportedList" class="reported-list"></ul>
       <div class="dialog-actions">
-        <button type="button" class="btn" id="copyReported">Copy IDs</button>
+        <button type="button" class="btn" id="copyReported">Copy report</button>
         <button type="button" class="btn" id="restoreReported">Restore all</button>
         <button class="btn primary" value="close">Done</button>
       </div>

@@ -6,8 +6,9 @@ Usage:
   python tools/quiz.py remove q0123 q0456    Delete questions (e.g. IDs copied from "Reported")
   python tools/quiz.py dated [--before 2026] List time-sensitive questions (those with "asOf")
 
-NEW.json is a JSON array of objects with: question, answer, difficulty, category,
-and optionally asOf ("2026" or "2026-10") for facts that can change.
+NEW.json is a JSON array of objects with: question, answer, difficulty, category
+(or the short keys q, a, d, c), and optionally asOf ("2026" or "2026-10") for
+facts that can change.
 """
 
 import json
@@ -21,6 +22,8 @@ DATA = ROOT / "data"
 QUESTIONS = DATA / "questions"
 
 REQUIRED = ("id", "question", "answer", "difficulty", "category")
+# Batch files for `add` may use these short keys to stay compact.
+SHORT_KEYS = {"q": "question", "a": "answer", "d": "difficulty", "c": "category"}
 ALLOWED = set(REQUIRED) | {"asOf"}
 ID_RE = re.compile(r"^q\d{4,}$")
 AS_OF_RE = re.compile(r"^\d{4}(-\d{2})?$")
@@ -157,6 +160,7 @@ def cmd_add(path):
     added, skipped, review = [], [], []
 
     for raw in incoming:
+        raw = {SHORT_KEYS.get(k, k): v for k, v in raw.items()}
         q = {k: raw[k] for k in ("question", "answer", "difficulty", "category", "asOf") if raw.get(k)}
         problem = None
         if not all(q.get(k) for k in ("question", "answer", "difficulty", "category")):

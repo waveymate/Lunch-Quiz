@@ -5,6 +5,7 @@
 
 const BATCH_SIZE = 20;
 const DIFFICULTY_HUES = { "Easy": 140, "Medium": 205, "Hard": 38, "Very Hard": 0, "PhD": 280 };
+const REPORT_REASONS = { update: "Fact update", remove: "Remove" };
 
 // localStorage can be missing or blocked (private mode), so every access is guarded.
 const store = {
@@ -21,6 +22,14 @@ const store = {
   },
 };
 
+// Reports used to be a plain list of IDs; upgrade those to { reason, comment } entries.
+function loadReports() {
+  const saved = store.get("lq.reports", null);
+  if (saved && typeof saved === "object") return new Map(Object.entries(saved));
+  const legacy = store.get("lq.reported", []);
+  return new Map(legacy.map((id) => [id, { reason: "remove", comment: "" }]));
+}
+
 const state = {
   difficulties: [],
   groups: [],
@@ -30,11 +39,13 @@ const state = {
   selectedDifficulties: new Set(store.get("lq.difficulties", [])),
   selectedCategories: new Set(store.get("lq.categories", [])),
   asked: new Set(store.get("lq.asked", [])),
-  reported: new Set(store.get("lq.reported", [])),
+  skipped: new Set(store.get("lq.skipped", [])),
+  reports: loadReports(),     // question id -> { reason, comment }
   showAnswers: store.get("lq.showAnswers", true),
   order: new Map(),           // question id -> random sort key for this visit
   pool: [],                   // filtered, shuffled questions for the current view
   rendered: 0,
+  reporting: null,            // { card, q, doneText } while the report dialog is open
 };
 
 const $ = (id) => document.getElementById(id);
@@ -51,11 +62,18 @@ const els = {
   answersToggle: $("answersToggle"),
   shuffleBtn: $("shuffleBtn"),
   resetBtn: $("resetBtn"),
+  skippedBtn: $("skippedBtn"),
+  skippedDialog: $("skippedDialog"),
+  skippedList: $("skippedList"),
+  restoreSkipped: $("restoreSkipped"),
   reportedBtn: $("reportedBtn"),
   reportedDialog: $("reportedDialog"),
   reportedList: $("reportedList"),
   copyReported: $("copyReported"),
   restoreReported: $("restoreReported"),
+  reportDialog: $("reportDialog"),
+  reportForm: $("reportForm"),
+  reportQuestion: $("reportQuestion"),
 };
 
 function el(tag, props = {}, children = []) {
@@ -74,6 +92,16 @@ function el(tag, props = {}, children = []) {
 function saveSelections() {
   store.set("lq.difficulties", [...state.selectedDifficulties]);
   store.set("lq.categories", [...state.selectedCategories]);
+}
+
+function saveProgress() {
+  store.set("lq.asked", [...state.asked]);
+  store.set("lq.skipped", [...state.skipped]);
+  store.set("lq.reports", Object.fromEntries(state.reports));
+}
+
+function isSetAside(id) {
+  return state.asked.has(id) || state.skipped.has(id) || state.reports.has(id);
 }
 
 // ---------- Data loading ----------
@@ -115,6 +143,11 @@ async function ensureLoaded(groups) {
   }));
 }
 
+// The Skipped and Reported lists can show questions from any group.
+function ensureAllLoaded() {
+  return ensureLoaded(state.groups);
+}
+
 // ---------- Pool & ordering ----------
 
 function sortKey(id) {
@@ -127,7 +160,7 @@ function buildPool() {
   const cats = state.selectedCategories;
   state.pool = neededGroups()
     .flatMap((g) => state.loaded.get(g.id) || [])
-    .filter((q) => !state.asked.has(q.id) && !state.reported.has(q.id))
+    .filter((q) => !isSetAside(q.id))
     .filter((q) => diffs.size === 0 || diffs.has(q.difficulty))
     .filter((q) => cats.size === 0 || cats.has(q.category))
     .sort((a, b) => sortKey(a.id) - sortKey(b.id));
@@ -170,8 +203,12 @@ function renderCard(q, index) {
     q.asOf ? el("p", { class: "as-of", text: `Correct as of ${q.asOf}` }) : null,
     el("div", { class: "card-actions" }, [
       el("button", {
-        type: "button", class: "btn report", title: "Remove this question (e.g. wrong or too obscure)",
-        text: "⚑ Report", onclick: () => markDone(card, q, "reported", doneText),
+        type: "button", class: "btn report", title: "Flag a fact to update, or a question to remove",
+        text: "⚑ Report", onclick: () => openReportForm(card, q, doneText),
+      }),
+      el("button", {
+        type: "button", class: "btn", title: "Skip for now (find it again under Skipped)",
+        text: "Skip", onclick: () => markDone(card, q, "skipped", doneText),
       }),
       el("button", {
         type: "button", class: "btn primary", text: "✓ Asked",
@@ -198,35 +235,60 @@ function renderMore() {
   const nothing = state.pool.length === 0;
   els.empty.hidden = !nothing;
   if (nothing) {
-    els.empty.textContent = state.asked.size > 0
-      ? "You've asked every question that matches these filters. Change the filters or press Reset."
+    els.empty.textContent = state.asked.size + state.skipped.size > 0
+      ? "You've been through every question that matches these filters. Change the filters, check Skipped, or press Reset."
       : "No questions match these filters yet.";
   }
 }
 
 function markDone(card, q, kind, doneText) {
-  const set = kind === "asked" ? state.asked : state.reported;
-  set.add(q.id);
-  store.set(`lq.${kind}`, [...set]);
-  doneText.textContent = kind === "asked" ? "Asked ✓" : "Reported and removed";
+  state[kind].add(q.id);
+  saveProgress();
+  doneText.textContent = kind === "asked" ? "Asked ✓" : "Skipped";
   card.classList.add("done");
   updateStats();
 }
 
 function undoDone(card, q) {
   state.asked.delete(q.id);
-  state.reported.delete(q.id);
-  store.set("lq.asked", [...state.asked]);
-  store.set("lq.reported", [...state.reported]);
+  state.skipped.delete(q.id);
+  state.reports.delete(q.id);
+  saveProgress();
   card.classList.remove("done");
   updateStats();
 }
 
 function updateStats() {
-  const doneHere = state.pool.filter((q) => state.asked.has(q.id) || state.reported.has(q.id)).length;
-  const left = state.pool.length - doneHere;
-  els.stats.textContent = `${left} to go · ${state.asked.size} asked`;
-  els.reportedBtn.textContent = `Reported questions (${state.reported.size})`;
+  const left = state.pool.filter((q) => !isSetAside(q.id)).length;
+  const parts = [`${left} to go`, `${state.asked.size} asked`];
+  if (state.skipped.size) parts.push(`${state.skipped.size} skipped`);
+  els.stats.textContent = parts.join(" · ");
+  els.skippedBtn.textContent = `Skipped (${state.skipped.size})`;
+  els.reportedBtn.textContent = `Reported (${state.reports.size})`;
+}
+
+// ---------- Report form ----------
+
+function openReportForm(card, q, doneText) {
+  state.reporting = { card, q, doneText };
+  els.reportForm.reset();
+  els.reportQuestion.textContent = q.question;
+  els.reportDialog.showModal();
+}
+
+// Handled on submit (not the dialog's close event) so the choice is read before the form resets.
+function onReportSubmit(event) {
+  const pending = state.reporting;
+  state.reporting = null;
+  if (!pending || event.submitter?.value !== "report") return;
+  const data = new FormData(els.reportForm);
+  const reason = data.get("reason") || "remove";
+  const comment = String(data.get("comment") || "").trim();
+  state.reports.set(pending.q.id, { reason, comment });
+  saveProgress();
+  pending.doneText.textContent = `Reported: ${REPORT_REASONS[reason]}`;
+  pending.card.classList.add("done");
+  updateStats();
 }
 
 // ---------- Filters ----------
@@ -286,14 +348,52 @@ function onFiltersChanged() {
   refresh();
 }
 
-// ---------- Reported dialog ----------
+// ---------- Skipped & Reported lists ----------
 
-function openReported() {
-  const ids = [...state.reported];
-  els.reportedList.replaceChildren(...(ids.length
+async function openSkipped() {
+  await ensureAllLoaded();
+  const ids = [...state.skipped];
+  els.skippedList.replaceChildren(...(ids.length
     ? ids.map((id) => {
         const q = state.byId.get(id);
-        return el("li", {}, [el("code", { text: id }), document.createTextNode(q ? ` ${q.question}` : "")]);
+        const item = el("li", {}, [
+          el("span", { text: q ? q.question : id }),
+          el("button", {
+            type: "button", class: "link", text: "Bring back",
+            onclick: () => {
+              state.skipped.delete(id);
+              saveProgress();
+              item.remove();
+              refresh();
+            },
+          }),
+        ]);
+        return item;
+      })
+    : [el("li", { text: "Nothing skipped." })]));
+  els.skippedDialog.showModal();
+}
+
+function reportLine(id) {
+  const report = state.reports.get(id);
+  const q = state.byId.get(id);
+  const comment = report.comment ? `: ${report.comment}` : "";
+  return `${id} [${REPORT_REASONS[report.reason] || report.reason}]${comment}${q ? ` (Q: ${q.question})` : ""}`;
+}
+
+async function openReported() {
+  await ensureAllLoaded();
+  const ids = [...state.reports.keys()];
+  els.reportedList.replaceChildren(...(ids.length
+    ? ids.map((id) => {
+        const report = state.reports.get(id);
+        const q = state.byId.get(id);
+        return el("li", {}, [
+          el("span", { class: "badge", style: `--h:${report.reason === "update" ? 205 : 0}`, text: REPORT_REASONS[report.reason] || report.reason }),
+          el("code", { text: ` ${id} ` }),
+          el("span", { text: q ? q.question : "" }),
+          report.comment ? el("span", { class: "report-comment", text: report.comment }) : null,
+        ]);
       })
     : [el("li", { text: "Nothing reported." })]));
   els.reportedDialog.showModal();
@@ -332,30 +432,41 @@ function wire() {
   });
 
   els.resetBtn.addEventListener("click", () => {
-    if (!confirm("Start fresh? Every question you've marked as asked will come back.")) return;
+    if (!confirm("Start fresh? Every question you've asked or skipped will come back. Reported questions stay hidden.")) return;
     state.asked.clear();
-    store.set("lq.asked", []);
+    state.skipped.clear();
+    saveProgress();
     state.order.clear();
     refresh();
     window.scrollTo({ top: 0 });
   });
 
+  els.reportForm.addEventListener("submit", onReportSubmit);
+
+  els.skippedBtn.addEventListener("click", openSkipped);
+  els.restoreSkipped.addEventListener("click", () => {
+    state.skipped.clear();
+    saveProgress();
+    els.skippedDialog.close();
+    refresh();
+  });
+
   els.reportedBtn.addEventListener("click", openReported);
 
   els.copyReported.addEventListener("click", async () => {
-    const text = [...state.reported].join(", ");
+    const text = [...state.reports.keys()].map(reportLine).join("\n");
     try {
       await navigator.clipboard.writeText(text);
       els.copyReported.textContent = "Copied";
     } catch {
-      prompt("Copy these IDs:", text);
+      prompt("Copy this report:", text);
     }
-    setTimeout(() => { els.copyReported.textContent = "Copy IDs"; }, 1500);
+    setTimeout(() => { els.copyReported.textContent = "Copy report"; }, 1500);
   });
 
   els.restoreReported.addEventListener("click", () => {
-    state.reported.clear();
-    store.set("lq.reported", []);
+    state.reports.clear();
+    saveProgress();
     els.reportedDialog.close();
     refresh();
   });
@@ -366,6 +477,7 @@ function wire() {
 }
 
 async function init() {
+  saveProgress(); // persists the upgraded report format straight away
   applyAnswersVisibility();
   wire();
   try {
