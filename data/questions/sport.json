@@ -124,5 +124,7 @@
 {"id":"q1528","question":"In ice hockey, where does a penalised player serve their time?","answer":"The penalty box (the 'sin bin')","difficulty":"Easy","category":"Ice Hockey"},
 {"id":"q1529","question":"Which country has won the most men's Olympic ice hockey gold medals?","answer":"Canada","difficulty":"Hard","category":"Ice Hockey"},
 {"id":"q1538","question":"What is the maximum number of clubs a golfer may carry in competition?","answer":"14","difficulty":"Hard","category":"Golf"},
-{"id":"q1539","question":"Which golfer won the 2019 Masters for his 15th major title?","answer":"Tiger Woods","difficulty":"Medium","category":"Golf"}
+{"id":"q1539","question":"Which golfer won the 2019 Masters for his 15th major title?","answer":"Tiger Woods","difficulty":"Medium","category":"Golf"},
+{"id":"q1551","question":"Which seven-event athletics competition combines running, jumping and throwing for women?","answer":"The heptathlon","difficulty":"Medium","category":"Athletics"},
+{"id":"q1552","question":"Which three races make up the US Triple Crown of horse racing?","answer":"The Kentucky Derby, the Preakness Stakes and the Belmont Stakes","difficulty":"Hard","category":"Horse Racing"}
 ]
