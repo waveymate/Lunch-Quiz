@@ -73,5 +73,7 @@
 {"id":"q1249","question":"What did Leibniz call the simple, indivisible substances he believed reality is made of?","answer":"Monads","difficulty":"PhD","category":"Philosophy"},
 {"id":"q1540","question":"Which Egyptian goddess, wife of Osiris, was famous for her powerful magic?","answer":"Isis","difficulty":"Easy","category":"Egyptian Mythology"},
 {"id":"q1541","question":"What is the Egyptian creature with a lion's body and a human head called?","answer":"A sphinx","difficulty":"Easy","category":"Egyptian Mythology"},
-{"id":"q1542","question":"Which Egyptian god, shown as a mummified king holding a crook and flail, ruled the underworld?","answer":"Osiris","difficulty":"Medium","category":"Egyptian Mythology"}
+{"id":"q1542","question":"Which Egyptian god, shown as a mummified king holding a crook and flail, ruled the underworld?","answer":"Osiris","difficulty":"Medium","category":"Egyptian Mythology"},
+{"id":"q1592","question":"Which hero of Japanese folklore was born from a giant peach and fought ogres with a dog, a monkey and a pheasant?","answer":"Momotarō ('Peach Boy')","difficulty":"Hard","category":"Japanese Mythology"},
+{"id":"q1593","question":"What are the traditional gateways at the entrance to Shinto shrines called?","answer":"Torii","difficulty":"Medium","category":"Japanese Mythology"}
 ]

@@ -59,5 +59,10 @@
 {"id":"q1095","question":"Which agave spirit, mostly made in Oaxaca, is known for its smoky flavour?","answer":"Mezcal","difficulty":"Medium","category":"Alcohol & Mixology"},
 {"id":"q1096","question":"In beer, what does 'IPA' stand for?","answer":"India Pale Ale","difficulty":"Easy","category":"Alcohol & Mixology"},
 {"id":"q1097","question":"Which yeast species is used to brew lager at cooler temperatures?","answer":"Saccharomyces pastorianus","difficulty":"PhD","category":"Alcohol & Mixology"},
-{"id":"q1098","question":"Sparkling wine can only be called Champagne if it comes from where?","answer":"The Champagne region of north-east France","difficulty":"Easy","category":"Alcohol & Mixology"}
+{"id":"q1098","question":"Sparkling wine can only be called Champagne if it comes from where?","answer":"The Champagne region of north-east France","difficulty":"Easy","category":"Alcohol & Mixology"},
+{"id":"q1587","question":"Which American chicken chain is famous for its waffle fries and for closing on Sundays?","answer":"Chick-fil-A","difficulty":"Medium","category":"Fast Food"},
+{"id":"q1588","question":"Which burger chain did James McLamore and David Edgerton take over and rename in Miami in 1954?","answer":"Burger King","difficulty":"Very Hard","category":"Fast Food"},
+{"id":"q1589","question":"Which country is the world's largest producer of coffee?","answer":"Brazil","difficulty":"Medium","category":"Drink"},
+{"id":"q1590","question":"What is the fizzy fermented tea drink made using a 'SCOBY' culture called?","answer":"Kombucha","difficulty":"Medium","category":"Drink"},
+{"id":"q1591","question":"Earl Grey tea is flavoured with oil from which citrus fruit?","answer":"Bergamot orange","difficulty":"Hard","category":"Drink"}
 ]

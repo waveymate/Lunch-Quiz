@@ -136,5 +136,18 @@
 {"id":"q1547","question":"In which Shakespeare play does the mischievous sprite Puck appear?","answer":"A Midsummer Night's Dream","difficulty":"Easy","category":"Shakespearean Plays"},
 {"id":"q1548","question":"In Shakespeare, which Roman leader is warned to 'Beware the Ides of March'?","answer":"Julius Caesar","difficulty":"Easy","category":"Shakespearean Plays"},
 {"id":"q1549","question":"Which art movement did Pablo Picasso and Georges Braque pioneer?","answer":"Cubism","difficulty":"Medium","category":"Art Movements"},
-{"id":"q1550","question":"Which art movement takes its name from Monet's painting 'Impression, Sunrise'?","answer":"Impressionism","difficulty":"Medium","category":"Art Movements"}
+{"id":"q1550","question":"Which art movement takes its name from Monet's painting 'Impression, Sunrise'?","answer":"Impressionism","difficulty":"Medium","category":"Art Movements"},
+{"id":"q1567","question":"Which Florence museum is home to Michelangelo's original statue of 'David'?","answer":"The Galleria dell'Accademia","difficulty":"Hard","category":"Museums"},
+{"id":"q1568","question":"Which London gallery of modern and contemporary art occupies a former power station?","answer":"Tate Modern","difficulty":"Medium","category":"Museums"},
+{"id":"q1569","question":"In which city is the Acropolis Museum?","answer":"Athens","difficulty":"Easy","category":"Museums"},
+{"id":"q1574","question":"Which Florentine goldsmith and sculptor made the bronze 'Perseus with the Head of Medusa'?","answer":"Benvenuto Cellini","difficulty":"Very Hard","category":"Sculptors"},
+{"id":"q1575","question":"Which French Impressionist, better known for paintings of ballet dancers, sculpted 'Little Dancer Aged Fourteen'?","answer":"Edgar Degas","difficulty":"Hard","category":"Sculptors"},
+{"id":"q1576","question":"What is an image made from small pieces of glass, stone or tile called?","answer":"A mosaic","difficulty":"Easy","category":"Art Techniques"},
+{"id":"q1577","question":"What is pointillism, the technique developed by Georges Seurat?","answer":"Painting with small dots of pure colour that blend together in the viewer's eye","difficulty":"Medium","category":"Art Techniques"},
+{"id":"q1578","question":"Which paint, made with egg yolk, was widely used before oil paint took over in the 15th century?","answer":"Egg tempera","difficulty":"Hard","category":"Art Techniques"},
+{"id":"q1579","question":"Which typeface, designed in Switzerland in 1957, was originally called Neue Haas Grotesk?","answer":"Helvetica","difficulty":"Hard","category":"Design"},
+{"id":"q1580","question":"In digital design, what does 'UX' stand for?","answer":"User experience","difficulty":"Easy","category":"Design"},
+{"id":"q1581","question":"Which American husband-and-wife designers created the famous 1956 moulded-plywood Lounge Chair and Ottoman?","answer":"Charles and Ray Eames","difficulty":"Very Hard","category":"Design"},
+{"id":"q1582","question":"In Aesop's fable 'The Fox and the Crow', what does the crow drop when the fox flatters it into singing?","answer":"A piece of cheese","difficulty":"Medium","category":"Fables"},
+{"id":"q1583","question":"In 'The Lion and the Mouse', how does the mouse repay the lion for sparing its life?","answer":"It gnaws through the hunter's net that has trapped the lion","difficulty":"Easy","category":"Fables"}
 ]

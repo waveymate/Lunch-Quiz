@@ -48,5 +48,8 @@
 {"id":"q1530","question":"Which Bizet opera features the 'Habanera' and the 'Toreador Song'?","answer":"Carmen","difficulty":"Easy","category":"Operas"},
 {"id":"q1531","question":"Which Mozart opera is set on the wedding day of the servants Figaro and Susanna?","answer":"The Marriage of Figaro","difficulty":"Medium","category":"Operas"},
 {"id":"q1532","question":"Which Verdi opera, set in ancient Egypt, premiered in Cairo in 1871?","answer":"Aida","difficulty":"Hard","category":"Operas"},
-{"id":"q1533","question":"What is the written text of an opera called?","answer":"The libretto","difficulty":"Medium","category":"Operas"}
+{"id":"q1533","question":"What is the written text of an opera called?","answer":"The libretto","difficulty":"Medium","category":"Operas"},
+{"id":"q1556","question":"Which Spanish guitarist did most to establish the classical guitar as a concert instrument?","answer":"Andrés Segovia","difficulty":"Very Hard","category":"Performers"},
+{"id":"q1557","question":"Which American conductor of the New York Philharmonic also composed the music for 'West Side Story'?","answer":"Leonard Bernstein","difficulty":"Medium","category":"Performers"},
+{"id":"q1558","question":"Which British cellist made the celebrated 1965 recording of Elgar's Cello Concerto?","answer":"Jacqueline du Pré","difficulty":"Very Hard","category":"Performers"}
 ]
