@@ -45,6 +45,8 @@ Each question looks like this:
 
 **Recent events / stale facts:** `python tools/quiz.py dated --before 2026` lists time-sensitive questions due a re-check.
 
+**Changing the app itself:** after editing `app.js` or `styles.css`, bump the `?v=` number on both links in `index.html` so browsers fetch the new files. Question files don't need this.
+
 ## Adding a category
 
 Add the name to a group's `categories` list in `data/categories.json`. To add a whole new group, add an entry with an `id`, `name`, `hue` (0–360 for its badge colour) and `categories`, plus an empty `data/questions/<id>.json` containing `[]`. The filter badges are built from this file, so no code changes are needed.

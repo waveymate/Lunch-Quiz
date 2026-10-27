@@ -107,7 +107,8 @@ function isSetAside(id) {
 // ---------- Data loading ----------
 
 async function loadCategories() {
-  const res = await fetch("data/categories.json");
+  // "no-cache" revalidates with the server, so newly added questions show up straight away.
+  const res = await fetch("data/categories.json", { cache: "no-cache" });
   if (!res.ok) throw new Error(`categories.json: ${res.status}`);
   const data = await res.json();
   state.difficulties = data.difficulties;
@@ -133,7 +134,7 @@ async function ensureLoaded(groups) {
   const missing = groups.filter((g) => !state.loaded.has(g.id));
   await Promise.all(missing.map(async (group) => {
     try {
-      const res = await fetch(`data/questions/${group.id}.json`);
+      const res = await fetch(`data/questions/${group.id}.json`, { cache: "no-cache" });
       const questions = res.ok ? await res.json() : [];
       state.loaded.set(group.id, questions);
       for (const q of questions) state.byId.set(q.id, q);
