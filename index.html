@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lunch Quiz</title>
+  <meta name="description" content="Shuffled quiz questions with answers, for reading out to a group.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🥪</text></svg>">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <h1>🥪 Lunch Quiz</h1>
+        <p class="stats" id="stats" aria-live="polite">Loading…</p>
+      </div>
+      <div class="controls">
+        <button type="button" class="btn" id="filtersBtn" aria-expanded="false" aria-controls="filters">Filters</button>
+        <label class="switch" title="Show or hide all answers">
+          <input type="checkbox" id="answersToggle" checked>
+          <span class="switch-track" aria-hidden="true"></span>
+          <span class="switch-label">Answers</span>
+        </label>
+        <button type="button" class="btn" id="shuffleBtn" title="Shuffle the order">Shuffle</button>
+        <button type="button" class="btn" id="resetBtn" title="Bring back every question you've asked">Reset</button>
+      </div>
+    </div>
+
+    <section class="filters" id="filters" hidden>
+      <div class="filter-block">
+        <div class="filter-head">
+          <h2>Difficulty</h2>
+        </div>
+        <div class="chips" id="difficultyChips"></div>
+      </div>
+      <div class="filter-block">
+        <div class="filter-head">
+          <h2>Categories</h2>
+          <button type="button" class="link" id="clearFilters">Clear all filters</button>
+        </div>
+        <div id="groupChips" class="groups"></div>
+      </div>
+    </section>
+  </header>
+
+  <main>
+    <ol class="cards" id="cards"></ol>
+    <div id="sentinel" aria-hidden="true"></div>
+    <p class="empty" id="empty" hidden></p>
+  </main>
+
+  <footer class="footer">
+    <button type="button" class="link" id="reportedBtn">Reported questions (0)</button>
+  </footer>
+
+  <dialog id="reportedDialog">
+    <form method="dialog" class="dialog-inner">
+      <h2>Reported questions</h2>
+      <p class="muted">These are hidden on this device. Copy the IDs and send them over to have them removed from the bank for good.</p>
+      <ul id="reportedList" class="reported-list"></ul>
+      <div class="dialog-actions">
+        <button type="button" class="btn" id="copyReported">Copy IDs</button>
+        <button type="button" class="btn" id="restoreReported">Restore all</button>
+        <button class="btn primary" value="close">Done</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>

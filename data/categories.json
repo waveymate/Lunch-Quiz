@@ -1,0 +1,71 @@
+{
+  "difficulties": ["Easy", "Medium", "Hard", "Very Hard", "PhD"],
+  "groups": [
+    {
+      "id": "history-geography",
+      "name": "History & Geography",
+      "hue": 28,
+      "categories": ["History", "Geography", "Countries", "Geology"]
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "hue": 195,
+      "categories": ["Physics", "Quantum Mechanics", "Chemistry", "Biology", "Anatomy", "Space & Astronomy"]
+    },
+    {
+      "id": "nature",
+      "name": "Nature",
+      "hue": 120,
+      "categories": ["Fauna", "Flora"]
+    },
+    {
+      "id": "technology",
+      "name": "Technology",
+      "hue": 220,
+      "categories": ["Computing", "Internet", "Engineering"]
+    },
+    {
+      "id": "entertainment",
+      "name": "Entertainment",
+      "hue": 330,
+      "categories": ["Movies", "TV Shows", "Cinematography", "Music", "Games", "Video Games"]
+    },
+    {
+      "id": "fandoms",
+      "name": "Nerd & Fandoms",
+      "hue": 265,
+      "categories": ["Lord of the Rings", "Harry Potter", "Game of Thrones", "The Witcher", "Star Wars", "Star Trek", "Marvel", "DC", "Manga & Anime"]
+    },
+    {
+      "id": "sport",
+      "name": "Sport",
+      "hue": 150,
+      "categories": ["Football", "F1", "Olympics", "Athletics", "Golf", "Ice Hockey", "Cricket", "Baseball", "Basketball", "Rugby", "Tennis", "Cycling", "Horse Racing", "Snooker"]
+    },
+    {
+      "id": "arts-literature",
+      "name": "Arts & Literature",
+      "hue": 0,
+      "categories": ["Literature & Books", "Shakespearean Plays", "Fables", "Paintings", "Sculptors", "Architects", "Art Movements", "Art Techniques", "Museums", "Design"]
+    },
+    {
+      "id": "classical-music",
+      "name": "Classical Music",
+      "hue": 45,
+      "categories": ["Composers", "Operas", "Performers", "Music Theory"]
+    },
+    {
+      "id": "philosophy-mythology",
+      "name": "Philosophy & Mythology",
+      "hue": 290,
+      "categories": ["Philosophy", "Greek Mythology", "Roman Mythology", "Norse Mythology", "Egyptian Mythology", "Japanese Mythology"]
+    },
+    {
+      "id": "food-drink",
+      "name": "Food & Drink",
+      "hue": 15,
+      "categories": ["Food", "Culinary Traditions", "Fast Food", "Drink", "Alcohol & Mixology"]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[
+{"id":"q0043","question":"Which ancient Greek philosopher wrote 'The Republic'?","answer":"Plato","difficulty":"Easy","category":"Philosophy"},
+{"id":"q0047","question":"Which philosopher wrote 'Thus Spoke Zarathustra'?","answer":"Friedrich Nietzsche","difficulty":"Medium","category":"Philosophy"},
+{"id":"q0147","question":"In which year was Immanuel Kant's 'Critique of Pure Reason' first published?","answer":"1781","difficulty":"Very Hard","category":"Philosophy"},
+{"id":"q0243","question":"Which existentialist philosopher wrote 'Being and Nothingness'?","answer":"Jean-Paul Sartre","difficulty":"Medium","category":"Philosophy"},
+{"id":"q0250","question":"Which thought experiment asks whether you would divert a runaway tram to kill one person instead of five?","answer":"The Trolley Problem (introduced by Philippa Foot in 1967)","difficulty":"Easy","category":"Philosophy"},
+{"id":"q0346","question":"Which ancient Chinese philosopher's teachings form the basis of Confucianism?","answer":"Confucius (Kong Fuzi, 551–479 BC)","difficulty":"Easy","category":"Philosophy"},
+{"id":"q0348","question":"What is Nietzsche's name for an ideal being who creates their own values?","answer":"The Übermensch ('Overman' or 'Superman')","difficulty":"Medium","category":"Philosophy"},
+{"id":"q0392","question":"'Existence precedes essence' is the central idea of which philosophy, associated with Sartre?","answer":"Existentialism","difficulty":"Medium","category":"Philosophy"},
+{"id":"q0482","question":"Who wrote 'The Prince', a Renaissance treatise on political power?","answer":"Niccolò Machiavelli (1513)","difficulty":"Easy","category":"Philosophy"},
+{"id":"q0496","question":"Which philosopher wrote 'The Social Contract' (1762)?","answer":"Jean-Jacques Rousseau","difficulty":"Medium","category":"Philosophy"},
+{"id":"q0500","question":"Which paradox asks whether a ship whose parts are all gradually replaced is still the same ship?","answer":"The Ship of Theseus","difficulty":"Medium","category":"Philosophy"},
+{"id":"q0144","question":"In Greek mythology, who is the god of the underworld?","answer":"Hades","difficulty":"Easy","category":"Greek Mythology"},
+{"id":"q0341","question":"In Greek mythology, what are the three goddesses of fate called?","answer":"The Moirai (the Fates): Clotho, Lachesis and Atropos","difficulty":"Hard","category":"Greek Mythology"},
+{"id":"q0400","question":"What are the two main collections of Norse myths, written down in Iceland in the 13th century?","answer":"The Prose Edda (by Snorri Sturluson) and the Poetic Edda","difficulty":"Hard","category":"Norse Mythology"}
+]
