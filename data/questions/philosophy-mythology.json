@@ -70,5 +70,8 @@
 {"id":"q1246","question":"Whose three-page 1963 paper challenged the definition of knowledge as 'justified true belief'?","answer":"Edmund Gettier","difficulty":"PhD","category":"Philosophy"},
 {"id":"q1247","question":"Which thought experiment by John Searle argues that a computer could follow rules for symbols without understanding them?","answer":"The Chinese Room","difficulty":"Very Hard","category":"Philosophy"},
 {"id":"q1248","question":"Which Athenian philosopher, Plato's teacher, wrote nothing down himself?","answer":"Socrates","difficulty":"Easy","category":"Philosophy"},
-{"id":"q1249","question":"What did Leibniz call the simple, indivisible substances he believed reality is made of?","answer":"Monads","difficulty":"PhD","category":"Philosophy"}
+{"id":"q1249","question":"What did Leibniz call the simple, indivisible substances he believed reality is made of?","answer":"Monads","difficulty":"PhD","category":"Philosophy"},
+{"id":"q1540","question":"Which Egyptian goddess, wife of Osiris, was famous for her powerful magic?","answer":"Isis","difficulty":"Easy","category":"Egyptian Mythology"},
+{"id":"q1541","question":"What is the Egyptian creature with a lion's body and a human head called?","answer":"A sphinx","difficulty":"Easy","category":"Egyptian Mythology"},
+{"id":"q1542","question":"Which Egyptian god, shown as a mummified king holding a crook and flail, ruled the underworld?","answer":"Osiris","difficulty":"Medium","category":"Egyptian Mythology"}
 ]

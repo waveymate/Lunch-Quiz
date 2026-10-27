@@ -101,5 +101,9 @@
 {"id":"q1188","question":"Which manga by Eiichiro Oda follows the pirate Monkey D. Luffy?","answer":"One Piece","difficulty":"Easy","category":"Manga & Anime"},
 {"id":"q1189","question":"In 'Death Note', what is the name of the shinigami who drops the notebook into the human world?","answer":"Ryuk","difficulty":"Hard","category":"Manga & Anime"},
 {"id":"q1190","question":"Which manga artist created 'Dragon Ball'?","answer":"Akira Toriyama","difficulty":"Medium","category":"Manga & Anime"},
-{"id":"q1191","question":"Which 1988 anime film, set in a post-apocalyptic Neo-Tokyo, shares its name with its director's manga?","answer":"Akira (by Katsuhiro Otomo)","difficulty":"Medium","category":"Manga & Anime"}
+{"id":"q1191","question":"Which 1988 anime film, set in a post-apocalyptic Neo-Tokyo, shares its name with its director's manga?","answer":"Akira (by Katsuhiro Otomo)","difficulty":"Medium","category":"Manga & Anime"},
+{"id":"q1534","question":"What is the Hulk's real name?","answer":"Bruce Banner","difficulty":"Easy","category":"Marvel"},
+{"id":"q1535","question":"Which telepathic mutant founded the X-Men and their school?","answer":"Professor Charles Xavier","difficulty":"Easy","category":"Marvel"},
+{"id":"q1536","question":"Which villain snaps his fingers to wipe out half of all life in 'Avengers: Infinity War'?","answer":"Thanos","difficulty":"Easy","category":"Marvel"},
+{"id":"q1537","question":"What is Black Panther's real name?","answer":"T'Challa","difficulty":"Medium","category":"Marvel"}
 ]

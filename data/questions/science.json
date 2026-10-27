@@ -79,5 +79,8 @@
 {"id":"q1375","question":"Which organ produces bile?","answer":"The liver (the gallbladder stores it)","difficulty":"Medium","category":"Anatomy"},
 {"id":"q1376","question":"Which part of the brain is essential for forming new long-term memories?","answer":"The hippocampus","difficulty":"Hard","category":"Anatomy"},
 {"id":"q1377","question":"What is the heart's natural pacemaker called?","answer":"The sinoatrial (SA) node","difficulty":"Very Hard","category":"Anatomy"},
-{"id":"q1378","question":"How many pairs of cranial nerves do humans have?","answer":"12","difficulty":"Very Hard","category":"Anatomy"}
+{"id":"q1378","question":"How many pairs of cranial nerves do humans have?","answer":"12","difficulty":"Very Hard","category":"Anatomy"},
+{"id":"q1543","question":"In Schrödinger's famous thought experiment, which animal is both alive and dead until observed?","answer":"A cat","difficulty":"Easy","category":"Quantum Mechanics"},
+{"id":"q1544","question":"What is a single particle (quantum) of light called?","answer":"A photon","difficulty":"Medium","category":"Quantum Mechanics"},
+{"id":"q1545","question":"Which experiment, sending light or particles through two narrow openings, shows they behave like waves?","answer":"The double-slit experiment","difficulty":"Medium","category":"Quantum Mechanics"}
 ]

@@ -40,5 +40,13 @@
 {"id":"q1464","question":"How many preludes and fugues are in each book of Bach's 'The Well-Tempered Clavier'?","answer":"24: one in every major and minor key","difficulty":"PhD","category":"Composers"},
 {"id":"q1465","question":"Which musical interval was nicknamed 'the devil in music' (diabolus in musica)?","answer":"The tritone (an augmented fourth)","difficulty":"Very Hard","category":"Music Theory"},
 {"id":"q1466","question":"What does the instruction 'da capo' tell a musician to do?","answer":"Go back to the beginning","difficulty":"Hard","category":"Music Theory"},
-{"id":"q1467","question":"Which Italian violin virtuoso was rumoured to have sold his soul to the devil?","answer":"Niccolò Paganini","difficulty":"Hard","category":"Performers"}
+{"id":"q1467","question":"Which Italian violin virtuoso was rumoured to have sold his soul to the devil?","answer":"Niccolò Paganini","difficulty":"Hard","category":"Performers"},
+{"id":"q1497","question":"Which Italian tenor performed as one of the Three Tenors with Plácido Domingo and José Carreras?","answer":"Luciano Pavarotti","difficulty":"Easy","category":"Performers"},
+{"id":"q1498","question":"Which Canadian pianist became famous for his 1955 recording of Bach's 'Goldberg Variations'?","answer":"Glenn Gould","difficulty":"Very Hard","category":"Performers"},
+{"id":"q1499","question":"Which soprano, born in New York to Greek parents, was nicknamed 'La Divina'?","answer":"Maria Callas","difficulty":"Hard","category":"Performers"},
+{"id":"q1500","question":"Which Australian soprano was nicknamed 'La Stupenda'?","answer":"Dame Joan Sutherland","difficulty":"Hard","category":"Performers"},
+{"id":"q1530","question":"Which Bizet opera features the 'Habanera' and the 'Toreador Song'?","answer":"Carmen","difficulty":"Easy","category":"Operas"},
+{"id":"q1531","question":"Which Mozart opera is set on the wedding day of the servants Figaro and Susanna?","answer":"The Marriage of Figaro","difficulty":"Medium","category":"Operas"},
+{"id":"q1532","question":"Which Verdi opera, set in ancient Egypt, premiered in Cairo in 1871?","answer":"Aida","difficulty":"Hard","category":"Operas"},
+{"id":"q1533","question":"What is the written text of an opera called?","answer":"The libretto","difficulty":"Medium","category":"Operas"}
 ]
