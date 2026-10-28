@@ -120,5 +120,19 @@
 {"id":"q2777","question":"Which bony structure protects the brain?","answer":"The skull (cranium)","difficulty":"Easy","category":"Anatomy"},
 {"id":"q2778","question":"Which heart valve sits between the left atrium and the left ventricle?","answer":"The mitral (bicuspid) valve","difficulty":"PhD","category":"Anatomy"},
 {"id":"q2779","question":"Which planet has the hottest surface in the solar system?","answer":"Venus","difficulty":"Medium","category":"Space & Astronomy"},
-{"id":"q2780","question":"Which dwarf planet is the largest object in the asteroid belt?","answer":"Ceres","difficulty":"Hard","category":"Space & Astronomy"}
+{"id":"q2780","question":"Which dwarf planet is the largest object in the asteroid belt?","answer":"Ceres","difficulty":"Hard","category":"Space & Astronomy"},
+{"id":"q2870","question":"What is the SI unit of energy?","answer":"The joule (J)","difficulty":"Easy","category":"Physics"},
+{"id":"q2871","question":"Which law states that the current through a conductor equals the voltage divided by the resistance?","answer":"Ohm's law","difficulty":"Hard","category":"Physics"},
+{"id":"q2872","question":"Which British physicist discovered the electron in 1897?","answer":"J. J. Thomson","difficulty":"Hard","category":"Physics"},
+{"id":"q2873","question":"Which 1922 experiment, firing silver atoms through a magnetic field, showed that spin is quantised?","answer":"The Stern–Gerlach experiment","difficulty":"PhD","category":"Quantum Mechanics"},
+{"id":"q2874","question":"Which French physicist proposed in 1924 that particles such as electrons also behave as waves?","answer":"Louis de Broglie","difficulty":"Very Hard","category":"Quantum Mechanics"},
+{"id":"q2875","question":"What is the lowest possible energy a quantum system can have, which remains even at absolute zero, called?","answer":"Zero-point energy","difficulty":"PhD","category":"Quantum Mechanics"},
+{"id":"q2876","question":"What is the chemical formula for ozone?","answer":"O₃","difficulty":"Hard","category":"Chemistry"},
+{"id":"q2877","question":"Which gas makes up about 21% of the air we breathe?","answer":"Oxygen","difficulty":"Medium","category":"Chemistry"},
+{"id":"q2878","question":"What is a substance that speeds up a chemical reaction without being used up called?","answer":"A catalyst","difficulty":"Medium","category":"Chemistry"},
+{"id":"q2879","question":"What is the largest cell in the human body?","answer":"The egg cell (ovum)","difficulty":"Hard","category":"Biology"},
+{"id":"q2880","question":"Which molecule carries the genetic instructions in almost all living things?","answer":"DNA (deoxyribonucleic acid)","difficulty":"Easy","category":"Biology"},
+{"id":"q2881","question":"What is an organism that makes its own food, for example from sunlight, called?","answer":"An autotroph","difficulty":"Very Hard","category":"Biology"},
+{"id":"q2882","question":"How many teeth does a typical adult human have, including wisdom teeth?","answer":"32","difficulty":"Medium","category":"Anatomy"},
+{"id":"q2883","question":"What lies at the centre of the Milky Way?","answer":"A supermassive black hole, Sagittarius A*","difficulty":"Very Hard","category":"Space & Astronomy"}
 ]

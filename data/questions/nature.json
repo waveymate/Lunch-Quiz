@@ -145,5 +145,13 @@
 {"id":"q2788","question":"What is a mix of fog and smoky air pollution called?","answer":"Smog","difficulty":"Easy","category":"Meteorology"},
 {"id":"q2789","question":"Which type of cloud forms a flat, featureless grey layer across the sky?","answer":"Stratus","difficulty":"Hard","category":"Meteorology"},
 {"id":"q2790","question":"What are unusually huge, unexpected waves far out at sea called?","answer":"Rogue waves","difficulty":"Hard","category":"Oceanography"},
-{"id":"q2791","question":"Which warm ocean current flows from the Gulf of Mexico up the US coast and across the Atlantic?","answer":"The Gulf Stream","difficulty":"Medium","category":"Oceanography"}
+{"id":"q2791","question":"Which warm ocean current flows from the Gulf of Mexico up the US coast and across the Atlantic?","answer":"The Gulf Stream","difficulty":"Medium","category":"Oceanography"},
+{"id":"q2884","question":"Which plant makes up almost all of a giant panda's diet?","answer":"Bamboo","difficulty":"Easy","category":"Flora"},
+{"id":"q2885","question":"What is a plant that lives for more than two years called?","answer":"A perennial","difficulty":"Medium","category":"Flora"},
+{"id":"q2886","question":"Which plant family includes roses, apples, cherries and strawberries?","answer":"Rosaceae (the rose family)","difficulty":"PhD","category":"Flora"},
+{"id":"q2887","question":"Which small beetle has red or orange wing cases with black spots?","answer":"The ladybird (ladybug)","difficulty":"Easy","category":"Insects"},
+{"id":"q2888","question":"What is the name of the famous Tyrannosaurus rex skeleton at Chicago's Field Museum?","answer":"Sue","difficulty":"Very Hard","category":"Dinosaurs"},
+{"id":"q2889","question":"Which Philippine volcano's 1991 eruption cooled global temperatures for about two years?","answer":"Mount Pinatubo","difficulty":"Hard","category":"Volcanoes"},
+{"id":"q2890","question":"What forms when water droplets freeze in layers as they're tossed around inside thunderclouds?","answer":"Hail","difficulty":"Medium","category":"Meteorology"},
+{"id":"q2891","question":"What is the pitch-dark layer of the ocean below about 1,000 m, where no sunlight reaches, often called?","answer":"The midnight (or aphotic) zone","difficulty":"Hard","category":"Oceanography"}
 ]

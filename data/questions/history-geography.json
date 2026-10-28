@@ -262,5 +262,16 @@
 {"id":"q2773","question":"Which strait, named after a Portuguese explorer, links the Atlantic and Pacific near South America's southern tip?","answer":"The Strait of Magellan","difficulty":"Hard","category":"Seas"},
 {"id":"q2774","question":"What is the weak, partly molten layer of the upper mantle on which tectonic plates move called?","answer":"The asthenosphere","difficulty":"PhD","category":"Geology"},
 {"id":"q2775","question":"Which hard, speckled igneous rock is popular for kitchen worktops?","answer":"Granite","difficulty":"Hard","category":"Geology"},
-{"id":"q2776","question":"What type of fault, like California's San Andreas, has two blocks sliding horizontally past each other?","answer":"A strike-slip (or transform) fault","difficulty":"Very Hard","category":"Geology"}
+{"id":"q2776","question":"What type of fault, like California's San Andreas, has two blocks sliding horizontally past each other?","answer":"A strike-slip (or transform) fault","difficulty":"Very Hard","category":"Geology"},
+{"id":"q2860","question":"What is the highest mountain in Africa?","answer":"Mount Kilimanjaro","difficulty":"Easy","category":"Geography"},
+{"id":"q2861","question":"What is the highest mountain in South America?","answer":"Aconcagua, in Argentina","difficulty":"Hard","category":"Geography"},
+{"id":"q2862","question":"Which desert covers much of southern Mongolia and northern China?","answer":"The Gobi Desert","difficulty":"Medium","category":"Geography"},
+{"id":"q2863","question":"Which is the least densely populated sovereign country in the world?","answer":"Mongolia","difficulty":"Very Hard","category":"Countries"},
+{"id":"q2864","question":"What is the capital of Peru?","answer":"Lima","difficulty":"Easy","category":"Capital Cities"},
+{"id":"q2865","question":"Which country's square flag shows a white cross on a red background?","answer":"Switzerland","difficulty":"Medium","category":"Flags"},
+{"id":"q2866","question":"What is the largest lake entirely within Europe, in north-west Russia?","answer":"Lake Ladoga","difficulty":"Very Hard","category":"Lakes"},
+{"id":"q2867","question":"What is the longest river in the United Kingdom?","answer":"The Severn","difficulty":"Medium","category":"Rivers"},
+{"id":"q2868","question":"Which sea is bordered by Sweden, Finland, Russia, Estonia, Latvia, Lithuania, Poland, Germany and Denmark?","answer":"The Baltic Sea","difficulty":"Hard","category":"Seas"},
+{"id":"q2869","question":"What is the method of working out a rock's age from the decay of radioactive elements called?","answer":"Radiometric dating","difficulty":"Hard","category":"Geology"},
+{"id":"q2958","question":"After Brazil, which nation covers the most land in South America?","answer":"Argentina","difficulty":"Medium","category":"Area"}
 ]

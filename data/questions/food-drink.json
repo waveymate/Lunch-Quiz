@@ -98,5 +98,15 @@
 {"id":"q2855","question":"Which French dish is beef slowly stewed in red Burgundy wine?","answer":"Bœuf bourguignon","difficulty":"Medium","category":"Culinary Traditions"},
 {"id":"q2856","question":"Which burrito chain was founded in Denver in 1993?","answer":"Chipotle Mexican Grill","difficulty":"Hard","category":"Fast Food"},
 {"id":"q2857","question":"What is the small long-handled pot used to brew Turkish coffee called?","answer":"A cezve (also called an ibrik)","difficulty":"PhD","category":"Drink"},
-{"id":"q2858","question":"Which blackcurrant liqueur is mixed with white wine to make a Kir?","answer":"Crème de cassis","difficulty":"Very Hard","category":"Alcohol & Mixology"}
+{"id":"q2858","question":"Which blackcurrant liqueur is mixed with white wine to make a Kir?","answer":"Crème de cassis","difficulty":"Very Hard","category":"Alcohol & Mixology"},
+{"id":"q2948","question":"The croissant is thought to have developed from which country's kipferl pastry?","answer":"Austria","difficulty":"PhD","category":"Food"},
+{"id":"q2949","question":"Apart from yogurt, what is the main ingredient of tzatziki?","answer":"Cucumber (with garlic)","difficulty":"Medium","category":"Food"},
+{"id":"q2950","question":"What is dim sum?","answer":"Small Cantonese dishes, such as steamed dumplings, traditionally served with tea","difficulty":"Medium","category":"Culinary Traditions"},
+{"id":"q2951","question":"What are the beautifully arranged Japanese New Year foods served in stacked boxes called?","answer":"Osechi-ryōri","difficulty":"PhD","category":"Culinary Traditions"},
+{"id":"q2952","question":"Which burger chain is famous for its 'Double-Double'?","answer":"In-N-Out Burger","difficulty":"Hard","category":"Fast Food"},
+{"id":"q2953","question":"What was the McDonald brothers' first restaurant, opened in 1940, called?","answer":"McDonald's Bar-B-Q","difficulty":"PhD","category":"Fast Food"},
+{"id":"q2954","question":"In which country is Darjeeling tea grown?","answer":"India (in West Bengal)","difficulty":"Easy","category":"Drink"},
+{"id":"q2955","question":"What is kvass?","answer":"A lightly fermented drink made from rye bread, popular in Eastern Europe","difficulty":"Very Hard","category":"Drink"},
+{"id":"q2956","question":"In which country was the gin-based drink Pimm's created?","answer":"England","difficulty":"Hard","category":"Alcohol & Mixology"},
+{"id":"q2957","question":"What gives a Bloody Mary cocktail its red colour?","answer":"Tomato juice","difficulty":"Easy","category":"Alcohol & Mixology"}
 ]

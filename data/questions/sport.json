@@ -271,5 +271,18 @@
 {"id":"q2827","question":"Which track-cycling event has riders follow a pacing motorbike before sprinting for the line?","answer":"The keirin","difficulty":"Very Hard","category":"Cycling"},
 {"id":"q2828","question":"In snooker, how many points is the brown ball worth?","answer":"Four","difficulty":"Medium","category":"Snooker"},
 {"id":"q2829","question":"Which English player, nicknamed 'The Nugget', won six world titles in the 1980s?","answer":"Steve Davis","difficulty":"Hard","category":"Snooker"},
-{"id":"q2859","question":"A successful drop goal earns a team how many points?","answer":"Three (in rugby union)","difficulty":"Medium","category":"Rugby"}
+{"id":"q2859","question":"A successful drop goal earns a team how many points?","answer":"Three (in rugby union)","difficulty":"Medium","category":"Rugby"},
+{"id":"q2909","question":"Which country co-hosted the 2026 FIFA World Cup with Canada and Mexico?","answer":"The United States","difficulty":"Easy","category":"Football"},
+{"id":"q2910","question":"Which British driver won the 2009 Formula 1 world title with Brawn GP?","answer":"Jenson Button","difficulty":"Medium","category":"F1"},
+{"id":"q2911","question":"Which American swimmer won seven gold medals at the 1972 Munich Olympics?","answer":"Mark Spitz","difficulty":"Hard","category":"Olympics"},
+{"id":"q2912","question":"Which British runner won both the 800 m and 1500 m at the Athens 2004 Olympics?","answer":"Dame Kelly Holmes","difficulty":"Hard","category":"Athletics"},
+{"id":"q2913","question":"Which American left-handed golfer is nicknamed 'Lefty'?","answer":"Phil Mickelson","difficulty":"Hard","category":"Golf"},
+{"id":"q2914","question":"What is the name of Edmonton's NHL team?","answer":"The Edmonton Oilers","difficulty":"Medium","category":"Ice Hockey"},
+{"id":"q2915","question":"In cricket, what is an over in which the bowler concedes no runs called?","answer":"A maiden (over)","difficulty":"Medium","category":"Cricket"},
+{"id":"q2916","question":"In which year did Boston's Fenway Park, the oldest Major League ballpark, open?","answer":"1912","difficulty":"PhD","category":"Baseball"},
+{"id":"q2917","question":"What is the nickname of Australia's men's national basketball team?","answer":"The Boomers","difficulty":"Very Hard","category":"Basketball"},
+{"id":"q2918","question":"Which country's national rugby team is nicknamed 'Los Pumas'?","answer":"Argentina","difficulty":"Medium","category":"Rugby"},
+{"id":"q2919","question":"Which player won a record nine Wimbledon women's singles titles?","answer":"Martina Navratilova","difficulty":"Hard","category":"Tennis"},
+{"id":"q2920","question":"Which bare-topped French mountain, often climbed in the Tour de France, is called the 'Giant of Provence'?","answer":"Mont Ventoux","difficulty":"Very Hard","category":"Cycling"},
+{"id":"q2959","question":"Potting the green adds how much to a snooker break?","answer":"Three points","difficulty":"Medium","category":"Snooker"}
 ]

@@ -128,5 +128,12 @@
 {"id":"q2799","question":"Which SpaceX rocket's first-stage boosters fly back and land themselves for reuse?","answer":"Falcon 9","difficulty":"Medium","category":"Space Technology"},
 {"id":"q2800","question":"What was the name of Apple's 1993 handheld personal digital assistant?","answer":"The Newton MessagePad","difficulty":"PhD","category":"Gadgets"},
 {"id":"q2801","question":"What does 'HDMI' stand for?","answer":"High-Definition Multimedia Interface","difficulty":"Hard","category":"Gadgets"},
-{"id":"q2802","question":"Which Apple tablet, launched in 2010, kick-started the modern tablet market?","answer":"The iPad","difficulty":"Easy","category":"Gadgets"}
+{"id":"q2802","question":"Which Apple tablet, launched in 2010, kick-started the modern tablet market?","answer":"The iPad","difficulty":"Easy","category":"Gadgets"},
+{"id":"q2892","question":"What is a website 'cookie'?","answer":"A small file a site saves in your browser to remember you or your settings","difficulty":"Medium","category":"Internet"},
+{"id":"q2893","question":"What does 'ISP' stand for?","answer":"Internet Service Provider","difficulty":"Medium","category":"Internet"},
+{"id":"q2894","question":"What was the name of the first web browser, written by Tim Berners-Lee in 1990?","answer":"WorldWideWeb (later renamed Nexus)","difficulty":"PhD","category":"Internet"},
+{"id":"q2895","question":"Which 55 km bridge-and-tunnel link, the world's longest sea crossing, opened in 2018?","answer":"The Hong Kong–Zhuhai–Macau Bridge","difficulty":"Very Hard","category":"Engineering"},
+{"id":"q2896","question":"Which OpenAI system creates images from text descriptions?","answer":"DALL·E","difficulty":"Hard","category":"Artificial Intelligence"},
+{"id":"q2897","question":"How many gold-coated hexagonal segments make up the James Webb Space Telescope's main mirror?","answer":"18","difficulty":"Hard","category":"Space Technology"},
+{"id":"q2898","question":"In which year was the first Apple Watch released?","answer":"2015","difficulty":"Hard","category":"Gadgets"}
 ]

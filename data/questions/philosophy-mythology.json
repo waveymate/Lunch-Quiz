@@ -121,5 +121,15 @@
 {"id":"q2850","question":"What were Rome's secretive festivals of the wine god, banned by the Senate in 186 BC, called?","answer":"The Bacchanalia","difficulty":"PhD","category":"Roman Mythology"},
 {"id":"q2851","question":"Which Norse goddess of love rides a chariot pulled by two cats?","answer":"Freyja","difficulty":"Hard","category":"Norse Mythology"},
 {"id":"q2852","question":"Which ram-headed Egyptian god was said to shape people on his potter's wheel?","answer":"Khnum","difficulty":"PhD","category":"Egyptian Mythology"},
-{"id":"q2853","question":"In Japanese folklore, the shape-shifting tanuki is based on which real animal?","answer":"The raccoon dog","difficulty":"Medium","category":"Japanese Mythology"}
+{"id":"q2853","question":"In Japanese folklore, the shape-shifting tanuki is based on which real animal?","answer":"The raccoon dog","difficulty":"Medium","category":"Japanese Mythology"},
+{"id":"q2938","question":"Who is the Greek goddess of the harvest and agriculture?","answer":"Demeter","difficulty":"Medium","category":"Greek Mythology"},
+{"id":"q2939","question":"Which figure from Greek myth flew too close to the Sun on wings of wax and feathers?","answer":"Icarus","difficulty":"Easy","category":"Greek Mythology"},
+{"id":"q2940","question":"Who is the Roman goddess of the dawn?","answer":"Aurora","difficulty":"Hard","category":"Roman Mythology"},
+{"id":"q2941","question":"What is the Roman name for Persephone, queen of the underworld?","answer":"Proserpina","difficulty":"Very Hard","category":"Roman Mythology"},
+{"id":"q2942","question":"Which Norse god of the sea, wind and wealth is the father of Freyr and Freyja?","answer":"Njörðr (Njord)","difficulty":"PhD","category":"Norse Mythology"},
+{"id":"q2943","question":"What is the name of Odin's spear, which never misses its target?","answer":"Gungnir","difficulty":"Hard","category":"Norse Mythology"},
+{"id":"q2944","question":"Which Egyptian sky goddess is shown arching her star-covered body over the earth?","answer":"Nut","difficulty":"Hard","category":"Egyptian Mythology"},
+{"id":"q2945","question":"What was the Eye of Horus a symbol of?","answer":"Protection, healing and royal power","difficulty":"Medium","category":"Egyptian Mythology"},
+{"id":"q2946","question":"What is the three-legged crow of Japanese mythology, a divine guide, called?","answer":"Yatagarasu","difficulty":"PhD","category":"Japanese Mythology"},
+{"id":"q2947","question":"In Japanese folklore, what are household objects that come to life after 100 years called?","answer":"Tsukumogami","difficulty":"PhD","category":"Japanese Mythology"}
 ]

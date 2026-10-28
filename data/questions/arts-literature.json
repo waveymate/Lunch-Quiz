@@ -271,5 +271,22 @@
 {"id":"q2845","question":"In which city is the Kunsthistorisches Museum?","answer":"Vienna","difficulty":"Very Hard","category":"Museums"},
 {"id":"q2846","question":"Which Italian company designed the Vespa scooter?","answer":"Piaggio","difficulty":"Very Hard","category":"Design"},
 {"id":"q2847","question":"Which language is widely used as a common tongue across East Africa?","answer":"Swahili (Kiswahili)","difficulty":"Medium","category":"Languages"},
-{"id":"q2848","question":"The 'mare' in 'nightmare' originally meant what in Old English?","answer":"An evil spirit believed to sit on sleepers' chests and cause bad dreams","difficulty":"PhD","category":"Etymology"}
+{"id":"q2848","question":"The 'mare' in 'nightmare' originally meant what in Old English?","answer":"An evil spirit believed to sit on sleepers' chests and cause bad dreams","difficulty":"PhD","category":"Etymology"},
+{"id":"q2921","question":"Which Shakespeare play opens with 'Now is the winter of our discontent'?","answer":"Richard III","difficulty":"Hard","category":"Shakespearean Plays"},
+{"id":"q2922","question":"Which Aesop fable is the source of the moral 'look before you leap'?","answer":"The Fox and the Goat","difficulty":"Very Hard","category":"Fables"},
+{"id":"q2923","question":"Who painted the 'Mona Lisa'?","answer":"Leonardo da Vinci","difficulty":"Easy","category":"Paintings"},
+{"id":"q2924","question":"Which British artist makes sculptures from natural materials such as stones, leaves and ice, as seen in 'Rivers and Tides'?","answer":"Andy Goldsworthy","difficulty":"Very Hard","category":"Sculptors"},
+{"id":"q2925","question":"Which British architect's firm designed 'The Gherkin' at 30 St Mary Axe in London?","answer":"Norman Foster (Foster + Partners)","difficulty":"Hard","category":"Architects"},
+{"id":"q2926","question":"Which 1950s London group of artists and critics is credited with launching the idea of 'Pop art'?","answer":"The Independent Group (the term is credited to its member Lawrence Alloway)","difficulty":"PhD","category":"Art Movements"},
+{"id":"q2927","question":"What is 'encaustic' painting?","answer":"Painting with hot, coloured beeswax","difficulty":"PhD","category":"Art Techniques"},
+{"id":"q2928","question":"Which Paris museum displays Monet's huge 'Water Lilies' murals in two oval rooms?","answer":"The Musée de l'Orangerie","difficulty":"Very Hard","category":"Museums"},
+{"id":"q2929","question":"Which Swedish company is famous for flat-pack furniture?","answer":"IKEA","difficulty":"Easy","category":"Design"},
+{"id":"q2930","question":"In design, what does 'UI' stand for?","answer":"User interface","difficulty":"Medium","category":"Design"},
+{"id":"q2931","question":"Which Danish designer created the 'Egg' chair in 1958?","answer":"Arne Jacobsen","difficulty":"PhD","category":"Design"},
+{"id":"q2932","question":"Which Celtic language is still spoken in Brittany, in north-west France?","answer":"Breton","difficulty":"Hard","category":"Languages"},
+{"id":"q2933","question":"How many national languages does Switzerland have?","answer":"Four: German, French, Italian and Romansh","difficulty":"Hard","category":"Languages"},
+{"id":"q2934","question":"In which ancient language were the Hindu Vedas composed?","answer":"Sanskrit","difficulty":"Hard","category":"Languages"},
+{"id":"q2935","question":"The German word 'kindergarten' literally means what?","answer":"'Children's garden'","difficulty":"Medium","category":"Etymology"},
+{"id":"q2936","question":"The word 'shampoo' comes from which language?","answer":"Hindi ('chāmpo', meaning to press or massage)","difficulty":"Very Hard","category":"Etymology"},
+{"id":"q2937","question":"The word 'astronaut' comes from Greek words meaning what?","answer":"'Star sailor'","difficulty":"Hard","category":"Etymology"}
 ]

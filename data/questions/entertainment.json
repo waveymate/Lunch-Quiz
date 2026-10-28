@@ -141,5 +141,15 @@
 {"id":"q2603","question":"Which company released the Famicom games console in Japan in 1983?","answer":"Nintendo (it became the NES abroad)","difficulty":"Hard","category":"Video Games"},
 {"id":"q2604","question":"Which 1993 id Software game popularised the first-person shooter?","answer":"Doom","difficulty":"Hard","category":"Video Games"},
 {"id":"q2803","question":"How is slow-motion footage usually created?","answer":"By filming at a higher frame rate than it's played back at","difficulty":"Hard","category":"Cinematography"},
-{"id":"q2804","question":"In editing, what is a 'jump cut'?","answer":"An abrupt cut between two shots of the same subject, making it seem to jump forward in time","difficulty":"Very Hard","category":"Cinematography"}
+{"id":"q2804","question":"In editing, what is a 'jump cut'?","answer":"An abrupt cut between two shots of the same subject, making it seem to jump forward in time","difficulty":"Very Hard","category":"Cinematography"},
+{"id":"q2899","question":"Which medical drama is set at Seattle Grace Hospital?","answer":"Grey's Anatomy","difficulty":"Easy","category":"TV Shows"},
+{"id":"q2900","question":"Which actress played Queen Elizabeth II in the first two seasons of 'The Crown'?","answer":"Claire Foy","difficulty":"Hard","category":"TV Shows"},
+{"id":"q2901","question":"Which 1980s TV series starred David Hasselhoff and a talking car called KITT?","answer":"Knight Rider","difficulty":"Medium","category":"TV Shows"},
+{"id":"q2902","question":"What is a shot taken from directly overhead, looking straight down, called?","answer":"A bird's-eye (or overhead) shot","difficulty":"Medium","category":"Cinematography"},
+{"id":"q2903","question":"In poker, what is the best possible hand?","answer":"A royal flush","difficulty":"Easy","category":"Games"},
+{"id":"q2904","question":"In contract bridge, how many cards is each player dealt?","answer":"13","difficulty":"Hard","category":"Games"},
+{"id":"q2905","question":"How many checkers does each player start with in backgammon?","answer":"15","difficulty":"PhD","category":"Games"},
+{"id":"q2906","question":"Which video game series stars the adventurer Lara Croft?","answer":"Tomb Raider","difficulty":"Easy","category":"Video Games"},
+{"id":"q2907","question":"Which 2020 Nintendo game had players build a new life on a deserted island?","answer":"Animal Crossing: New Horizons","difficulty":"Medium","category":"Video Games"},
+{"id":"q2908","question":"Which studio developed 'The Last of Us'?","answer":"Naughty Dog","difficulty":"Hard","category":"Video Games"}
 ]
