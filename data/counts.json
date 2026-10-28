@@ -1,5 +1,5 @@
 {
- "total": 1500,
+ "total": 1600,
  "counts": {
   "Alcohol & Mixology": {
    "Easy": 8,
@@ -84,10 +84,10 @@
    "PhD": 2
   },
   "Composers": {
-   "Easy": 4,
-   "Medium": 6,
-   "Very Hard": 5,
-   "Hard": 2,
+   "Easy": 5,
+   "Medium": 11,
+   "Very Hard": 8,
+   "Hard": 7,
    "PhD": 1
   },
   "Computing": {
@@ -122,9 +122,9 @@
    "Hard": 5
   },
   "DC": {
-   "Medium": 4,
-   "Easy": 8,
-   "Hard": 3,
+   "Medium": 5,
+   "Easy": 9,
+   "Hard": 4,
    "Very Hard": 2
   },
   "Design": {
@@ -132,6 +132,13 @@
    "Hard": 7,
    "Easy": 3,
    "Very Hard": 2
+  },
+  "Doctor Who": {
+   "Easy": 5,
+   "Medium": 8,
+   "Hard": 3,
+   "Very Hard": 1,
+   "PhD": 1
   },
   "Drink": {
    "Hard": 4,
@@ -211,8 +218,8 @@
   },
   "Game of Thrones": {
    "Easy": 6,
-   "Medium": 7,
-   "Hard": 5
+   "Medium": 9,
+   "Hard": 6
   },
   "Games": {
    "Easy": 5,
@@ -245,9 +252,9 @@
    "Very Hard": 1
   },
   "Harry Potter": {
-   "Easy": 7,
-   "Medium": 7,
-   "Hard": 2,
+   "Easy": 8,
+   "Medium": 8,
+   "Hard": 3,
    "Very Hard": 1
   },
   "History": {
@@ -298,20 +305,21 @@
   },
   "Lord of the Rings": {
    "Easy": 6,
-   "Medium": 7,
-   "Hard": 1,
-   "Very Hard": 2,
+   "Medium": 8,
+   "Hard": 2,
+   "Very Hard": 3,
    "PhD": 1
   },
   "Manga & Anime": {
-   "Medium": 7,
+   "Medium": 8,
    "Easy": 7,
-   "Hard": 3
+   "Hard": 4,
+   "Very Hard": 1
   },
   "Marvel": {
    "Easy": 10,
-   "Medium": 4,
-   "Hard": 1,
+   "Medium": 5,
+   "Hard": 3,
    "Very Hard": 2
   },
   "Meteorology": {
@@ -340,10 +348,11 @@
    "Very Hard": 2
   },
   "Music Theory": {
-   "Medium": 7,
-   "Easy": 4,
-   "Hard": 5,
-   "Very Hard": 1
+   "Medium": 12,
+   "Easy": 6,
+   "Hard": 9,
+   "Very Hard": 3,
+   "PhD": 1
   },
   "Norse Mythology": {
    "Hard": 4,
@@ -366,10 +375,11 @@
    "Very Hard": 1
   },
   "Operas": {
-   "Medium": 10,
-   "Easy": 3,
-   "Hard": 3,
-   "Very Hard": 1
+   "Medium": 11,
+   "Easy": 7,
+   "Hard": 7,
+   "Very Hard": 5,
+   "PhD": 1
   },
   "Paintings": {
    "Easy": 6,
@@ -378,10 +388,10 @@
    "Very Hard": 1
   },
   "Performers": {
-   "Easy": 2,
-   "Hard": 7,
-   "Very Hard": 5,
-   "Medium": 4
+   "Easy": 3,
+   "Hard": 12,
+   "Very Hard": 10,
+   "Medium": 6
   },
   "Philosophy": {
    "Easy": 8,
@@ -453,15 +463,16 @@
    "Hard": 2
   },
   "Star Trek": {
-   "Medium": 6,
-   "Easy": 6,
-   "Hard": 4,
+   "Medium": 7,
+   "Easy": 7,
+   "Hard": 5,
    "Very Hard": 1
   },
   "Star Wars": {
-   "Easy": 8,
-   "Medium": 8,
-   "Very Hard": 2
+   "Easy": 9,
+   "Medium": 9,
+   "Very Hard": 2,
+   "Hard": 1
   },
   "TV Shows": {
    "Easy": 8,
@@ -478,8 +489,8 @@
   "The Witcher": {
    "Medium": 8,
    "Easy": 5,
-   "Hard": 2,
-   "Very Hard": 2
+   "Hard": 3,
+   "Very Hard": 4
   },
   "Video Games": {
    "Easy": 8,
