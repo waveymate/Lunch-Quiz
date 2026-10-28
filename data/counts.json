@@ -1,5 +1,5 @@
 {
- "total": 1600,
+ "total": 2000,
  "counts": {
   "Alcohol & Mixology": {
    "Easy": 8,
@@ -122,10 +122,10 @@
    "Hard": 5
   },
   "DC": {
-   "Medium": 5,
-   "Easy": 9,
-   "Hard": 4,
-   "Very Hard": 2
+   "Medium": 19,
+   "Easy": 18,
+   "Hard": 9,
+   "Very Hard": 4
   },
   "Design": {
    "Medium": 5,
@@ -134,10 +134,10 @@
    "Very Hard": 2
   },
   "Doctor Who": {
-   "Easy": 5,
-   "Medium": 8,
-   "Hard": 3,
-   "Very Hard": 1,
+   "Easy": 9,
+   "Medium": 23,
+   "Hard": 13,
+   "Very Hard": 2,
    "PhD": 1
   },
   "Drink": {
@@ -217,9 +217,9 @@
    "Very Hard": 2
   },
   "Game of Thrones": {
-   "Easy": 6,
-   "Medium": 9,
-   "Hard": 6
+   "Easy": 13,
+   "Medium": 27,
+   "Hard": 11
   },
   "Games": {
    "Easy": 5,
@@ -252,10 +252,10 @@
    "Very Hard": 1
   },
   "Harry Potter": {
-   "Easy": 8,
-   "Medium": 8,
-   "Hard": 3,
-   "Very Hard": 1
+   "Easy": 33,
+   "Medium": 44,
+   "Hard": 17,
+   "Very Hard": 6
   },
   "History": {
    "Easy": 18,
@@ -304,23 +304,23 @@
    "PhD": 1
   },
   "Lord of the Rings": {
-   "Easy": 6,
-   "Medium": 8,
-   "Hard": 2,
-   "Very Hard": 3,
-   "PhD": 1
+   "Easy": 28,
+   "Medium": 35,
+   "Hard": 23,
+   "Very Hard": 11,
+   "PhD": 3
   },
   "Manga & Anime": {
-   "Medium": 8,
-   "Easy": 7,
-   "Hard": 4,
-   "Very Hard": 1
+   "Medium": 22,
+   "Easy": 15,
+   "Hard": 10,
+   "Very Hard": 3
   },
   "Marvel": {
-   "Easy": 10,
-   "Medium": 5,
-   "Hard": 3,
-   "Very Hard": 2
+   "Easy": 20,
+   "Medium": 19,
+   "Hard": 7,
+   "Very Hard": 4
   },
   "Meteorology": {
    "Medium": 7,
@@ -463,16 +463,17 @@
    "Hard": 2
   },
   "Star Trek": {
-   "Medium": 7,
-   "Easy": 7,
-   "Hard": 5,
-   "Very Hard": 1
+   "Medium": 21,
+   "Easy": 11,
+   "Hard": 12,
+   "Very Hard": 5,
+   "PhD": 1
   },
   "Star Wars": {
-   "Easy": 9,
-   "Medium": 9,
-   "Very Hard": 2,
-   "Hard": 1
+   "Easy": 19,
+   "Medium": 21,
+   "Very Hard": 4,
+   "Hard": 7
   },
   "TV Shows": {
    "Easy": 8,
@@ -487,10 +488,10 @@
    "Very Hard": 1
   },
   "The Witcher": {
-   "Medium": 8,
-   "Easy": 5,
-   "Hard": 3,
-   "Very Hard": 4
+   "Medium": 13,
+   "Easy": 8,
+   "Hard": 17,
+   "Very Hard": 12
   },
   "Video Games": {
    "Easy": 8,
