@@ -17,13 +17,13 @@
       "id": "nature",
       "name": "Nature",
       "hue": 120,
-      "categories": ["Fauna", "Flora", "Meteorology", "Oceanography"]
+      "categories": ["Fauna", "Flora", "Insects", "Dinosaurs", "Volcanoes", "Meteorology", "Oceanography"]
     },
     {
       "id": "technology",
       "name": "Technology",
       "hue": 220,
-      "categories": ["Computing", "Internet", "Engineering"]
+      "categories": ["Computing", "Internet", "Engineering", "Artificial Intelligence", "Space Technology", "Gadgets"]
     },
     {
       "id": "entertainment",

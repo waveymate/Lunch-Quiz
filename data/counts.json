@@ -1,5 +1,5 @@
 {
- "total": 2100,
+ "total": 2200,
  "counts": {
   "Alcohol & Mixology": {
    "Easy": 9,
@@ -39,6 +39,13 @@
    "Hard": 6,
    "Very Hard": 2,
    "PhD": 2
+  },
+  "Artificial Intelligence": {
+   "Easy": 5,
+   "Hard": 4,
+   "Medium": 3,
+   "Very Hard": 3,
+   "PhD": 3
   },
   "Athletics": {
    "Medium": 7,
@@ -93,9 +100,9 @@
    "PhD": 1
   },
   "Computing": {
-   "Easy": 11,
-   "Medium": 14,
-   "Hard": 4,
+   "Easy": 6,
+   "Medium": 13,
+   "Hard": 3,
    "Very Hard": 3,
    "PhD": 1
   },
@@ -135,6 +142,13 @@
    "Easy": 3,
    "Very Hard": 3
   },
+  "Dinosaurs": {
+   "Medium": 5,
+   "Easy": 2,
+   "Very Hard": 5,
+   "Hard": 5,
+   "PhD": 2
+  },
   "Doctor Who": {
    "Easy": 9,
    "Medium": 23,
@@ -156,7 +170,7 @@
   },
   "Engineering": {
    "Medium": 5,
-   "Easy": 7,
+   "Easy": 6,
    "Hard": 4,
    "Very Hard": 3
   },
@@ -220,6 +234,13 @@
    "Hard": 2,
    "Very Hard": 2
   },
+  "Gadgets": {
+   "Easy": 5,
+   "Hard": 6,
+   "Very Hard": 2,
+   "Medium": 3,
+   "PhD": 2
+  },
   "Game of Thrones": {
    "Easy": 13,
    "Medium": 27,
@@ -239,8 +260,8 @@
   },
   "Geology": {
    "Hard": 6,
-   "Very Hard": 2,
-   "Easy": 6,
+   "Easy": 5,
+   "Very Hard": 1,
    "Medium": 5,
    "PhD": 1
   },
@@ -275,6 +296,13 @@
    "Medium": 7,
    "Hard": 3,
    "Very Hard": 2
+  },
+  "Insects": {
+   "Easy": 3,
+   "Medium": 5,
+   "Hard": 6,
+   "Very Hard": 3,
+   "PhD": 2
   },
   "Internet": {
    "Easy": 9,
@@ -465,9 +493,16 @@
   },
   "Space & Astronomy": {
    "Medium": 8,
-   "Easy": 6,
+   "Easy": 5,
    "Very Hard": 4,
    "Hard": 2
+  },
+  "Space Technology": {
+   "Easy": 5,
+   "Medium": 4,
+   "Hard": 5,
+   "Very Hard": 3,
+   "PhD": 2
   },
   "Star Trek": {
    "Medium": 21,
@@ -505,6 +540,13 @@
    "Medium": 7,
    "Hard": 4,
    "Very Hard": 1
+  },
+  "Volcanoes": {
+   "Hard": 5,
+   "Very Hard": 3,
+   "Medium": 6,
+   "Easy": 3,
+   "PhD": 1
   }
  }
 }
