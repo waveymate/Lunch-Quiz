@@ -207,5 +207,14 @@
 {"id":"q3388","question":"What is rain that freezes as soon as it hits cold surfaces called?","answer":"Freezing rain","difficulty":"Hard","category":"Meteorology"},
 {"id":"q3389","question":"What is a bright spot of light beside the Sun, caused by ice crystals, commonly called?","answer":"A sundog (or parhelion)","difficulty":"Very Hard","category":"Meteorology"},
 {"id":"q3390","question":"What is a layer in the ocean where water density changes sharply with depth called?","answer":"A pycnocline","difficulty":"PhD","category":"Oceanography"},
-{"id":"q3391","question":"Which bathyscaphe made the first dive to the bottom of the Challenger Deep, in 1960?","answer":"The Trieste","difficulty":"PhD","category":"Oceanography"}
+{"id":"q3391","question":"Which bathyscaphe made the first dive to the bottom of the Challenger Deep, in 1960?","answer":"The Trieste","difficulty":"PhD","category":"Oceanography"},
+{"id":"q3485","question":"What is the largest land animal?","answer":"The African elephant","difficulty":"Easy","category":"Fauna"},
+{"id":"q3486","question":"Which part of a plant takes in water from the soil?","answer":"The roots","difficulty":"Easy","category":"Flora"},
+{"id":"q3487","question":"Which fruit has its seeds on the outside, each one technically a tiny fruit of its own?","answer":"The strawberry","difficulty":"PhD","category":"Flora"},
+{"id":"q3488","question":"Which tree forms 'Pando', a single clonal colony in Utah thought to be one of the oldest living things?","answer":"The quaking aspen","difficulty":"Very Hard","category":"Flora"},
+{"id":"q3489","question":"How many wings does a housefly have?","answer":"Two","difficulty":"Medium","category":"Insects"},
+{"id":"q3490","question":"What are the preserved remains or traces of ancient animals found in rock called?","answer":"Fossils","difficulty":"Easy","category":"Dinosaurs"},
+{"id":"q3491","question":"Which US island chain, including Maui and the Big Island, was formed by volcanoes?","answer":"Hawaii","difficulty":"Easy","category":"Volcanoes"},
+{"id":"q3492","question":"What is a violently rotating column of air that reaches down to the ground called?","answer":"A tornado","difficulty":"Easy","category":"Meteorology"},
+{"id":"q3493","question":"Which is the warmest of the world's oceans?","answer":"The Indian Ocean","difficulty":"Hard","category":"Oceanography"}
 ]

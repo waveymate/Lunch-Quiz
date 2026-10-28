@@ -143,5 +143,15 @@
 {"id":"q3456","question":"Parmigiano-Reggiano cheese comes from which Italian region?","answer":"Emilia-Romagna","difficulty":"Hard","category":"Culinary Traditions"},
 {"id":"q3457","question":"Outside the United States, which country has the most McDonald's restaurants?","answer":"China","difficulty":"PhD","category":"Fast Food","asOf":"2025"},
 {"id":"q3458","question":"What is traditional Spanish horchata made from?","answer":"Tiger nuts (chufa)","difficulty":"Very Hard","category":"Drink"},
-{"id":"q3459","question":"Which spirit, with cola and lime, makes a Cuba Libre?","answer":"Rum","difficulty":"Easy","category":"Alcohol & Mixology"}
+{"id":"q3459","question":"Which spirit, with cola and lime, makes a Cuba Libre?","answer":"Rum","difficulty":"Easy","category":"Alcohol & Mixology"},
+{"id":"q3549","question":"Which country does pizza come from?","answer":"Italy","difficulty":"Easy","category":"Food"},
+{"id":"q3550","question":"Which legume is the main ingredient of hummus?","answer":"Chickpeas","difficulty":"Easy","category":"Food"},
+{"id":"q3551","question":"What kind of pan is paella traditionally cooked in?","answer":"A wide, shallow, two-handled pan (a paellera)","difficulty":"Medium","category":"Culinary Traditions"},
+{"id":"q3552","question":"What is 'washoku', added to UNESCO's Intangible Cultural Heritage list in 2013?","answer":"Traditional Japanese cuisine and its food culture","difficulty":"PhD","category":"Culinary Traditions"},
+{"id":"q3553","question":"Which fast-food chain's logo is a pair of golden arches?","answer":"McDonald's","difficulty":"Easy","category":"Fast Food"},
+{"id":"q3554","question":"Which pizza chain is known for its red-roof logo?","answer":"Pizza Hut","difficulty":"Medium","category":"Fast Food"},
+{"id":"q3555","question":"Which country is the world's largest producer of cocoa beans?","answer":"Côte d'Ivoire (Ivory Coast)","difficulty":"Hard","category":"Drink"},
+{"id":"q3556","question":"What is a 'ristretto'?","answer":"A short, extra-concentrated espresso made with less water","difficulty":"Very Hard","category":"Drink"},
+{"id":"q3557","question":"Which fruit is wine traditionally made from?","answer":"Grapes","difficulty":"Easy","category":"Alcohol & Mixology"},
+{"id":"q3558","question":"At which Dublin brewery has Guinness been made since 1759?","answer":"St James's Gate","difficulty":"PhD","category":"Alcohol & Mixology"}
 ]

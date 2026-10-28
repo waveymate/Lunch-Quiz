@@ -371,5 +371,18 @@
 {"id":"q3442","question":"Which New York museum is famous for its spiralling ramp gallery?","answer":"The Solomon R. Guggenheim Museum","difficulty":"Medium","category":"Museums"},
 {"id":"q3443","question":"Which Italian city has the oldest museum devoted entirely to ancient Egypt?","answer":"Turin (the Museo Egizio)","difficulty":"PhD","category":"Museums"},
 {"id":"q3444","question":"Which poet coined the word 'pandemonium', as the capital of Hell in 'Paradise Lost'?","answer":"John Milton","difficulty":"PhD","category":"Etymology"},
-{"id":"q3445","question":"What does the Latin phrase 'et cetera' mean?","answer":"'And the rest'","difficulty":"Easy","category":"Etymology"}
+{"id":"q3445","question":"What does the Latin phrase 'et cetera' mean?","answer":"'And the rest'","difficulty":"Easy","category":"Etymology"},
+{"id":"q3527","question":"In which English town was Shakespeare born?","answer":"Stratford-upon-Avon","difficulty":"Medium","category":"Shakespearean Plays"},
+{"id":"q3528","question":"Which fairy-tale heroine loses a glass slipper at the ball?","answer":"Cinderella","difficulty":"Easy","category":"Fables"},
+{"id":"q3529","question":"Which Dutch painter famously cut off part of his own ear?","answer":"Vincent van Gogh","difficulty":"Medium","category":"Paintings"},
+{"id":"q3530","question":"What is Michelangelo's statue of David carved from?","answer":"Marble","difficulty":"Medium","category":"Sculptors"},
+{"id":"q3531","question":"Which architect designed New York's Art Deco Chrysler Building?","answer":"William Van Alen","difficulty":"PhD","category":"Architects"},
+{"id":"q3532","question":"Which Impressionist painted 'Luncheon of the Boating Party' (1881)?","answer":"Pierre-Auguste Renoir","difficulty":"Hard","category":"Art Movements"},
+{"id":"q3533","question":"In drawing, what does 'perspective' do?","answer":"Creates an illusion of depth and distance on a flat surface, for example using vanishing points","difficulty":"Medium","category":"Art Techniques"},
+{"id":"q3534","question":"Which London museum displays the Parthenon (Elgin) Marbles?","answer":"The British Museum","difficulty":"Hard","category":"Museums"},
+{"id":"q3535","question":"What are the three traditional primary colours in painting?","answer":"Red, yellow and blue","difficulty":"Easy","category":"Design"},
+{"id":"q3536","question":"Who designed the original curvy Coca-Cola 'contour' bottle in 1915?","answer":"Earl R. Dean, of the Root Glass Company","difficulty":"PhD","category":"Design"},
+{"id":"q3537","question":"How do you say 'thank you' in Japanese?","answer":"Arigatō","difficulty":"Medium","category":"Languages"},
+{"id":"q3538","question":"Which language has the most native speakers in Europe?","answer":"Russian","difficulty":"Hard","category":"Languages"},
+{"id":"q3539","question":"From which Aboriginal language does the word 'kangaroo' come?","answer":"Guugu Yimidhirr","difficulty":"PhD","category":"Etymology"}
 ]

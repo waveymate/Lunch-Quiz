@@ -180,5 +180,16 @@
 {"id":"q3315","question":"Which 1976 Atari arcade game was built with help from Steve Jobs and Steve Wozniak?","answer":"Breakout","difficulty":"PhD","category":"Video Games"},
 {"id":"q3316","question":"Which studio, founded by Will Wright, created 'The Sims'?","answer":"Maxis","difficulty":"Hard","category":"Video Games"},
 {"id":"q3400","question":"What is a 'crane shot'?","answer":"A shot taken from a camera mounted on a crane, letting it sweep up, down or over the scene","difficulty":"Hard","category":"Cinematography"},
-{"id":"q3401","question":"Which cinematographer filmed 'Lawrence of Arabia' (1962)?","answer":"Freddie Young","difficulty":"PhD","category":"Cinematography"}
+{"id":"q3401","question":"Which cinematographer filmed 'Lawrence of Arabia' (1962)?","answer":"Freddie Young","difficulty":"PhD","category":"Cinematography"},
+{"id":"q3504","question":"Which children's TV show features Big Bird and Elmo?","answer":"Sesame Street","difficulty":"Easy","category":"TV Shows"},
+{"id":"q3505","question":"Which period drama follows the aristocratic Crawley family and their servants?","answer":"Downton Abbey","difficulty":"Medium","category":"TV Shows"},
+{"id":"q3506","question":"Which US sitcom follows the Dunphy, Pritchett and Tucker-Pritchett families?","answer":"Modern Family","difficulty":"Medium","category":"TV Shows"},
+{"id":"q3507","question":"In film, what does 'CGI' stand for?","answer":"Computer-generated imagery","difficulty":"Medium","category":"Cinematography"},
+{"id":"q3508","question":"Which band was nicknamed 'the Fab Four'?","answer":"The Beatles","difficulty":"Easy","category":"Music"},
+{"id":"q3509","question":"Which singer is known as the 'King of Pop'?","answer":"Michael Jackson","difficulty":"Easy","category":"Music"},
+{"id":"q3510","question":"Which Jamaican reggae star sang 'No Woman, No Cry'?","answer":"Bob Marley","difficulty":"Medium","category":"Music"},
+{"id":"q3511","question":"In which board game do players try to win by putting the enemy king in checkmate?","answer":"Chess","difficulty":"Easy","category":"Games"},
+{"id":"q3512","question":"In contract bridge, which is the highest-ranking suit?","answer":"Spades (only no-trumps ranks higher)","difficulty":"Very Hard","category":"Games"},
+{"id":"q3513","question":"Which company publishes the 'Call of Duty' series?","answer":"Activision","difficulty":"Hard","category":"Video Games"},
+{"id":"q3514","question":"Which massive online game, set in the world of Azeroth, launched in 2004?","answer":"World of Warcraft","difficulty":"Hard","category":"Video Games"}
 ]

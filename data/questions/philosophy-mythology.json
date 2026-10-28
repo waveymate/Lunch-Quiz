@@ -175,5 +175,14 @@
 {"id":"q3451","question":"Which Roman goddess personified the city of Rome itself?","answer":"Roma (Dea Roma)","difficulty":"PhD","category":"Roman Mythology"},
 {"id":"q3452","question":"Which wolf chases and finally swallows the Sun at Ragnarök?","answer":"Sköll","difficulty":"PhD","category":"Norse Mythology"},
 {"id":"q3453","question":"Which Egyptian goddess, often shown with cow horns and a sun disc, was linked with love, music and joy?","answer":"Hathor","difficulty":"Very Hard","category":"Egyptian Mythology"},
-{"id":"q3454","question":"Which Japanese yōkai is an old paper umbrella that comes to life, with one eye and one leg?","answer":"The kasa-obake (karakasa-obake)","difficulty":"PhD","category":"Japanese Mythology"}
+{"id":"q3454","question":"Which Japanese yōkai is an old paper umbrella that comes to life, with one eye and one leg?","answer":"The kasa-obake (karakasa-obake)","difficulty":"PhD","category":"Japanese Mythology"},
+{"id":"q3540","question":"What is David Hume's 'is–ought problem'?","answer":"You can't logically derive what ought to be from statements about what is","difficulty":"PhD","category":"Philosophy"},
+{"id":"q3541","question":"Which Greek hero took ten years to sail home after the Trojan War?","answer":"Odysseus","difficulty":"Easy","category":"Greek Mythology"},
+{"id":"q3542","question":"Which Roman god of fire gave his name to the word 'volcano'?","answer":"Vulcan","difficulty":"Hard","category":"Roman Mythology"},
+{"id":"q3543","question":"Which day of the week is named after Odin (Woden)?","answer":"Wednesday","difficulty":"Medium","category":"Norse Mythology"},
+{"id":"q3544","question":"Which giant wolf did the gods bind with the magical ribbon Gleipnir?","answer":"Fenrir","difficulty":"Hard","category":"Norse Mythology"},
+{"id":"q3545","question":"What were the kings of ancient Egypt called?","answer":"Pharaohs","difficulty":"Easy","category":"Egyptian Mythology"},
+{"id":"q3546","question":"What were the boats buried beside pharaohs, such as Khufu's, for the journey across the sky with Ra, called?","answer":"Solar barques (solar boats)","difficulty":"PhD","category":"Egyptian Mythology"},
+{"id":"q3547","question":"Which sacred volcano is Japan's highest mountain?","answer":"Mount Fuji","difficulty":"Medium","category":"Japanese Mythology"},
+{"id":"q3548","question":"What is the name of the eight-headed, eight-tailed serpent slain by Susanoo?","answer":"Yamata no Orochi","difficulty":"Very Hard","category":"Japanese Mythology"}
 ]

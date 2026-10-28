@@ -388,5 +388,18 @@
 {"id":"q3424","question":"What is a velodrome?","answer":"A banked oval track (or arena) built for track cycling","difficulty":"Medium","category":"Cycling"},
 {"id":"q3425","question":"Which Italian climber won both the Giro d'Italia and the Tour de France in 1998?","answer":"Marco Pantani","difficulty":"Very Hard","category":"Cycling"},
 {"id":"q3426","question":"Which Scottish snooker player is nicknamed 'the Wizard of Wishaw'?","answer":"John Higgins","difficulty":"PhD","category":"Snooker"},
-{"id":"q3427","question":"Using a free ball, what is the highest possible break in snooker?","answer":"155","difficulty":"PhD","category":"Snooker"}
+{"id":"q3427","question":"Using a free ball, what is the highest possible break in snooker?","answer":"155","difficulty":"PhD","category":"Snooker"},
+{"id":"q3515","question":"How long is a standard football match, not counting stoppage time?","answer":"90 minutes","difficulty":"Easy","category":"Football"},
+{"id":"q3516","question":"In which country's Grand Prix do drivers race around Albert Park?","answer":"Australia (in Melbourne)","difficulty":"Easy","category":"F1"},
+{"id":"q3517","question":"Why were the equestrian events of the 1956 Melbourne Olympics held in Stockholm?","answer":"Australia's strict quarantine rules wouldn't allow the foreign horses in","difficulty":"Very Hard","category":"Olympics"},
+{"id":"q3518","question":"In an Olympic throwing final, how many attempts in total do the top eight athletes get?","answer":"Six","difficulty":"Hard","category":"Athletics"},
+{"id":"q3519","question":"In golf, what is the area where you hit your first shot on each hole called?","answer":"The tee (teeing ground)","difficulty":"Medium","category":"Golf"},
+{"id":"q3520","question":"In which country did modern ice hockey develop?","answer":"Canada","difficulty":"Medium","category":"Ice Hockey"},
+{"id":"q3521","question":"Which country won the first men's T20 World Cup, in 2007?","answer":"India","difficulty":"Hard","category":"Cricket"},
+{"id":"q3522","question":"In baseball, what is a 'perfect game'?","answer":"A game in which no batter on the opposing team reaches base at all","difficulty":"Hard","category":"Baseball"},
+{"id":"q3523","question":"Which basketball legend is nicknamed 'Air'?","answer":"Michael Jordan","difficulty":"Medium","category":"Basketball"},
+{"id":"q3524","question":"What colour must players almost entirely wear at Wimbledon?","answer":"White","difficulty":"Medium","category":"Tennis"},
+{"id":"q3525","question":"Riders from which country have won the Tour de France the most times?","answer":"France","difficulty":"Hard","category":"Cycling"},
+{"id":"q3526","question":"Who won 'Pot Black', the first televised snooker tournament, in 1969?","answer":"Ray Reardon","difficulty":"PhD","category":"Snooker"},
+{"id":"q3559","question":"Which nation's women lifted rugby union's inaugural women's world title in Wales in 1991?","answer":"The United States","difficulty":"Very Hard","category":"Rugby"}
 ]

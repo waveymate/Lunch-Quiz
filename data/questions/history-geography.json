@@ -343,5 +343,16 @@
 {"id":"q3372","question":"Which sea lies between Vietnam and the Philippines?","answer":"The South China Sea","difficulty":"Medium","category":"Seas"},
 {"id":"q3373","question":"Which stretch of water separates Sicily from Tunisia?","answer":"The Strait of Sicily (Sicilian Channel)","difficulty":"PhD","category":"Seas"},
 {"id":"q3374","question":"In a cave, which hang down from the ceiling: stalactites or stalagmites?","answer":"Stalactites","difficulty":"Easy","category":"Geology"},
-{"id":"q3375","question":"Which mineral has a hardness of 7 on the Mohs scale?","answer":"Quartz","difficulty":"Very Hard","category":"Geology"}
+{"id":"q3375","question":"Which mineral has a hardness of 7 on the Mohs scale?","answer":"Quartz","difficulty":"Very Hard","category":"Geology"},
+{"id":"q3460","question":"What is the largest continent?","answer":"Asia","difficulty":"Easy","category":"Geography"},
+{"id":"q3461","question":"Which country contains most of the Kalahari Desert?","answer":"Botswana","difficulty":"Very Hard","category":"Geography"},
+{"id":"q3462","question":"Mount Everest sits on the border of which two countries?","answer":"Nepal and China (Tibet)","difficulty":"Medium","category":"Geography"},
+{"id":"q3463","question":"In which country is the Eiffel Tower?","answer":"France","difficulty":"Easy","category":"Countries"},
+{"id":"q3464","question":"What is the capital of Japan?","answer":"Tokyo","difficulty":"Easy","category":"Capital Cities"},
+{"id":"q3465","question":"Which is bigger by total area: Canada or the United States?","answer":"Canada (just slightly)","difficulty":"Medium","category":"Area"},
+{"id":"q3466","question":"Which country's flag is a yellow star on a red background?","answer":"Vietnam","difficulty":"Hard","category":"Flags"},
+{"id":"q3467","question":"Which of the Great Lakes does Chicago sit on?","answer":"Lake Michigan","difficulty":"Medium","category":"Lakes"},
+{"id":"q3468","question":"Which river flows through Washington, D.C.?","answer":"The Potomac","difficulty":"Very Hard","category":"Rivers"},
+{"id":"q3469","question":"Which sea lies between the Arabian Peninsula and India?","answer":"The Arabian Sea","difficulty":"Hard","category":"Seas"},
+{"id":"q3470","question":"What is the rigid outer shell of the Earth, made of the crust and upper mantle, called?","answer":"The lithosphere","difficulty":"Hard","category":"Geology"}
 ]

@@ -176,5 +176,15 @@
 {"id":"q3396","question":"Which Space Shuttle was the first to fly into space, in 1981?","answer":"Columbia","difficulty":"Hard","category":"Space Technology"},
 {"id":"q3397","question":"Which Soviet probe sent back the first photos of the far side of the Moon, in 1959?","answer":"Luna 3","difficulty":"PhD","category":"Space Technology"},
 {"id":"q3398","question":"Which Nintendo handheld console of 2004 had two screens?","answer":"The Nintendo DS","difficulty":"Medium","category":"Gadgets"},
-{"id":"q3399","question":"What does 'QR' stand for in 'QR code'?","answer":"Quick Response","difficulty":"Hard","category":"Gadgets"}
+{"id":"q3399","question":"What does 'QR' stand for in 'QR code'?","answer":"Quick Response","difficulty":"Hard","category":"Gadgets"},
+{"id":"q3494","question":"In web addresses, what does 'www' stand for?","answer":"World Wide Web","difficulty":"Easy","category":"Computing"},
+{"id":"q3495","question":"Which company makes the Windows operating system?","answer":"Microsoft","difficulty":"Easy","category":"Computing"},
+{"id":"q3496","question":"What is software whose source code anyone can freely view and change called?","answer":"Open-source software","difficulty":"Medium","category":"Computing"},
+{"id":"q3497","question":"What does 'the cloud' mean in 'cloud storage'?","answer":"Remote servers that store your data and are reached over the internet","difficulty":"Medium","category":"Internet"},
+{"id":"q3498","question":"What is a 'DDoS' attack?","answer":"Flooding a website with traffic from many computers to knock it offline","difficulty":"Hard","category":"Internet"},
+{"id":"q3499","question":"What does 'CDN' stand for?","answer":"Content Delivery Network","difficulty":"Very Hard","category":"Internet"},
+{"id":"q3500","question":"The bell known as Big Ben hangs in which tower?","answer":"The Elizabeth Tower, at the Palace of Westminster","difficulty":"Hard","category":"Engineering"},
+{"id":"q3501","question":"In AI, what is 'training data'?","answer":"The examples a model learns from","difficulty":"Medium","category":"Artificial Intelligence"},
+{"id":"q3502","question":"Which country was the first to land people on the Moon?","answer":"The United States","difficulty":"Easy","category":"Space Technology"},
+{"id":"q3503","question":"What is the minimum number of GPS satellites a receiver needs to fix a 3D position?","answer":"Four","difficulty":"Hard","category":"Gadgets"}
 ]

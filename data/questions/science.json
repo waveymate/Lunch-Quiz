@@ -174,5 +174,19 @@
 {"id":"q3376","question":"Which organs filter the blood to make urine?","answer":"The kidneys","difficulty":"Easy","category":"Anatomy"},
 {"id":"q3377","question":"What is the bundle of nerve roots at the base of the spinal cord, named after a horse's tail, called?","answer":"The cauda equina","difficulty":"PhD","category":"Anatomy"},
 {"id":"q3378","question":"Charon is the largest moon of which world?","answer":"Pluto","difficulty":"Hard","category":"Space & Astronomy"},
-{"id":"q3379","question":"Which famous comet returns to the inner solar system roughly every 76 years?","answer":"Halley's Comet","difficulty":"Medium","category":"Space & Astronomy"}
+{"id":"q3379","question":"Which famous comet returns to the inner solar system roughly every 76 years?","answer":"Halley's Comet","difficulty":"Medium","category":"Space & Astronomy"},
+{"id":"q3471","question":"Which force pulls objects towards the ground?","answer":"Gravity","difficulty":"Easy","category":"Physics"},
+{"id":"q3472","question":"Which SI base unit measures luminous intensity?","answer":"The candela","difficulty":"PhD","category":"Physics"},
+{"id":"q3473","question":"What is the force that keeps an object moving in a circle, pointing towards the centre, called?","answer":"Centripetal force","difficulty":"Hard","category":"Physics"},
+{"id":"q3474","question":"What does the Latin word 'quantum' literally mean?","answer":"'How much'","difficulty":"Hard","category":"Quantum Mechanics"},
+{"id":"q3475","question":"Which particle is made of two up quarks and one down quark?","answer":"The proton","difficulty":"Hard","category":"Quantum Mechanics"},
+{"id":"q3476","question":"What is the intrinsic angular momentum of a particle such as an electron called?","answer":"Spin","difficulty":"Very Hard","category":"Quantum Mechanics"},
+{"id":"q3477","question":"What is the chemical symbol for oxygen?","answer":"O","difficulty":"Easy","category":"Chemistry"},
+{"id":"q3478","question":"Which gas fizzes up when you mix vinegar and baking soda?","answer":"Carbon dioxide","difficulty":"Medium","category":"Chemistry"},
+{"id":"q3479","question":"Roughly what is the pH of human stomach acid?","answer":"About 1.5 to 3.5 (strongly acidic)","difficulty":"Hard","category":"Chemistry"},
+{"id":"q3480","question":"What do bees collect from flowers to make honey?","answer":"Nectar","difficulty":"Easy","category":"Biology"},
+{"id":"q3481","question":"What is the jelly-like fluid that fills a cell called?","answer":"Cytoplasm","difficulty":"Hard","category":"Biology"},
+{"id":"q3482","question":"What is the two-part 'genus and species' naming system for living things, devised by Linnaeus, called?","answer":"Binomial nomenclature","difficulty":"Hard","category":"Biology"},
+{"id":"q3483","question":"How many lungs does a human have?","answer":"Two","difficulty":"Easy","category":"Anatomy"},
+{"id":"q3484","question":"Which planet is closest to the Sun?","answer":"Mercury","difficulty":"Easy","category":"Space & Astronomy"}
 ]
