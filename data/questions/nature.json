@@ -73,5 +73,10 @@
 {"id":"q1720","question":"Which ocean is the saltiest?","answer":"The Atlantic Ocean","difficulty":"Hard","category":"Oceanography"},
 {"id":"q1721","question":"What is the undersea mountain range running down the middle of the Atlantic Ocean called?","answer":"The Mid-Atlantic Ridge","difficulty":"Medium","category":"Oceanography"},
 {"id":"q1722","question":"What is the deepest zone of the ocean, below about 6,000 m and mostly in trenches, called?","answer":"The hadal zone","difficulty":"PhD","category":"Oceanography"},
-{"id":"q1723","question":"Which British expedition of 1872–76 is often seen as the founding of modern oceanography?","answer":"The Challenger expedition (HMS Challenger)","difficulty":"Very Hard","category":"Oceanography"}
+{"id":"q1723","question":"Which British expedition of 1872–76 is often seen as the founding of modern oceanography?","answer":"The Challenger expedition (HMS Challenger)","difficulty":"Very Hard","category":"Oceanography"},
+{"id":"q2586","question":"What word describes trees that shed all their leaves each autumn?","answer":"Deciduous","difficulty":"Medium","category":"Flora"},
+{"id":"q2587","question":"Which trees produce the winged seeds known as 'helicopters' or samaras?","answer":"Maples (including the sycamore)","difficulty":"Hard","category":"Flora"},
+{"id":"q2588","question":"What is the name of the world's largest single tree by volume, a giant sequoia in California?","answer":"General Sherman","difficulty":"Very Hard","category":"Flora"},
+{"id":"q2589","question":"What is the warm, dry wind that blows down the sheltered side of mountains such as the Alps called?","answer":"The Föhn (foehn)","difficulty":"Very Hard","category":"Meteorology"},
+{"id":"q2590","question":"Roughly what percentage of Earth's water is salt water?","answer":"About 97%","difficulty":"Hard","category":"Oceanography"}
 ]

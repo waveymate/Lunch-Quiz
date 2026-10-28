@@ -83,5 +83,15 @@
 {"id":"q2053","question":"Which region of Ethiopia is often said to be the birthplace of coffee?","answer":"Kaffa","difficulty":"Very Hard","category":"Drink"},
 {"id":"q2054","question":"In which country did bubble tea originate?","answer":"Taiwan","difficulty":"Medium","category":"Drink"},
 {"id":"q2055","question":"Which spirit is the base of a classic dry martini?","answer":"Gin (vodka for a vodka martini)","difficulty":"Easy","category":"Alcohol & Mixology"},
-{"id":"q2056","question":"Which cocktail of vodka, ginger beer and lime is traditionally served in a copper mug?","answer":"The Moscow Mule","difficulty":"Medium","category":"Alcohol & Mixology"}
+{"id":"q2056","question":"Which cocktail of vodka, ginger beer and lime is traditionally served in a copper mug?","answer":"The Moscow Mule","difficulty":"Medium","category":"Alcohol & Mixology"},
+{"id":"q2650","question":"Which country does feta cheese come from?","answer":"Greece","difficulty":"Easy","category":"Food"},
+{"id":"q2651","question":"What is koji, used to make miso, soy sauce and sake?","answer":"A mould (Aspergillus oryzae) grown on rice, barley or soybeans","difficulty":"PhD","category":"Food"},
+{"id":"q2652","question":"What are the deep-fried balls of ground chickpeas or fava beans, often served in pitta, called?","answer":"Falafel","difficulty":"Easy","category":"Culinary Traditions"},
+{"id":"q2653","question":"Which Peruvian dish is raw fish cured in citrus juice?","answer":"Ceviche","difficulty":"Medium","category":"Culinary Traditions"},
+{"id":"q2654","question":"Which fast-food chain did Dave Thomas found in Columbus, Ohio, in 1969?","answer":"Wendy's","difficulty":"Hard","category":"Fast Food"},
+{"id":"q2655","question":"In which year did the first McDonald's in Australia open, at Yagoona in Sydney?","answer":"1971","difficulty":"PhD","category":"Fast Food"},
+{"id":"q2656","question":"What is the traditional Japanese tea ceremony called?","answer":"Chanoyu (also sadō, 'the way of tea')","difficulty":"Very Hard","category":"Drink"},
+{"id":"q2657","question":"Which fruit is traditional cider made from?","answer":"Apples","difficulty":"Easy","category":"Drink"},
+{"id":"q2658","question":"Which spirit is traditionally distilled from grain or potatoes in Russia and Poland?","answer":"Vodka","difficulty":"Easy","category":"Alcohol & Mixology"},
+{"id":"q2659","question":"On a cognac label, what does 'VSOP' stand for?","answer":"Very Superior Old Pale","difficulty":"PhD","category":"Alcohol & Mixology"}
 ]

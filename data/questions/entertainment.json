@@ -129,5 +129,15 @@
 {"id":"q1769","question":"Which tile-laying board game, released in 2000, has players build a medieval French landscape?","answer":"Carcassonne","difficulty":"Hard","category":"Games"},
 {"id":"q1770","question":"What is the name of Mario's brother?","answer":"Luigi","difficulty":"Easy","category":"Video Games"},
 {"id":"q1771","question":"Which studio developed 'The Elder Scrolls V: Skyrim'?","answer":"Bethesda Game Studios","difficulty":"Medium","category":"Video Games"},
-{"id":"q1772","question":"In which year were the first Pokémon games released in Japan?","answer":"1996","difficulty":"Hard","category":"Video Games"}
+{"id":"q1772","question":"In which year were the first Pokémon games released in Japan?","answer":"1996","difficulty":"Hard","category":"Video Games"},
+{"id":"q2595","question":"Which BBC series starring Benedict Cumberbatch reimagines Sherlock Holmes in modern London?","answer":"Sherlock","difficulty":"Easy","category":"TV Shows"},
+{"id":"q2596","question":"In which US state is 'The Sopranos' set?","answer":"New Jersey","difficulty":"Medium","category":"TV Shows"},
+{"id":"q2597","question":"Which 1990s sitcom was famously described as 'a show about nothing'?","answer":"Seinfeld","difficulty":"Medium","category":"TV Shows"},
+{"id":"q2598","question":"In film editing, what is a 'match cut', such as the bone-to-satellite cut in '2001: A Space Odyssey'?","answer":"A cut that links two shots through a matching shape, movement or composition","difficulty":"Very Hard","category":"Cinematography"},
+{"id":"q2599","question":"How many tiles are in a standard English-language Scrabble set?","answer":"100","difficulty":"PhD","category":"Games"},
+{"id":"q2600","question":"Which five-letter word-guessing game, with six tries, was bought by The New York Times in 2022?","answer":"Wordle","difficulty":"Easy","category":"Games"},
+{"id":"q2601","question":"Which chess rule lets a player claim a draw after 50 moves each with no capture or pawn move?","answer":"The fifty-move rule","difficulty":"Hard","category":"Games"},
+{"id":"q2602","question":"Which 2017 Zelda game sent Link into a vast open-world Hyrule?","answer":"The Legend of Zelda: Breath of the Wild","difficulty":"Medium","category":"Video Games"},
+{"id":"q2603","question":"Which company released the Famicom games console in Japan in 1983?","answer":"Nintendo (it became the NES abroad)","difficulty":"Hard","category":"Video Games"},
+{"id":"q2604","question":"Which 1993 id Software game popularised the first-person shooter?","answer":"Doom","difficulty":"Hard","category":"Video Games"}
 ]

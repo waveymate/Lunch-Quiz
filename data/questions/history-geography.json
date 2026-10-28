@@ -234,5 +234,18 @@
 {"id":"q1687","question":"Which sea between Korea and Japan does South Korea call the 'East Sea'?","answer":"The Sea of Japan","difficulty":"Hard","category":"Seas"},
 {"id":"q1688","question":"Marble forms when limestone is changed by heat and pressure. What type of rock is it?","answer":"Metamorphic","difficulty":"Medium","category":"Geology"},
 {"id":"q1689","question":"Which German scientist proposed the theory of continental drift in 1912?","answer":"Alfred Wegener","difficulty":"Hard","category":"Geology"},
-{"id":"q1690","question":"What is the line of 0° longitude, running through Greenwich, called?","answer":"The Prime Meridian","difficulty":"Easy","category":"Geography"}
+{"id":"q1690","question":"What is the line of 0° longitude, running through Greenwich, called?","answer":"The Prime Meridian","difficulty":"Easy","category":"Geography"},
+{"id":"q2560","question":"What is the line of latitude at 0° called?","answer":"The Equator","difficulty":"Easy","category":"Geography"},
+{"id":"q2561","question":"Which imaginary line, roughly along 180° longitude, marks where the calendar date changes?","answer":"The International Date Line","difficulty":"Medium","category":"Geography"},
+{"id":"q2562","question":"What is the line of latitude at about 23.4° south called?","answer":"The Tropic of Capricorn","difficulty":"Hard","category":"Geography"},
+{"id":"q2563","question":"Which country was officially known as Burma until 1989?","answer":"Myanmar","difficulty":"Medium","category":"Countries"},
+{"id":"q2564","question":"What is the capital of Slovenia?","answer":"Ljubljana","difficulty":"Very Hard","category":"Capital Cities"},
+{"id":"q2565","question":"Which is the largest country in the Middle East by area?","answer":"Saudi Arabia","difficulty":"Hard","category":"Area"},
+{"id":"q2566","question":"Which is the only national flag with a different design on its front and back?","answer":"Paraguay's","difficulty":"PhD","category":"Flags"},
+{"id":"q2567","question":"What is the largest lake in Central America?","answer":"Lake Nicaragua","difficulty":"Hard","category":"Lakes"},
+{"id":"q2568","question":"Which river, together with the Neisse, forms most of the border between Germany and Poland?","answer":"The Oder","difficulty":"Very Hard","category":"Rivers"},
+{"id":"q2569","question":"What is the northern arm of the Baltic Sea, between Sweden and Finland, called?","answer":"The Gulf of Bothnia","difficulty":"PhD","category":"Seas"},
+{"id":"q2570","question":"What is molten rock called while it is still underground?","answer":"Magma","difficulty":"Easy","category":"Geology"},
+{"id":"q2571","question":"What type of rock forms from layers of compressed sediment, such as sandstone?","answer":"Sedimentary rock","difficulty":"Medium","category":"Geology"},
+{"id":"q2572","question":"Which geological era, meaning 'middle life', is known as the Age of Reptiles?","answer":"The Mesozoic","difficulty":"Hard","category":"Geology"}
 ]

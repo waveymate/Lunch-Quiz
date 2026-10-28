@@ -107,5 +107,14 @@
 {"id":"q2034","question":"Which fisherman of Japanese legend visits an undersea palace and returns to find centuries have passed?","answer":"Urashima Tarō","difficulty":"Very Hard","category":"Japanese Mythology"},
 {"id":"q2035","question":"Which Shinto deity of rice and prosperity, associated with foxes, has tens of thousands of shrines?","answer":"Inari","difficulty":"Hard","category":"Japanese Mythology"},
 {"id":"q2036","question":"What is the Japanese name for the group of 'Seven Lucky Gods'?","answer":"Shichifukujin","difficulty":"PhD","category":"Japanese Mythology"},
-{"id":"q2037","question":"What are the pairs of lion-dog guardian statues at Japanese shrines called?","answer":"Komainu","difficulty":"Very Hard","category":"Japanese Mythology"}
+{"id":"q2037","question":"What are the pairs of lion-dog guardian statues at Japanese shrines called?","answer":"Komainu","difficulty":"Very Hard","category":"Japanese Mythology"},
+{"id":"q2641","question":"Which Greek hero beheaded Medusa?","answer":"Perseus","difficulty":"Easy","category":"Greek Mythology"},
+{"id":"q2642","question":"Which primordial Greek goddess personified the night?","answer":"Nyx","difficulty":"PhD","category":"Greek Mythology"},
+{"id":"q2643","question":"What is the Roman name for Artemis, goddess of the hunt and the moon?","answer":"Diana","difficulty":"Medium","category":"Roman Mythology"},
+{"id":"q2644","question":"To which goddess's field, Fólkvangr, does half of the battle-slain go instead of Valhalla?","answer":"Freyja","difficulty":"PhD","category":"Norse Mythology"},
+{"id":"q2645","question":"Which watchman god guards the Bifröst bridge?","answer":"Heimdall","difficulty":"Hard","category":"Norse Mythology"},
+{"id":"q2646","question":"Which lioness-headed Egyptian goddess was a fierce warrior and bringer of plague?","answer":"Sekhmet","difficulty":"Hard","category":"Egyptian Mythology"},
+{"id":"q2647","question":"Which Egyptian god personified the yearly flooding of the Nile?","answer":"Hapi","difficulty":"Very Hard","category":"Egyptian Mythology"},
+{"id":"q2648","question":"Who is the dragon god of the sea in Japanese mythology?","answer":"Ryūjin","difficulty":"Very Hard","category":"Japanese Mythology"},
+{"id":"q2649","question":"During which Japanese summer festival are ancestors' spirits believed to return home?","answer":"Obon","difficulty":"Medium","category":"Japanese Mythology"}
 ]

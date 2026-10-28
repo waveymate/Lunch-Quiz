@@ -229,5 +229,21 @@
 {"id":"q1904","question":"What is the semicircle marked at the baulk end of a snooker table called?","answer":"The 'D'","difficulty":"Hard","category":"Snooker"},
 {"id":"q1905","question":"Snooker was invented by British Army officers in 1875 in which country?","answer":"India (at Jabalpur)","difficulty":"Hard","category":"Snooker"},
 {"id":"q2058","question":"Rugby league is played with how many players per side?","answer":"13","difficulty":"Medium","category":"Rugby"},
-{"id":"q2059","question":"Which colour is the lowest-value coloured ball in snooker, worth two points?","answer":"Yellow","difficulty":"Medium","category":"Snooker"}
+{"id":"q2059","question":"Which colour is the lowest-value coloured ball in snooker, worth two points?","answer":"Yellow","difficulty":"Medium","category":"Snooker"},
+{"id":"q2605","question":"With which team did Michael Schumacher win five consecutive world titles, from 2000 to 2004?","answer":"Ferrari","difficulty":"Medium","category":"F1"},
+{"id":"q2606","question":"What is the name of the protective titanium bar above the cockpit, compulsory in F1 since 2018?","answer":"The halo","difficulty":"Hard","category":"F1"},
+{"id":"q2607","question":"Which French town hosted the first Winter Olympics, in 1924?","answer":"Chamonix","difficulty":"Very Hard","category":"Olympics"},
+{"id":"q2608","question":"Which Winter Olympic sport combines cross-country skiing with rifle shooting?","answer":"Biathlon","difficulty":"Medium","category":"Olympics"},
+{"id":"q2609","question":"Which British runner won both the 5000 m and 10,000 m at the 2012 and 2016 Olympics?","answer":"Sir Mo Farah","difficulty":"Medium","category":"Athletics"},
+{"id":"q2610","question":"What is the person who carries a golfer's clubs called?","answer":"A caddie","difficulty":"Easy","category":"Golf"},
+{"id":"q2611","question":"Who held all four men's major titles at once in 2000–01, a feat dubbed the 'Tiger Slam'?","answer":"Tiger Woods","difficulty":"Hard","category":"Golf"},
+{"id":"q2612","question":"Which trophy is awarded to the NHL's most valuable player?","answer":"The Hart Memorial Trophy","difficulty":"Very Hard","category":"Ice Hockey"},
+{"id":"q2613","question":"In Australian cricket, what is the 'baggy green'?","answer":"The cap worn by Australian Test players","difficulty":"Hard","category":"Cricket"},
+{"id":"q2614","question":"How many players does the fielding side have on a baseball field?","answer":"Nine","difficulty":"Easy","category":"Baseball"},
+{"id":"q2615","question":"In baseball, what is it called when a pitcher allows no hits in a complete game?","answer":"A no-hitter","difficulty":"Medium","category":"Baseball"},
+{"id":"q2616","question":"Who was the NBA's all-time leading scorer before LeBron James passed him in 2023?","answer":"Kareem Abdul-Jabbar","difficulty":"Hard","category":"Basketball"},
+{"id":"q2617","question":"In rugby union, what is a 'lineout'?","answer":"The restart after the ball goes into touch: forwards line up and lift jumpers to catch the throw-in","difficulty":"Hard","category":"Rugby"},
+{"id":"q2618","question":"Who became the first man to win 20 Grand Slam singles titles, at the 2018 Australian Open?","answer":"Roger Federer","difficulty":"Very Hard","category":"Tennis"},
+{"id":"q2619","question":"Which British rider won the Tour de France four times between 2013 and 2017?","answer":"Chris Froome","difficulty":"Medium","category":"Cycling"},
+{"id":"q2620","question":"In snooker, how many points is the blue ball worth?","answer":"Five","difficulty":"Medium","category":"Snooker"}
 ]

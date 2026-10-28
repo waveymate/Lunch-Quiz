@@ -104,5 +104,18 @@
 {"id":"q1742","question":"The patella is better known as what?","answer":"The kneecap","difficulty":"Easy","category":"Anatomy"},
 {"id":"q1743","question":"Which gland at the base of the brain is often called the 'master gland'?","answer":"The pituitary gland","difficulty":"Hard","category":"Anatomy"},
 {"id":"q1744","question":"What are the tiny air sacs in the lungs where oxygen enters the blood called?","answer":"Alveoli","difficulty":"Hard","category":"Anatomy"},
-{"id":"q2057","question":"Which is the biggest organ inside the human body?","answer":"The liver","difficulty":"Medium","category":"Anatomy"}
+{"id":"q2057","question":"Which is the biggest organ inside the human body?","answer":"The liver","difficulty":"Medium","category":"Anatomy"},
+{"id":"q2573","question":"What is the SI unit of magnetic flux density?","answer":"The tesla (T)","difficulty":"Hard","category":"Physics"},
+{"id":"q2574","question":"What is absolute zero in degrees Celsius?","answer":"−273.15 °C","difficulty":"Medium","category":"Physics"},
+{"id":"q2575","question":"Whose equations, published in the 1860s, unified electricity, magnetism and light?","answer":"James Clerk Maxwell","difficulty":"Hard","category":"Physics"},
+{"id":"q2576","question":"Which Danish physicist proposed in 1913 that electrons orbit the nucleus at fixed energy levels?","answer":"Niels Bohr","difficulty":"Hard","category":"Quantum Mechanics"},
+{"id":"q2577","question":"What are particles with half-integer spin, such as electrons and quarks, called?","answer":"Fermions","difficulty":"Very Hard","category":"Quantum Mechanics"},
+{"id":"q2578","question":"What is the effect called where a quantum system's change is 'frozen' by measuring it very frequently?","answer":"The quantum Zeno effect","difficulty":"PhD","category":"Quantum Mechanics"},
+{"id":"q2579","question":"What is the pH of pure water at 25 °C?","answer":"7 (neutral)","difficulty":"Medium","category":"Chemistry"},
+{"id":"q2580","question":"What is the most abundant element in Earth's crust by mass?","answer":"Oxygen (about 46%)","difficulty":"Hard","category":"Chemistry"},
+{"id":"q2581","question":"Who published the first widely recognised periodic table, in 1869?","answer":"Dmitri Mendeleev","difficulty":"Hard","category":"Chemistry"},
+{"id":"q2582","question":"How many chromosomes does a typical human body cell have?","answer":"46 (23 pairs)","difficulty":"Medium","category":"Biology"},
+{"id":"q2583","question":"What is the type of cell division that produces sperm and egg cells called?","answer":"Meiosis","difficulty":"Hard","category":"Biology"},
+{"id":"q2584","question":"Who discovered penicillin in 1928?","answer":"Alexander Fleming","difficulty":"Medium","category":"Biology"},
+{"id":"q2585","question":"Which hormone, made by the pineal gland, helps regulate sleep?","answer":"Melatonin","difficulty":"Hard","category":"Anatomy"}
 ]
