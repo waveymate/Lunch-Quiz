@@ -337,5 +337,21 @@
 {"id":"q3238","question":"What is 'tenebrism' in painting?","answer":"An extreme chiaroscuro in which figures emerge from deep darkness, as in Caravaggio","difficulty":"PhD","category":"Art Techniques"},
 {"id":"q3239","question":"What is 'marquetry'?","answer":"Decorating furniture with inlaid pieces of wood veneer forming pictures or patterns","difficulty":"Very Hard","category":"Art Techniques"},
 {"id":"q3240","question":"In which city is the Museu Picasso?","answer":"Barcelona","difficulty":"Medium","category":"Museums"},
-{"id":"q3241","question":"Which London gallery houses one of Van Gogh's 'Sunflowers' paintings?","answer":"The National Gallery","difficulty":"Hard","category":"Museums"}
+{"id":"q3241","question":"Which London gallery houses one of Van Gogh's 'Sunflowers' paintings?","answer":"The National Gallery","difficulty":"Hard","category":"Museums"},
+{"id":"q3330","question":"In which Shakespeare play is the message 'All that glisters is not gold' found in a golden casket?","answer":"The Merchant of Venice","difficulty":"Very Hard","category":"Shakespearean Plays"},
+{"id":"q3331","question":"Which French poet opened his first book of fables with 'The Cicada and the Ant'?","answer":"Jean de La Fontaine","difficulty":"Hard","category":"Fables"},
+{"id":"q3332","question":"Which American painter created 'Nighthawks' (1942), showing a late-night diner?","answer":"Edward Hopper","difficulty":"Hard","category":"Paintings"},
+{"id":"q3333","question":"Which sculptor made the giant 'Spoonbridge and Cherry' with Coosje van Bruggen?","answer":"Claes Oldenburg","difficulty":"PhD","category":"Sculptors"},
+{"id":"q3334","question":"Which architect designed the Walt Disney Concert Hall in Los Angeles?","answer":"Frank Gehry","difficulty":"Hard","category":"Architects"},
+{"id":"q3335","question":"What was the 'Ashcan School'?","answer":"A group of early-1900s American realist painters who depicted gritty everyday life in New York","difficulty":"PhD","category":"Art Movements"},
+{"id":"q3336","question":"What is a triptych?","answer":"A work of art made of three panels, often hinged together","difficulty":"Hard","category":"Art Techniques"},
+{"id":"q3337","question":"In which city is the Anne Frank House museum?","answer":"Amsterdam","difficulty":"Easy","category":"Museums"},
+{"id":"q3338","question":"What is the name of the typeface used on British road signs?","answer":"Transport","difficulty":"PhD","category":"Design"},
+{"id":"q3339","question":"Which graphic designer created the 'I ♥ NY' logo?","answer":"Milton Glaser","difficulty":"Very Hard","category":"Design"},
+{"id":"q3340","question":"Which French designer created the spider-like 'Juicy Salif' lemon squeezer for Alessi?","answer":"Philippe Starck","difficulty":"PhD","category":"Design"},
+{"id":"q3341","question":"What is Ethiopia's main working language, written in Ge'ez script?","answer":"Amharic","difficulty":"Very Hard","category":"Languages"},
+{"id":"q3342","question":"After Hindi, which is the most widely spoken language in India?","answer":"Bengali","difficulty":"PhD","category":"Languages"},
+{"id":"q3343","question":"The word 'tsunami' comes from Japanese words meaning what?","answer":"'Harbour wave'","difficulty":"Hard","category":"Etymology"},
+{"id":"q3344","question":"The word 'assassin' is traditionally said to come from an Arabic word linked to which drug?","answer":"Hashish ('hashishin')","difficulty":"PhD","category":"Etymology"},
+{"id":"q3359","question":"Mozambique's official language was inherited from which colonial power?","answer":"Portugal (the language is Portuguese)","difficulty":"Hard","category":"Languages"}
 ]

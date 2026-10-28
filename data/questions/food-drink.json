@@ -131,5 +131,12 @@
 {"id":"q3254","question":"Which coffee species makes up most of the world's coffee production?","answer":"Arabica","difficulty":"Hard","category":"Drink"},
 {"id":"q3255","question":"What is the traditional South American drink chicha usually made from?","answer":"Fermented maize (corn)","difficulty":"PhD","category":"Drink"},
 {"id":"q3256","question":"Rioja wine comes from which country?","answer":"Spain","difficulty":"Medium","category":"Alcohol & Mixology"},
-{"id":"q3257","question":"What is the key step of the 'méthode champenoise' used for Champagne?","answer":"A second fermentation inside the bottle, which creates the bubbles","difficulty":"Very Hard","category":"Alcohol & Mixology"}
+{"id":"q3257","question":"What is the key step of the 'méthode champenoise' used for Champagne?","answer":"A second fermentation inside the bottle, which creates the bubbles","difficulty":"Very Hard","category":"Alcohol & Mixology"},
+{"id":"q3352","question":"Which country are pierogi dumplings most associated with?","answer":"Poland","difficulty":"Medium","category":"Food"},
+{"id":"q3353","question":"What is the main vegetable in traditional Korean kimchi?","answer":"Napa (Chinese) cabbage","difficulty":"Medium","category":"Culinary Traditions"},
+{"id":"q3354","question":"What is the fiery Ethiopian spice blend of chilli, garlic and fenugreek called?","answer":"Berbere","difficulty":"PhD","category":"Culinary Traditions"},
+{"id":"q3355","question":"Which burger chain was originally called 'Insta-Burger King'?","answer":"Burger King","difficulty":"Very Hard","category":"Fast Food"},
+{"id":"q3356","question":"Which fast-food chain, founded in 1962, sells the Crunchwrap Supreme?","answer":"Taco Bell","difficulty":"Hard","category":"Fast Food"},
+{"id":"q3357","question":"What is the shade-grown Japanese tea leaf that is ground to make matcha called?","answer":"Tencha","difficulty":"PhD","category":"Drink"},
+{"id":"q3358","question":"Which cocktail mixes rum with coconut cream and pineapple juice?","answer":"The piña colada","difficulty":"Easy","category":"Alcohol & Mixology"}
 ]

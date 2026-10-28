@@ -186,5 +186,14 @@
 {"id":"q3188","question":"Which instrument measures wind speed?","answer":"An anemometer","difficulty":"Medium","category":"Meteorology"},
 {"id":"q3189","question":"What is the atmospheric circulation cell between the Equator and about 30° latitude called?","answer":"The Hadley cell","difficulty":"PhD","category":"Meteorology"},
 {"id":"q3190","question":"What is the name of the deepest point in the Atlantic Ocean, in the Puerto Rico Trench?","answer":"The Milwaukee Deep","difficulty":"PhD","category":"Oceanography"},
-{"id":"q3191","question":"Which ocean current, the strongest on Earth, flows eastward around Antarctica?","answer":"The Antarctic Circumpolar Current","difficulty":"Very Hard","category":"Oceanography"}
+{"id":"q3191","question":"Which ocean current, the strongest on Earth, flows eastward around Antarctica?","answer":"The Antarctic Circumpolar Current","difficulty":"Very Hard","category":"Oceanography"},
+{"id":"q3285","question":"What is a group of lions called?","answer":"A pride","difficulty":"Easy","category":"Fauna"},
+{"id":"q3286","question":"Which tree's bark is harvested to make wine corks?","answer":"The cork oak","difficulty":"Hard","category":"Flora"},
+{"id":"q3287","question":"Which plant hormone makes shoots bend and grow towards light?","answer":"Auxin","difficulty":"PhD","category":"Flora"},
+{"id":"q3288","question":"Which flowering plant is the original source of the heart drug digitalis?","answer":"The foxglove","difficulty":"Very Hard","category":"Flora"},
+{"id":"q3289","question":"Which insect's resin secretions are used to make shellac?","answer":"The lac bug","difficulty":"PhD","category":"Insects"},
+{"id":"q3290","question":"Which armoured dinosaur had a heavy bony club at the end of its tail?","answer":"Ankylosaurus","difficulty":"Hard","category":"Dinosaurs"},
+{"id":"q3291","question":"Which Antarctic volcano is the southernmost active volcano on Earth?","answer":"Mount Erebus","difficulty":"Very Hard","category":"Volcanoes"},
+{"id":"q3292","question":"What is the 'Fujiwhara effect'?","answer":"Two nearby cyclones circling around each other (and sometimes merging)","difficulty":"PhD","category":"Meteorology"},
+{"id":"q3293","question":"Which ocean did National Geographic officially recognise as the world's fifth in 2021?","answer":"The Southern Ocean","difficulty":"Hard","category":"Oceanography"}
 ]

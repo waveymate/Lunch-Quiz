@@ -165,5 +165,18 @@
 {"id":"q3109","question":"Which game, on a Game Boy, became one of the first video games played in space, aboard Mir in 1993?","answer":"Tetris","difficulty":"Very Hard","category":"Video Games"},
 {"id":"q3110","question":"Which 1958 oscilloscope game by William Higinbotham is often called one of the first video games?","answer":"Tennis for Two","difficulty":"Very Hard","category":"Video Games"},
 {"id":"q3199","question":"What is the film technique 'day for night'?","answer":"Shooting in daylight and darkening the image so the scene looks like night","difficulty":"Very Hard","category":"Cinematography"},
-{"id":"q3200","question":"Which filming rule says the camera should stay on one side of an imaginary line between two characters?","answer":"The 180-degree rule","difficulty":"Hard","category":"Cinematography"}
+{"id":"q3200","question":"Which filming rule says the camera should stay on one side of an imaginary line between two characters?","answer":"The 180-degree rule","difficulty":"Hard","category":"Cinematography"},
+{"id":"q3304","question":"Which sitcom follows physicist Sheldon Cooper and his friends?","answer":"The Big Bang Theory","difficulty":"Easy","category":"TV Shows"},
+{"id":"q3305","question":"Which comedy duo created and starred in 'The Mighty Boosh'?","answer":"Julian Barratt and Noel Fielding","difficulty":"Hard","category":"TV Shows"},
+{"id":"q3306","question":"Which 1960s British spy series starred secret agents John Steed and Emma Peel?","answer":"The Avengers","difficulty":"Very Hard","category":"TV Shows"},
+{"id":"q3307","question":"What is an anamorphic lens known for in film-making?","answer":"Squeezing a wide image onto the frame, giving a widescreen picture, oval bokeh and streaky lens flares","difficulty":"PhD","category":"Cinematography"},
+{"id":"q3308","question":"Which band released 'The Dark Side of the Moon' in 1973?","answer":"Pink Floyd","difficulty":"Medium","category":"Music"},
+{"id":"q3309","question":"Which jazz trumpeter recorded the best-selling album 'Kind of Blue' (1959)?","answer":"Miles Davis","difficulty":"Hard","category":"Music"},
+{"id":"q3310","question":"Which pop star's real name is Stefani Germanotta?","answer":"Lady Gaga","difficulty":"Medium","category":"Music"},
+{"id":"q3311","question":"In chess, which piece is usually valued at about nine pawns?","answer":"The queen","difficulty":"Hard","category":"Games"},
+{"id":"q3312","question":"What is the traditional Japanese form of chess called?","answer":"Shogi","difficulty":"Very Hard","category":"Games"},
+{"id":"q3313","question":"In Scrabble, what is a 'bingo'?","answer":"Playing all seven of your tiles in one turn, which earns a 50-point bonus","difficulty":"PhD","category":"Games"},
+{"id":"q3314","question":"Which video game series follows the Spartan warrior Kratos?","answer":"God of War","difficulty":"Medium","category":"Video Games"},
+{"id":"q3315","question":"Which 1976 Atari arcade game was built with help from Steve Jobs and Steve Wozniak?","answer":"Breakout","difficulty":"PhD","category":"Video Games"},
+{"id":"q3316","question":"Which studio, founded by Will Wright, created 'The Sims'?","answer":"Maxis","difficulty":"Hard","category":"Video Games"}
 ]

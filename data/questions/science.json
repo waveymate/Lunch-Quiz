@@ -156,5 +156,19 @@
 {"id":"q3176","question":"What is the larynx better known as?","answer":"The voice box","difficulty":"Medium","category":"Anatomy"},
 {"id":"q3177","question":"Which part of the inner ear, including the semicircular canals, controls balance?","answer":"The vestibular system","difficulty":"Very Hard","category":"Anatomy"},
 {"id":"q3178","question":"Which planet has the shortest day, rotating in under 10 hours?","answer":"Jupiter","difficulty":"Hard","category":"Space & Astronomy"},
-{"id":"q3179","question":"What is the distance within which a moon would be torn apart by its planet's tidal forces called?","answer":"The Roche limit","difficulty":"PhD","category":"Space & Astronomy"}
+{"id":"q3179","question":"What is the distance within which a moon would be torn apart by its planet's tidal forces called?","answer":"The Roche limit","difficulty":"PhD","category":"Space & Astronomy"},
+{"id":"q3271","question":"Which astronomer published three laws of planetary motion in the early 1600s?","answer":"Johannes Kepler","difficulty":"Hard","category":"Physics"},
+{"id":"q3272","question":"Which theorem shows that every symmetry in physics corresponds to a conservation law?","answer":"Noether's theorem (by Emmy Noether)","difficulty":"PhD","category":"Physics"},
+{"id":"q3273","question":"What is the blue glow given off when charged particles travel faster than light can in a medium, such as in a nuclear reactor's water?","answer":"Cherenkov radiation","difficulty":"PhD","category":"Physics"},
+{"id":"q3274","question":"What is the antiparticle of the electron called?","answer":"The positron","difficulty":"Medium","category":"Quantum Mechanics"},
+{"id":"q3275","question":"What is it called when a current flows between two superconductors through a thin insulating barrier?","answer":"The Josephson effect","difficulty":"PhD","category":"Quantum Mechanics"},
+{"id":"q3276","question":"What is the hypothetical particle that would carry the force of gravity called?","answer":"The graviton","difficulty":"Hard","category":"Quantum Mechanics"},
+{"id":"q3277","question":"Apart from iron, which element is the key ingredient of steel?","answer":"Carbon","difficulty":"Medium","category":"Chemistry"},
+{"id":"q3278","question":"Which noble gas, in 1962, became the first shown to form chemical compounds?","answer":"Xenon","difficulty":"PhD","category":"Chemistry"},
+{"id":"q3279","question":"What is the chemical symbol for potassium?","answer":"K (from the Latin 'kalium')","difficulty":"Hard","category":"Chemistry"},
+{"id":"q3280","question":"Which tough protein makes up hair, nails and horns?","answer":"Keratin","difficulty":"Hard","category":"Biology"},
+{"id":"q3281","question":"What are telomeres?","answer":"Protective caps of repeated DNA at the ends of chromosomes, which shorten as cells divide","difficulty":"Very Hard","category":"Biology"},
+{"id":"q3282","question":"Which type of RNA carries amino acids to the ribosome during protein building?","answer":"Transfer RNA (tRNA)","difficulty":"PhD","category":"Biology"},
+{"id":"q3283","question":"What is the largest artery in the human body?","answer":"The aorta","difficulty":"Medium","category":"Anatomy"},
+{"id":"q3284","question":"What is the boundary where the Sun's solar wind gives way to interstellar space called?","answer":"The heliopause","difficulty":"PhD","category":"Space & Astronomy"}
 ]

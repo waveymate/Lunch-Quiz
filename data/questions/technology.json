@@ -158,5 +158,15 @@
 {"id":"q3196","question":"What does 'NASA' stand for?","answer":"National Aeronautics and Space Administration","difficulty":"Medium","category":"Space Technology"},
 {"id":"q3197","question":"Which spacecraft carry the 'Golden Records' of sounds and images from Earth?","answer":"Voyager 1 and Voyager 2","difficulty":"Hard","category":"Space Technology"},
 {"id":"q3198","question":"What control did the first iPod use to scroll through songs?","answer":"A mechanical scroll wheel (later replaced by the click wheel)","difficulty":"Hard","category":"Gadgets"},
-{"id":"q3258","question":"Which tech giant makes the Xbox games console?","answer":"Microsoft","difficulty":"Easy","category":"Gadgets"}
+{"id":"q3258","question":"Which tech giant makes the Xbox games console?","answer":"Microsoft","difficulty":"Easy","category":"Gadgets"},
+{"id":"q3294","question":"What does 'BIOS' stand for in a computer?","answer":"Basic Input/Output System","difficulty":"Hard","category":"Computing"},
+{"id":"q3295","question":"Which US Navy computer scientist wrote one of the first compilers, A-0, in 1952?","answer":"Grace Hopper","difficulty":"Very Hard","category":"Computing"},
+{"id":"q3296","question":"What was the name of the algorithm Google first used to rank web pages?","answer":"PageRank","difficulty":"Hard","category":"Computing"},
+{"id":"q3297","question":"What is the 'dark web'?","answer":"Parts of the internet that can only be reached with special software such as Tor","difficulty":"Hard","category":"Internet"},
+{"id":"q3298","question":"In which year did Ray Tomlinson send the first network email?","answer":"1971","difficulty":"PhD","category":"Internet"},
+{"id":"q3299","question":"How many bits long is an IPv4 address?","answer":"32","difficulty":"PhD","category":"Internet"},
+{"id":"q3300","question":"Which German-born engineer designed the Brooklyn Bridge?","answer":"John A. Roebling (completed by his son Washington and Emily Roebling)","difficulty":"PhD","category":"Engineering"},
+{"id":"q3301","question":"What is a 'deepfake'?","answer":"A realistic fake video, image or audio of a real person, made with AI","difficulty":"Medium","category":"Artificial Intelligence"},
+{"id":"q3302","question":"What was the first satellite launched by the United States, in 1958?","answer":"Explorer 1","difficulty":"Very Hard","category":"Space Technology"},
+{"id":"q3303","question":"Who invented the PalmPilot handheld organiser?","answer":"Jeff Hawkins","difficulty":"PhD","category":"Gadgets"}
 ]

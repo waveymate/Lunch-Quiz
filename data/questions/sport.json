@@ -349,5 +349,18 @@
 {"id":"q3223","question":"Who was the first rider to win the Tour de France five times?","answer":"Jacques Anquetil","difficulty":"PhD","category":"Cycling"},
 {"id":"q3224","question":"How many pockets does a snooker table have?","answer":"Six","difficulty":"Easy","category":"Snooker"},
 {"id":"q3225","question":"Who in 1979 became the first qualifier to win the World Snooker Championship?","answer":"Terry Griffiths","difficulty":"PhD","category":"Snooker"},
-{"id":"q3259","question":"In which Olympic sport do competitors perform on the pommel horse and rings?","answer":"Artistic gymnastics","difficulty":"Medium","category":"Olympics"}
+{"id":"q3259","question":"In which Olympic sport do competitors perform on the pommel horse and rings?","answer":"Artistic gymnastics","difficulty":"Medium","category":"Olympics"},
+{"id":"q3317","question":"Who scored the first goal in Premier League history, in August 1992?","answer":"Brian Deane (Sheffield United)","difficulty":"PhD","category":"Football"},
+{"id":"q3318","question":"In motor-racing results, what does 'DNF' mean?","answer":"Did Not Finish","difficulty":"Medium","category":"F1"},
+{"id":"q3319","question":"In which city were the 1980 Summer Olympics, boycotted by the USA, held?","answer":"Moscow","difficulty":"Hard","category":"Olympics"},
+{"id":"q3320","question":"Who became the first sprinter to run 100 m in under 10 seconds with electronic timing, in 1968?","answer":"Jim Hines","difficulty":"PhD","category":"Athletics"},
+{"id":"q3321","question":"In casual golf, what is a 'mulligan'?","answer":"A do-over shot that isn't counted on the scorecard","difficulty":"Hard","category":"Golf"},
+{"id":"q3322","question":"Which team won the first Stanley Cup, in 1893?","answer":"The Montreal Hockey Club (of the Montreal AAA)","difficulty":"PhD","category":"Ice Hockey"},
+{"id":"q3323","question":"Which Australian leg-spinner took 708 Test wickets?","answer":"Shane Warne","difficulty":"Hard","category":"Cricket"},
+{"id":"q3324","question":"In baseball, what is a 'walk-off'?","answer":"A play that wins the game for the home team in its final inning, ending it immediately","difficulty":"Hard","category":"Baseball"},
+{"id":"q3325","question":"Which franchise won three NBA titles in a row from 1952 to 1954?","answer":"The Minneapolis Lakers","difficulty":"PhD","category":"Basketball"},
+{"id":"q3326","question":"In rugby, what is the 'sin bin'?","answer":"A 10-minute temporary suspension for a player shown a yellow card","difficulty":"Hard","category":"Rugby"},
+{"id":"q3327","question":"Who became the youngest man to win Wimbledon, aged 17, in 1985?","answer":"Boris Becker","difficulty":"Very Hard","category":"Tennis"},
+{"id":"q3328","question":"What colour jersey does the leader of the Giro d'Italia wear?","answer":"Pink (the maglia rosa)","difficulty":"Hard","category":"Cycling"},
+{"id":"q3329","question":"Which Northern Irish player, 'The Hurricane', won the World Snooker Championship in 1972 and 1982?","answer":"Alex Higgins","difficulty":"Very Hard","category":"Snooker"}
 ]

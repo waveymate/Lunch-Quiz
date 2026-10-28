@@ -316,5 +316,16 @@
 {"id":"q3172","question":"Which sea lies between the south-west Philippines and north-east Borneo?","answer":"The Sulu Sea","difficulty":"PhD","category":"Seas"},
 {"id":"q3173","question":"The Sinai Peninsula sits between the Gulf of Aqaba and which other gulf?","answer":"The Gulf of Suez","difficulty":"PhD","category":"Seas"},
 {"id":"q3174","question":"Which mineral is the main ingredient of limestone?","answer":"Calcite (calcium carbonate)","difficulty":"Hard","category":"Geology"},
-{"id":"q3175","question":"Which supercontinent, also called Nuna, existed about 1.8 billion years ago, before Rodinia?","answer":"Columbia","difficulty":"PhD","category":"Geology"}
+{"id":"q3175","question":"Which supercontinent, also called Nuna, existed about 1.8 billion years ago, before Rodinia?","answer":"Columbia","difficulty":"PhD","category":"Geology"},
+{"id":"q3260","question":"Which is the largest peninsula in the world?","answer":"The Arabian Peninsula","difficulty":"Very Hard","category":"Geography"},
+{"id":"q3261","question":"Which mountain range stretches across Morocco, Algeria and Tunisia?","answer":"The Atlas Mountains","difficulty":"Hard","category":"Geography"},
+{"id":"q3262","question":"Which salt lake in Djibouti is the lowest point in Africa?","answer":"Lake Assal (about 155 m below sea level)","difficulty":"PhD","category":"Geography"},
+{"id":"q3263","question":"Which European country's national anthem, the 'Marcha Real', has no official lyrics?","answer":"Spain","difficulty":"PhD","category":"Countries"},
+{"id":"q3264","question":"What is the capital of Morocco?","answer":"Rabat","difficulty":"Hard","category":"Capital Cities"},
+{"id":"q3265","question":"Which is the largest country in the European Union by area?","answer":"France","difficulty":"Hard","category":"Area"},
+{"id":"q3266","question":"Which country's green flag carries the Islamic declaration of faith in white Arabic script above a sword?","answer":"Saudi Arabia","difficulty":"Hard","category":"Flags"},
+{"id":"q3267","question":"Which Swedish lake is the largest in the European Union?","answer":"Lake Vänern","difficulty":"PhD","category":"Lakes"},
+{"id":"q3268","question":"Which river flows through Lisbon?","answer":"The Tagus","difficulty":"Hard","category":"Rivers"},
+{"id":"q3269","question":"Which sea lies between Norway and Iceland, crossing the Arctic Circle?","answer":"The Norwegian Sea","difficulty":"Very Hard","category":"Seas"},
+{"id":"q3270","question":"What is the largest division of geological time, bigger than an era?","answer":"An eon","difficulty":"Hard","category":"Geology"}
 ]

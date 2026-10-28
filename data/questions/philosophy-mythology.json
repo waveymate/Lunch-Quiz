@@ -159,5 +159,12 @@
 {"id":"q3248","question":"Which crocodile-headed Egyptian god was linked with the Nile and fertility?","answer":"Sobek","difficulty":"Hard","category":"Egyptian Mythology"},
 {"id":"q3249","question":"Which god, 'the Hidden One', was later merged with the sun god to become king of the gods?","answer":"Amun (Amun-Ra)","difficulty":"Very Hard","category":"Egyptian Mythology"},
 {"id":"q3250","question":"What is the code of honour followed by the samurai called?","answer":"Bushidō","difficulty":"Medium","category":"Japanese Mythology"},
-{"id":"q3251","question":"Which goddess hid in a cave, plunging the world into darkness, until the other gods lured her out?","answer":"Amaterasu","difficulty":"Very Hard","category":"Japanese Mythology"}
+{"id":"q3251","question":"Which goddess hid in a cave, plunging the world into darkness, until the other gods lured her out?","answer":"Amaterasu","difficulty":"Very Hard","category":"Japanese Mythology"},
+{"id":"q3345","question":"Which philosopher wrote 'Beyond Good and Evil' (1886)?","answer":"Friedrich Nietzsche","difficulty":"Hard","category":"Philosophy"},
+{"id":"q3346","question":"Which Stoic philosopher, a former slave, taught the lessons collected in the 'Enchiridion'?","answer":"Epictetus","difficulty":"PhD","category":"Philosophy"},
+{"id":"q3347","question":"Which Greek hero's only weak spot was his heel?","answer":"Achilles","difficulty":"Easy","category":"Greek Mythology"},
+{"id":"q3348","question":"Which Roman god protected boundaries and boundary stones?","answer":"Terminus","difficulty":"PhD","category":"Roman Mythology"},
+{"id":"q3349","question":"What is the realm of the giants called in Norse mythology?","answer":"Jötunheim","difficulty":"Hard","category":"Norse Mythology"},
+{"id":"q3350","question":"Which Egyptian goddess, shown with a scorpion on her head, protected people from venom?","answer":"Serket (Selket)","difficulty":"PhD","category":"Egyptian Mythology"},
+{"id":"q3351","question":"What is the faceless ghost of Japanese folklore called?","answer":"Noppera-bō","difficulty":"PhD","category":"Japanese Mythology"}
 ]
