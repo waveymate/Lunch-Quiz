@@ -153,5 +153,15 @@
 {"id":"q2907","question":"Which 2020 Nintendo game had players build a new life on a deserted island?","answer":"Animal Crossing: New Horizons","difficulty":"Medium","category":"Video Games"},
 {"id":"q2908","question":"Which studio developed 'The Last of Us'?","answer":"Naughty Dog","difficulty":"Hard","category":"Video Games"},
 {"id":"q3000","question":"What is the 'Kuleshov effect' in film editing?","answer":"Viewers read different emotions into the same neutral face depending on the shot it's cut together with","difficulty":"PhD","category":"Cinematography"},
-{"id":"q3001","question":"Which colour film process is famous for the vivid look of 'The Wizard of Oz' (1939)?","answer":"Technicolor","difficulty":"Hard","category":"Cinematography"}
+{"id":"q3001","question":"Which colour film process is famous for the vivid look of 'The Wizard of Oz' (1939)?","answer":"Technicolor","difficulty":"Hard","category":"Cinematography"},
+{"id":"q3101","question":"Which HBO comedy follows the tech start-up Pied Piper?","answer":"Silicon Valley","difficulty":"Hard","category":"TV Shows"},
+{"id":"q3102","question":"In 'The Simpsons', what is the name of the bar where Homer drinks?","answer":"Moe's Tavern","difficulty":"Medium","category":"TV Shows"},
+{"id":"q3103","question":"In which English town is the original BBC 'The Office' set?","answer":"Slough","difficulty":"Hard","category":"TV Shows"},
+{"id":"q3104","question":"Which 1950s widescreen system projected films with three projectors side by side onto a curved screen?","answer":"Cinerama","difficulty":"Very Hard","category":"Cinematography"},
+{"id":"q3105","question":"In chess, what is it called when a player isn't in check but has no legal move?","answer":"Stalemate (the game is drawn)","difficulty":"Medium","category":"Games"},
+{"id":"q3106","question":"Which aggressive chess opening begins 1. e4 e5 2. f4?","answer":"The King's Gambit","difficulty":"Very Hard","category":"Games"},
+{"id":"q3107","question":"Draughts (checkers) was 'solved' by computer in 2007. What is the result with perfect play from both sides?","answer":"A draw","difficulty":"PhD","category":"Games"},
+{"id":"q3108","question":"Which company created 'Fortnite'?","answer":"Epic Games","difficulty":"Medium","category":"Video Games"},
+{"id":"q3109","question":"Which game, on a Game Boy, became one of the first video games played in space, aboard Mir in 1993?","answer":"Tetris","difficulty":"Very Hard","category":"Video Games"},
+{"id":"q3110","question":"Which 1958 oscilloscope game by William Higinbotham is often called one of the first video games?","answer":"Tennis for Two","difficulty":"Very Hard","category":"Video Games"}
 ]

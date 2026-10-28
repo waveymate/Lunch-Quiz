@@ -138,5 +138,19 @@
 {"id":"q2976","question":"Which is the only bone in the human body not joined to any other bone?","answer":"The hyoid bone, in the throat","difficulty":"Very Hard","category":"Anatomy"},
 {"id":"q2977","question":"Which is the longest cranial nerve, wandering from the brainstem down into the abdomen?","answer":"The vagus nerve","difficulty":"PhD","category":"Anatomy"},
 {"id":"q2978","question":"What is the point in the Moon's orbit where it is farthest from Earth called?","answer":"Apogee","difficulty":"Hard","category":"Space & Astronomy"},
-{"id":"q2979","question":"Which is the brightest star in the night sky?","answer":"Sirius, the 'Dog Star'","difficulty":"Medium","category":"Space & Astronomy"}
+{"id":"q2979","question":"Which is the brightest star in the night sky?","answer":"Sirius, the 'Dog Star'","difficulty":"Medium","category":"Space & Astronomy"},
+{"id":"q3071","question":"Roughly how fast does sound travel through air at sea level?","answer":"About 343 metres per second","difficulty":"Hard","category":"Physics"},
+{"id":"q3072","question":"To one significant figure, what is the Planck length?","answer":"About 1.6 × 10⁻³⁵ metres (roughly 2 × 10⁻³⁵ m)","difficulty":"PhD","category":"Physics"},
+{"id":"q3073","question":"What is it called when a superconductor expels magnetic fields from its interior?","answer":"The Meissner effect","difficulty":"PhD","category":"Physics"},
+{"id":"q3074","question":"Which 1928 equation combined quantum mechanics with special relativity to describe the electron?","answer":"The Dirac equation","difficulty":"Very Hard","category":"Quantum Mechanics"},
+{"id":"q3075","question":"Which principle, proposed by Niels Bohr, says wave and particle behaviour are both needed but can't be observed at the same time?","answer":"The principle of complementarity","difficulty":"PhD","category":"Quantum Mechanics"},
+{"id":"q3076","question":"Which 1964 inequality lets experiments test whether 'local hidden variables' can explain quantum entanglement?","answer":"Bell's inequality (Bell's theorem)","difficulty":"PhD","category":"Quantum Mechanics"},
+{"id":"q3077","question":"Which element has the atomic number 1?","answer":"Hydrogen","difficulty":"Easy","category":"Chemistry"},
+{"id":"q3078","question":"Which rule says atoms tend to gain, lose or share electrons until they have eight in their outer shell?","answer":"The octet rule","difficulty":"Hard","category":"Chemistry"},
+{"id":"q3079","question":"Which element, number 118 and named after a Russian physicist, is the heaviest yet confirmed?","answer":"Oganesson (Og)","difficulty":"PhD","category":"Chemistry"},
+{"id":"q3080","question":"What is the process by which a cell engulfs large particles, such as bacteria, called?","answer":"Phagocytosis","difficulty":"Very Hard","category":"Biology"},
+{"id":"q3081","question":"Which gene-editing tool, adapted from a bacterial immune system in 2012, has transformed biology?","answer":"CRISPR-Cas9","difficulty":"Hard","category":"Biology"},
+{"id":"q3082","question":"Which theory holds that mitochondria and chloroplasts were once free-living bacteria?","answer":"The endosymbiotic theory","difficulty":"PhD","category":"Biology"},
+{"id":"q3083","question":"What is the bundle of specialised heart fibres that carries the electrical signal to the ventricles called?","answer":"The bundle of His","difficulty":"PhD","category":"Anatomy"},
+{"id":"q3084","question":"Which large moon of Neptune orbits in the opposite direction to the planet's rotation?","answer":"Triton","difficulty":"Hard","category":"Space & Astronomy"}
 ]

@@ -143,5 +143,12 @@
 {"id":"q2996","question":"Which Russian space station was brought down from orbit in 2001?","answer":"Mir","difficulty":"Hard","category":"Space Technology"},
 {"id":"q2997","question":"Which reusable spacecraft first flew in 1981, with Columbia?","answer":"The Space Shuttle","difficulty":"Medium","category":"Space Technology"},
 {"id":"q2998","question":"Which company makes AirPods?","answer":"Apple","difficulty":"Easy","category":"Gadgets"},
-{"id":"q2999","question":"Which company made the Discman portable CD player?","answer":"Sony","difficulty":"Medium","category":"Gadgets"}
+{"id":"q2999","question":"Which company made the Discman portable CD player?","answer":"Sony","difficulty":"Medium","category":"Gadgets"},
+{"id":"q3094","question":"What does the padlock symbol next to a web address tell you?","answer":"The connection to the site is encrypted (HTTPS)","difficulty":"Medium","category":"Internet"},
+{"id":"q3095","question":"What was the first internet domain name ever registered, in 1985?","answer":"symbolics.com","difficulty":"PhD","category":"Internet"},
+{"id":"q3096","question":"What are 'CAPTCHA' tests designed to check?","answer":"That the user is a human and not a bot","difficulty":"Medium","category":"Internet"},
+{"id":"q3097","question":"Which three-tiered Roman aqueduct bridge stands in southern France?","answer":"The Pont du Gard","difficulty":"Very Hard","category":"Engineering"},
+{"id":"q3098","question":"Which Apple voice assistant first launched on the iPhone 4S in 2011?","answer":"Siri","difficulty":"Medium","category":"Artificial Intelligence"},
+{"id":"q3099","question":"Which NASA probe made the first flyby of Pluto, in 2015?","answer":"New Horizons","difficulty":"Hard","category":"Space Technology"},
+{"id":"q3100","question":"Which South Korean company released the MPMan, the first mass-produced MP3 player, in 1998?","answer":"Saehan Information Systems","difficulty":"PhD","category":"Gadgets"}
 ]

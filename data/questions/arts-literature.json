@@ -304,5 +304,22 @@
 {"id":"q3040","question":"What is 'scumbling' in painting?","answer":"Brushing a thin, broken layer of opaque paint over another colour so the one beneath shows through","difficulty":"PhD","category":"Art Techniques"},
 {"id":"q3041","question":"What is a painting of arranged everyday objects, such as fruit, flowers or jugs, called?","answer":"A still life","difficulty":"Medium","category":"Art Techniques"},
 {"id":"q3042","question":"Which Washington, D.C. museum displays the Hope Diamond?","answer":"The Smithsonian's National Museum of Natural History","difficulty":"Hard","category":"Museums"},
-{"id":"q3043","question":"Which Rome museums, founded in 1471, are often called the oldest public museums in the world?","answer":"The Capitoline Museums","difficulty":"PhD","category":"Museums"}
+{"id":"q3043","question":"Which Rome museums, founded in 1471, are often called the oldest public museums in the world?","answer":"The Capitoline Museums","difficulty":"PhD","category":"Museums"},
+{"id":"q3124","question":"Which history play did Shakespeare co-write with John Fletcher about a Tudor king?","answer":"Henry VIII","difficulty":"PhD","category":"Shakespearean Plays"},
+{"id":"q3125","question":"Which Uncle Remus character outwits Br'er Fox after getting stuck to the 'Tar-Baby'?","answer":"Br'er Rabbit","difficulty":"Very Hard","category":"Fables"},
+{"id":"q3126","question":"Which English painter created 'The Hay Wain' (1821)?","answer":"John Constable","difficulty":"Hard","category":"Paintings"},
+{"id":"q3127","question":"Which Athenian sculptor carved the 'Aphrodite of Knidos', the first life-size female nude in Greek art?","answer":"Praxiteles","difficulty":"PhD","category":"Sculptors"},
+{"id":"q3128","question":"Which Danish architect designed the Grande Arche at La Défense in Paris?","answer":"Johan Otto von Spreckelsen","difficulty":"PhD","category":"Architects"},
+{"id":"q3129","question":"What was the 1863 Paris exhibition of works rejected by the official Salon, including Manet's, called?","answer":"The Salon des Refusés","difficulty":"Very Hard","category":"Art Movements"},
+{"id":"q3130","question":"What is a 'pentimento' in a painting?","answer":"A visible trace of an earlier image that the artist painted over","difficulty":"PhD","category":"Art Techniques"},
+{"id":"q3131","question":"What is the elevated passageway linking Florence's Uffizi Gallery to the Pitti Palace called?","answer":"The Vasari Corridor","difficulty":"Very Hard","category":"Museums"},
+{"id":"q3132","question":"The typeface Times New Roman was created in 1932 for which newspaper?","answer":"The Times of London","difficulty":"Hard","category":"Design"},
+{"id":"q3133","question":"Which German designer at Braun wrote the 'Ten principles for good design'?","answer":"Dieter Rams","difficulty":"Very Hard","category":"Design"},
+{"id":"q3134","question":"Which screen-friendly typeface did Matthew Carter design for Microsoft, released in 1996?","answer":"Verdana (he also designed Georgia)","difficulty":"PhD","category":"Design"},
+{"id":"q3135","question":"Which language, written in its own alphabet, is the main official language of Israel?","answer":"Hebrew","difficulty":"Easy","category":"Languages"},
+{"id":"q3136","question":"Which living language is most closely related to Icelandic?","answer":"Faroese","difficulty":"Very Hard","category":"Languages"},
+{"id":"q3137","question":"What is the cursive everyday script of ancient Egypt, found on the Rosetta Stone alongside hieroglyphs and Greek?","answer":"Demotic","difficulty":"PhD","category":"Languages"},
+{"id":"q3138","question":"Which branch of mathematics takes its name from the Arabic 'al-jabr'?","answer":"Algebra","difficulty":"Hard","category":"Etymology"},
+{"id":"q3139","question":"From which language does the English word 'ballet' come?","answer":"French (originally from Italian 'balletto')","difficulty":"Medium","category":"Etymology"},
+{"id":"q3140","question":"'Checkmate' comes from the Persian 'shāh māt'. What does that mean?","answer":"'The king is helpless' (often given as 'the king is dead')","difficulty":"Very Hard","category":"Etymology"}
 ]

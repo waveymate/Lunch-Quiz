@@ -141,5 +141,13 @@
 {"id":"q3050","question":"Which dwarf-like Egyptian god protected households, mothers and children?","answer":"Bes","difficulty":"Very Hard","category":"Egyptian Mythology"},
 {"id":"q3051","question":"What were the four Sons of Horus believed to protect?","answer":"The dead person's internal organs, stored in canopic jars","difficulty":"PhD","category":"Egyptian Mythology"},
 {"id":"q3052","question":"Which princess of Japanese folklore was found as a tiny baby inside a glowing bamboo stalk?","answer":"Kaguya-hime (from 'The Tale of the Bamboo Cutter')","difficulty":"Hard","category":"Japanese Mythology"},
-{"id":"q3053","question":"Which Japanese god of thunder and lightning is usually shown beating drums?","answer":"Raijin","difficulty":"Hard","category":"Japanese Mythology"}
+{"id":"q3053","question":"Which Japanese god of thunder and lightning is usually shown beating drums?","answer":"Raijin","difficulty":"Hard","category":"Japanese Mythology"},
+{"id":"q3141","question":"Which Roman emperor wrote the Stoic work 'Meditations'?","answer":"Marcus Aurelius","difficulty":"Hard","category":"Philosophy"},
+{"id":"q3142","question":"Which philosopher named the 'hard problem of consciousness'?","answer":"David Chalmers","difficulty":"Very Hard","category":"Philosophy"},
+{"id":"q3143","question":"Which philosopher proposed the 'veil of ignorance' in 'A Theory of Justice' (1971)?","answer":"John Rawls","difficulty":"PhD","category":"Philosophy"},
+{"id":"q3144","question":"Which Titaness was the mother of Apollo and Artemis?","answer":"Leto","difficulty":"Very Hard","category":"Greek Mythology"},
+{"id":"q3145","question":"Which Roman goddess of luck and fortune was often shown with a wheel?","answer":"Fortuna","difficulty":"Medium","category":"Roman Mythology"},
+{"id":"q3146","question":"Which squirrel runs up and down Yggdrasil carrying insults between an eagle and a dragon?","answer":"Ratatoskr","difficulty":"PhD","category":"Norse Mythology"},
+{"id":"q3147","question":"Which giant serpent was the eternal enemy of the sun god Ra?","answer":"Apep (Apophis)","difficulty":"Very Hard","category":"Egyptian Mythology"},
+{"id":"q3148","question":"What is the name of the sacred mirror, one of Japan's three Imperial Regalia?","answer":"Yata no Kagami","difficulty":"PhD","category":"Japanese Mythology"}
 ]

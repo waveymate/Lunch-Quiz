@@ -289,5 +289,16 @@
 {"id":"q2972","question":"Which sea lies between the heel of Italy and western Greece?","answer":"The Ionian Sea","difficulty":"Hard","category":"Seas"},
 {"id":"q2973","question":"Which sea separates Great Britain from Ireland?","answer":"The Irish Sea","difficulty":"Easy","category":"Seas"},
 {"id":"q2974","question":"What is the Earth's inner core mainly made of?","answer":"Iron and nickel","difficulty":"Medium","category":"Geology"},
-{"id":"q2975","question":"What is the area where one tectonic plate dives beneath another called?","answer":"A subduction zone","difficulty":"Hard","category":"Geology"}
+{"id":"q2975","question":"What is the area where one tectonic plate dives beneath another called?","answer":"A subduction zone","difficulty":"Hard","category":"Geology"},
+{"id":"q3060","question":"Which Botswana wetland is the world's largest inland delta?","answer":"The Okavango Delta","difficulty":"Very Hard","category":"Geography"},
+{"id":"q3061","question":"What is the boundary through Indonesia that separates Asian and Australasian wildlife called?","answer":"The Wallace Line","difficulty":"PhD","category":"Geography"},
+{"id":"q3062","question":"Which mountain range in Russia is traditionally taken as the border between Europe and Asia?","answer":"The Ural Mountains","difficulty":"Hard","category":"Geography"},
+{"id":"q3063","question":"Which country contains the largest share of the Amazon rainforest?","answer":"Brazil (about 60%)","difficulty":"Easy","category":"Countries"},
+{"id":"q3064","question":"What is the capital of Eritrea?","answer":"Asmara","difficulty":"Very Hard","category":"Capital Cities"},
+{"id":"q3065","question":"What is the largest island in the Mediterranean Sea?","answer":"Sicily","difficulty":"Hard","category":"Area"},
+{"id":"q3066","question":"Which Caribbean country's flag features a purple Sisserou parrot?","answer":"Dominica","difficulty":"PhD","category":"Flags"},
+{"id":"q3067","question":"Lake Malawi is shared by which three countries?","answer":"Malawi, Mozambique and Tanzania","difficulty":"Very Hard","category":"Lakes"},
+{"id":"q3068","question":"Which Cambodian river reverses its direction of flow every year during the monsoon?","answer":"The Tonlé Sap","difficulty":"PhD","category":"Rivers"},
+{"id":"q3069","question":"Which sea is almost completely enclosed by Europe, Africa and Asia?","answer":"The Mediterranean Sea","difficulty":"Easy","category":"Seas"},
+{"id":"q3070","question":"What is the boundary between the Earth's mantle and its outer core called?","answer":"The Gutenberg discontinuity","difficulty":"PhD","category":"Geology"}
 ]

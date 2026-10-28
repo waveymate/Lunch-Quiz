@@ -114,5 +114,16 @@
 {"id":"q3056","question":"What is the Korean dish of rice topped with mixed vegetables, meat, egg and chilli paste called?","answer":"Bibimbap","difficulty":"Medium","category":"Culinary Traditions"},
 {"id":"q3057","question":"Which businessman turned McDonald's into a global franchise after joining in 1954?","answer":"Ray Kroc","difficulty":"Hard","category":"Fast Food"},
 {"id":"q3058","question":"Which fermented milk drink, made with 'grains' of yeast and bacteria, comes from the Caucasus?","answer":"Kefir","difficulty":"Hard","category":"Drink"},
-{"id":"q3059","question":"By US law, which grain must make up at least 51% of bourbon's mash?","answer":"Corn (maize)","difficulty":"Hard","category":"Alcohol & Mixology"}
+{"id":"q3059","question":"By US law, which grain must make up at least 51% of bourbon's mash?","answer":"Corn (maize)","difficulty":"Hard","category":"Alcohol & Mixology"},
+{"id":"q3149","question":"Which spice comes from the dried berries of a climbing vine?","answer":"Black pepper","difficulty":"Medium","category":"Food"},
+{"id":"q3150","question":"Which country is most famous for sushi?","answer":"Japan","difficulty":"Easy","category":"Culinary Traditions"},
+{"id":"q3151","question":"What is Spain's cold, blended tomato soup called?","answer":"Gazpacho","difficulty":"Medium","category":"Culinary Traditions"},
+{"id":"q3152","question":"Which French sauce is made from egg yolks, butter, shallots, vinegar and tarragon?","answer":"Béarnaise sauce","difficulty":"Hard","category":"Culinary Traditions"},
+{"id":"q3153","question":"Which coffee chain sells the blended Frappuccino?","answer":"Starbucks","difficulty":"Medium","category":"Fast Food"},
+{"id":"q3154","question":"Which fast-food chain introduced the Happy Meal in 1979?","answer":"McDonald's","difficulty":"Hard","category":"Fast Food"},
+{"id":"q3155","question":"What was the sandwich chain Subway originally called when it opened in 1965?","answer":"Pete's Super Submarines","difficulty":"PhD","category":"Fast Food"},
+{"id":"q3156","question":"Which country is the world's largest producer of tea?","answer":"China","difficulty":"Hard","category":"Drink"},
+{"id":"q3157","question":"What is pu-erh?","answer":"A fermented, aged dark tea from Yunnan province in China","difficulty":"PhD","category":"Drink"},
+{"id":"q3158","question":"Which bitter herb gives absinthe its name?","answer":"Wormwood (Artemisia absinthium)","difficulty":"Very Hard","category":"Alcohol & Mixology"},
+{"id":"q3159","question":"In whisky-making, what is the 'angels' share'?","answer":"The spirit lost to evaporation while it ages in the cask","difficulty":"Hard","category":"Alcohol & Mixology"}
 ]

@@ -310,5 +310,18 @@
 {"id":"q3024","question":"In professional cycling, what is a 'domestique'?","answer":"A rider who works to support the team leader rather than to win","difficulty":"Hard","category":"Cycling"},
 {"id":"q3025","question":"Which British sprinter holds the record for most Tour de France stage wins, with 35?","answer":"Mark Cavendish","difficulty":"Very Hard","category":"Cycling"},
 {"id":"q3026","question":"Who made the fastest-ever 147 maximum break in competition, in 5 minutes 8 seconds in 1997?","answer":"Ronnie O'Sullivan","difficulty":"Hard","category":"Snooker"},
-{"id":"q3027","question":"Who made the first 147 maximum break at the World Snooker Championship, in 1983?","answer":"Cliff Thorburn","difficulty":"PhD","category":"Snooker"}
+{"id":"q3027","question":"Who made the first 147 maximum break at the World Snooker Championship, in 1983?","answer":"Cliff Thorburn","difficulty":"PhD","category":"Snooker"},
+{"id":"q3111","question":"Which club won the first European Cup, in 1956?","answer":"Real Madrid","difficulty":"Very Hard","category":"Football"},
+{"id":"q3112","question":"Which driver holds the Formula 1 record for most pole positions?","answer":"Lewis Hamilton (104)","difficulty":"Medium","category":"F1","asOf":"2025"},
+{"id":"q3113","question":"Which country has hosted the Summer Olympics the most times?","answer":"The United States (four times)","difficulty":"Medium","category":"Olympics","asOf":"2026"},
+{"id":"q3114","question":"Which Kenyan runner set the men's marathon world record of 2:00:35 in Chicago in 2023?","answer":"Kelvin Kiptum","difficulty":"Very Hard","category":"Athletics"},
+{"id":"q3115","question":"Name one of the four golfers who share the record of four US Open wins.","answer":"Willie Anderson, Bobby Jones, Ben Hogan or Jack Nicklaus","difficulty":"PhD","category":"Golf"},
+{"id":"q3116","question":"Who holds the NHL record for most career points?","answer":"Wayne Gretzky (2,857)","difficulty":"Medium","category":"Ice Hockey"},
+{"id":"q3117","question":"Which Australian fast bowler took the first hat-trick in Test cricket, in 1879?","answer":"Fred Spofforth","difficulty":"PhD","category":"Cricket"},
+{"id":"q3118","question":"Which pitcher holds the MLB record for career wins, with 511?","answer":"Cy Young","difficulty":"Hard","category":"Baseball"},
+{"id":"q3119","question":"Which player won a record 11 NBA championships, all with the Boston Celtics?","answer":"Bill Russell","difficulty":"Hard","category":"Basketball"},
+{"id":"q3120","question":"Which country did New Zealand beat in the first Rugby World Cup final, in 1987?","answer":"France","difficulty":"Very Hard","category":"Rugby"},
+{"id":"q3121","question":"Who in 1975 became the first Black man to win the Wimbledon singles title?","answer":"Arthur Ashe","difficulty":"Hard","category":"Tennis"},
+{"id":"q3122","question":"Who won the first Tour de France, in 1903?","answer":"Maurice Garin","difficulty":"Very Hard","category":"Cycling"},
+{"id":"q3123","question":"Who won the first World Snooker Championship, in 1927?","answer":"Joe Davis","difficulty":"Hard","category":"Snooker"}
 ]

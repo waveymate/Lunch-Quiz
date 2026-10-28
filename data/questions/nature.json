@@ -165,5 +165,14 @@
 {"id":"q2988","question":"What is the boundary where advancing cold air pushes under warmer air called?","answer":"A cold front","difficulty":"Medium","category":"Meteorology"},
 {"id":"q2989","question":"What is the lowered, often rotating cloud beneath a supercell thunderstorm, which can come before a tornado, called?","answer":"A wall cloud","difficulty":"PhD","category":"Meteorology"},
 {"id":"q2990","question":"What are deep-sea hydrothermal vents that pour out dark, mineral-rich water called?","answer":"Black smokers","difficulty":"PhD","category":"Oceanography"},
-{"id":"q2991","question":"What is it called when cold, nutrient-rich water rises from the deep ocean to the surface?","answer":"Upwelling","difficulty":"Hard","category":"Oceanography"}
+{"id":"q2991","question":"What is it called when cold, nutrient-rich water rises from the deep ocean to the surface?","answer":"Upwelling","difficulty":"Hard","category":"Oceanography"},
+{"id":"q3085","question":"Which animal has the largest eyes of any living creature?","answer":"The colossal squid","difficulty":"Hard","category":"Fauna"},
+{"id":"q3086","question":"What are plants that grow on other plants without harming them, such as many orchids, called?","answer":"Epiphytes","difficulty":"Very Hard","category":"Flora"},
+{"id":"q3087","question":"What is the loss of water vapour from a plant's leaves called?","answer":"Transpiration","difficulty":"Medium","category":"Flora"},
+{"id":"q3088","question":"Which palm has the longest leaves of any plant, reaching about 25 m?","answer":"The raffia palm","difficulty":"PhD","category":"Flora"},
+{"id":"q3089","question":"Which hormone triggers moulting in insects?","answer":"Ecdysone","difficulty":"PhD","category":"Insects"},
+{"id":"q3090","question":"What does the name 'Velociraptor' mean?","answer":"'Swift seizer' (or 'swift thief')","difficulty":"Hard","category":"Dinosaurs"},
+{"id":"q3091","question":"Which Italian island volcano, almost always erupting, is called the 'Lighthouse of the Mediterranean'?","answer":"Stromboli","difficulty":"Hard","category":"Volcanoes"},
+{"id":"q3092","question":"What are the thin, glowing clouds high in the mesosphere, seen at twilight, called?","answer":"Noctilucent clouds","difficulty":"PhD","category":"Meteorology"},
+{"id":"q3093","question":"Which device measures the depth of water by timing pulses of sound?","answer":"An echo sounder (sonar)","difficulty":"Hard","category":"Oceanography"}
 ]
