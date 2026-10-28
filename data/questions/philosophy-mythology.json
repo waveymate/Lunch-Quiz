@@ -131,5 +131,15 @@
 {"id":"q2944","question":"Which Egyptian sky goddess is shown arching her star-covered body over the earth?","answer":"Nut","difficulty":"Hard","category":"Egyptian Mythology"},
 {"id":"q2945","question":"What was the Eye of Horus a symbol of?","answer":"Protection, healing and royal power","difficulty":"Medium","category":"Egyptian Mythology"},
 {"id":"q2946","question":"What is the three-legged crow of Japanese mythology, a divine guide, called?","answer":"Yatagarasu","difficulty":"PhD","category":"Japanese Mythology"},
-{"id":"q2947","question":"In Japanese folklore, what are household objects that come to life after 100 years called?","answer":"Tsukumogami","difficulty":"PhD","category":"Japanese Mythology"}
+{"id":"q2947","question":"In Japanese folklore, what are household objects that come to life after 100 years called?","answer":"Tsukumogami","difficulty":"PhD","category":"Japanese Mythology"},
+{"id":"q3044","question":"Who is the Greek goddess of victory?","answer":"Nike","difficulty":"Medium","category":"Greek Mythology"},
+{"id":"q3045","question":"Which mountain nymph was cursed so that she could only repeat the last words spoken to her?","answer":"Echo","difficulty":"Hard","category":"Greek Mythology"},
+{"id":"q3046","question":"Which Roman goddess of grain gave her name to the word 'cereal'?","answer":"Ceres","difficulty":"Medium","category":"Roman Mythology"},
+{"id":"q3047","question":"Which part-goat Roman god of the forests and herds was the equivalent of Pan?","answer":"Faunus","difficulty":"Hard","category":"Roman Mythology"},
+{"id":"q3048","question":"In Norse mythology, who are the Norns?","answer":"Three women (Urðr, Verðandi and Skuld) who shape the fate of gods and humans","difficulty":"Hard","category":"Norse Mythology"},
+{"id":"q3049","question":"Which realm of fire is ruled by the giant Surtr?","answer":"Muspelheim","difficulty":"Very Hard","category":"Norse Mythology"},
+{"id":"q3050","question":"Which dwarf-like Egyptian god protected households, mothers and children?","answer":"Bes","difficulty":"Very Hard","category":"Egyptian Mythology"},
+{"id":"q3051","question":"What were the four Sons of Horus believed to protect?","answer":"The dead person's internal organs, stored in canopic jars","difficulty":"PhD","category":"Egyptian Mythology"},
+{"id":"q3052","question":"Which princess of Japanese folklore was found as a tiny baby inside a glowing bamboo stalk?","answer":"Kaguya-hime (from 'The Tale of the Bamboo Cutter')","difficulty":"Hard","category":"Japanese Mythology"},
+{"id":"q3053","question":"Which Japanese god of thunder and lightning is usually shown beating drums?","answer":"Raijin","difficulty":"Hard","category":"Japanese Mythology"}
 ]

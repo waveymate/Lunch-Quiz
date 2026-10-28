@@ -151,5 +151,7 @@
 {"id":"q2905","question":"How many checkers does each player start with in backgammon?","answer":"15","difficulty":"PhD","category":"Games"},
 {"id":"q2906","question":"Which video game series stars the adventurer Lara Croft?","answer":"Tomb Raider","difficulty":"Easy","category":"Video Games"},
 {"id":"q2907","question":"Which 2020 Nintendo game had players build a new life on a deserted island?","answer":"Animal Crossing: New Horizons","difficulty":"Medium","category":"Video Games"},
-{"id":"q2908","question":"Which studio developed 'The Last of Us'?","answer":"Naughty Dog","difficulty":"Hard","category":"Video Games"}
+{"id":"q2908","question":"Which studio developed 'The Last of Us'?","answer":"Naughty Dog","difficulty":"Hard","category":"Video Games"},
+{"id":"q3000","question":"What is the 'Kuleshov effect' in film editing?","answer":"Viewers read different emotions into the same neutral face depending on the shot it's cut together with","difficulty":"PhD","category":"Cinematography"},
+{"id":"q3001","question":"Which colour film process is famous for the vivid look of 'The Wizard of Oz' (1939)?","answer":"Technicolor","difficulty":"Hard","category":"Cinematography"}
 ]

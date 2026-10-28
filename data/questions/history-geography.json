@@ -273,5 +273,21 @@
 {"id":"q2867","question":"What is the longest river in the United Kingdom?","answer":"The Severn","difficulty":"Medium","category":"Rivers"},
 {"id":"q2868","question":"Which sea is bordered by Sweden, Finland, Russia, Estonia, Latvia, Lithuania, Poland, Germany and Denmark?","answer":"The Baltic Sea","difficulty":"Hard","category":"Seas"},
 {"id":"q2869","question":"What is the method of working out a rock's age from the decay of radioactive elements called?","answer":"Radiometric dating","difficulty":"Hard","category":"Geology"},
-{"id":"q2958","question":"After Brazil, which nation covers the most land in South America?","answer":"Argentina","difficulty":"Medium","category":"Area"}
+{"id":"q2958","question":"After Brazil, which nation covers the most land in South America?","answer":"Argentina","difficulty":"Medium","category":"Area"},
+{"id":"q2960","question":"Which country's official name is the 'Plurinational State of' that country?","answer":"Bolivia","difficulty":"Hard","category":"Countries"},
+{"id":"q2961","question":"Which is the only country whose entire territory lies above 1,000 m in elevation?","answer":"Lesotho (its lowest point is about 1,400 m)","difficulty":"PhD","category":"Countries"},
+{"id":"q2962","question":"Which is the world's southernmost national capital?","answer":"Wellington, New Zealand","difficulty":"Very Hard","category":"Capital Cities"},
+{"id":"q2963","question":"What is the capital of the Marshall Islands?","answer":"Majuro","difficulty":"PhD","category":"Capital Cities"},
+{"id":"q2964","question":"What is the smallest country in South America by area?","answer":"Suriname","difficulty":"Hard","category":"Area"},
+{"id":"q2965","question":"What is the smallest country in Asia by area?","answer":"The Maldives","difficulty":"Hard","category":"Area"},
+{"id":"q2966","question":"Which is the only national flag that features an image of the Bible?","answer":"The Dominican Republic's","difficulty":"PhD","category":"Flags"},
+{"id":"q2967","question":"Which country's flag shows a black double-headed eagle on a red background?","answer":"Albania","difficulty":"Hard","category":"Flags"},
+{"id":"q2968","question":"Which Cameroonian lake released a deadly cloud of carbon dioxide in 1986, killing about 1,700 people?","answer":"Lake Nyos","difficulty":"PhD","category":"Lakes"},
+{"id":"q2969","question":"In which country is Lake Como?","answer":"Italy","difficulty":"Easy","category":"Lakes"},
+{"id":"q2970","question":"Into which sea does the Rhine flow?","answer":"The North Sea","difficulty":"Hard","category":"Rivers"},
+{"id":"q2971","question":"On which river did the trading city of Timbuktu grow up?","answer":"The Niger","difficulty":"PhD","category":"Rivers"},
+{"id":"q2972","question":"Which sea lies between the heel of Italy and western Greece?","answer":"The Ionian Sea","difficulty":"Hard","category":"Seas"},
+{"id":"q2973","question":"Which sea separates Great Britain from Ireland?","answer":"The Irish Sea","difficulty":"Easy","category":"Seas"},
+{"id":"q2974","question":"What is the Earth's inner core mainly made of?","answer":"Iron and nickel","difficulty":"Medium","category":"Geology"},
+{"id":"q2975","question":"What is the area where one tectonic plate dives beneath another called?","answer":"A subduction zone","difficulty":"Hard","category":"Geology"}
 ]

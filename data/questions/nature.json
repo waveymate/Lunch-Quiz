@@ -153,5 +153,17 @@
 {"id":"q2888","question":"What is the name of the famous Tyrannosaurus rex skeleton at Chicago's Field Museum?","answer":"Sue","difficulty":"Very Hard","category":"Dinosaurs"},
 {"id":"q2889","question":"Which Philippine volcano's 1991 eruption cooled global temperatures for about two years?","answer":"Mount Pinatubo","difficulty":"Hard","category":"Volcanoes"},
 {"id":"q2890","question":"What forms when water droplets freeze in layers as they're tossed around inside thunderclouds?","answer":"Hail","difficulty":"Medium","category":"Meteorology"},
-{"id":"q2891","question":"What is the pitch-dark layer of the ocean below about 1,000 m, where no sunlight reaches, often called?","answer":"The midnight (or aphotic) zone","difficulty":"Hard","category":"Oceanography"}
+{"id":"q2891","question":"What is the pitch-dark layer of the ocean below about 1,000 m, where no sunlight reaches, often called?","answer":"The midnight (or aphotic) zone","difficulty":"Hard","category":"Oceanography"},
+{"id":"q2980","question":"Which is the only mammal covered in scales?","answer":"The pangolin","difficulty":"Hard","category":"Fauna"},
+{"id":"q2981","question":"What is the smallest mammal by body mass?","answer":"The Etruscan shrew","difficulty":"PhD","category":"Fauna"},
+{"id":"q2982","question":"Which term describes insects such as ants and honeybees that live in colonies with worker castes and a breeding queen?","answer":"Eusocial","difficulty":"PhD","category":"Insects"},
+{"id":"q2983","question":"Which insect's caterpillar spins the thread used to make silk?","answer":"The silkworm (the caterpillar of the silk moth)","difficulty":"Medium","category":"Insects"},
+{"id":"q2984","question":"Which fossil collector from Lyme Regis found the first correctly identified ichthyosaur skeleton as a girl?","answer":"Mary Anning","difficulty":"Hard","category":"Dinosaurs"},
+{"id":"q2985","question":"What is fossilised dung called?","answer":"A coprolite","difficulty":"Very Hard","category":"Dinosaurs"},
+{"id":"q2986","question":"Which volcano's 1902 eruption destroyed the town of Saint-Pierre on Martinique?","answer":"Mount Pelée","difficulty":"PhD","category":"Volcanoes"},
+{"id":"q2987","question":"Which Hawaiian volcano erupted almost continuously from 1983 to 2018?","answer":"Kīlauea","difficulty":"Hard","category":"Volcanoes"},
+{"id":"q2988","question":"What is the boundary where advancing cold air pushes under warmer air called?","answer":"A cold front","difficulty":"Medium","category":"Meteorology"},
+{"id":"q2989","question":"What is the lowered, often rotating cloud beneath a supercell thunderstorm, which can come before a tornado, called?","answer":"A wall cloud","difficulty":"PhD","category":"Meteorology"},
+{"id":"q2990","question":"What are deep-sea hydrothermal vents that pour out dark, mineral-rich water called?","answer":"Black smokers","difficulty":"PhD","category":"Oceanography"},
+{"id":"q2991","question":"What is it called when cold, nutrient-rich water rises from the deep ocean to the surface?","answer":"Upwelling","difficulty":"Hard","category":"Oceanography"}
 ]

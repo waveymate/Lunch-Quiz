@@ -288,5 +288,21 @@
 {"id":"q2934","question":"In which ancient language were the Hindu Vedas composed?","answer":"Sanskrit","difficulty":"Hard","category":"Languages"},
 {"id":"q2935","question":"The German word 'kindergarten' literally means what?","answer":"'Children's garden'","difficulty":"Medium","category":"Etymology"},
 {"id":"q2936","question":"The word 'shampoo' comes from which language?","answer":"Hindi ('chāmpo', meaning to press or massage)","difficulty":"Very Hard","category":"Etymology"},
-{"id":"q2937","question":"The word 'astronaut' comes from Greek words meaning what?","answer":"'Star sailor'","difficulty":"Hard","category":"Etymology"}
+{"id":"q2937","question":"The word 'astronaut' comes from Greek words meaning what?","answer":"'Star sailor'","difficulty":"Hard","category":"Etymology"},
+{"id":"q3028","question":"In which Shakespeare play does a character cry 'Out, damned spot!'?","answer":"Macbeth (spoken by Lady Macbeth)","difficulty":"Medium","category":"Shakespearean Plays"},
+{"id":"q3029","question":"Which Shakespeare comedy features the sparring lovers Beatrice and Benedick?","answer":"Much Ado About Nothing","difficulty":"Medium","category":"Shakespearean Plays"},
+{"id":"q3030","question":"Which Aesop fable gave us the phrase 'the lion's share'?","answer":"The Lion's Share (the lion takes every portion for himself)","difficulty":"Hard","category":"Fables"},
+{"id":"q3031","question":"Which 12th-century poet wrote the first collection of Aesop's fables in French?","answer":"Marie de France","difficulty":"PhD","category":"Fables"},
+{"id":"q3032","question":"Which Mexican painter is famous for her vivid self-portraits?","answer":"Frida Kahlo","difficulty":"Easy","category":"Paintings"},
+{"id":"q3033","question":"Which Théodore Géricault painting shows desperate survivors of an 1816 shipwreck?","answer":"The Raft of the Medusa","difficulty":"Very Hard","category":"Paintings"},
+{"id":"q3034","question":"In which city is the 'Manneken Pis' statue?","answer":"Brussels","difficulty":"Medium","category":"Sculptors"},
+{"id":"q3035","question":"Which French sculptor designed Rio de Janeiro's 'Christ the Redeemer'?","answer":"Paul Landowski","difficulty":"Very Hard","category":"Sculptors"},
+{"id":"q3036","question":"Which architect designed Dubai's sail-shaped Burj Al Arab hotel?","answer":"Tom Wright (of the firm Atkins)","difficulty":"PhD","category":"Architects"},
+{"id":"q3037","question":"Which temple on the Athenian Acropolis was dedicated to the goddess Athena?","answer":"The Parthenon","difficulty":"Easy","category":"Architects"},
+{"id":"q3038","question":"Edvard Munch's 'The Scream' is a landmark of which art movement?","answer":"Expressionism","difficulty":"Hard","category":"Art Movements"},
+{"id":"q3039","question":"Which Russian movement, founded by Kazimir Malevich, used pure geometric shapes as in his 'Black Square'?","answer":"Suprematism","difficulty":"PhD","category":"Art Movements"},
+{"id":"q3040","question":"What is 'scumbling' in painting?","answer":"Brushing a thin, broken layer of opaque paint over another colour so the one beneath shows through","difficulty":"PhD","category":"Art Techniques"},
+{"id":"q3041","question":"What is a painting of arranged everyday objects, such as fruit, flowers or jugs, called?","answer":"A still life","difficulty":"Medium","category":"Art Techniques"},
+{"id":"q3042","question":"Which Washington, D.C. museum displays the Hope Diamond?","answer":"The Smithsonian's National Museum of Natural History","difficulty":"Hard","category":"Museums"},
+{"id":"q3043","question":"Which Rome museums, founded in 1471, are often called the oldest public museums in the world?","answer":"The Capitoline Museums","difficulty":"PhD","category":"Museums"}
 ]

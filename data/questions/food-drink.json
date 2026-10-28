@@ -108,5 +108,11 @@
 {"id":"q2954","question":"In which country is Darjeeling tea grown?","answer":"India (in West Bengal)","difficulty":"Easy","category":"Drink"},
 {"id":"q2955","question":"What is kvass?","answer":"A lightly fermented drink made from rye bread, popular in Eastern Europe","difficulty":"Very Hard","category":"Drink"},
 {"id":"q2956","question":"In which country was the gin-based drink Pimm's created?","answer":"England","difficulty":"Hard","category":"Alcohol & Mixology"},
-{"id":"q2957","question":"What gives a Bloody Mary cocktail its red colour?","answer":"Tomato juice","difficulty":"Easy","category":"Alcohol & Mixology"}
+{"id":"q2957","question":"What gives a Bloody Mary cocktail its red colour?","answer":"Tomato juice","difficulty":"Easy","category":"Alcohol & Mixology"},
+{"id":"q3054","question":"Which country is the noodle soup pho from?","answer":"Vietnam","difficulty":"Easy","category":"Food"},
+{"id":"q3055","question":"What was garum, the hugely popular condiment of ancient Rome?","answer":"A fermented fish sauce","difficulty":"Very Hard","category":"Food"},
+{"id":"q3056","question":"What is the Korean dish of rice topped with mixed vegetables, meat, egg and chilli paste called?","answer":"Bibimbap","difficulty":"Medium","category":"Culinary Traditions"},
+{"id":"q3057","question":"Which businessman turned McDonald's into a global franchise after joining in 1954?","answer":"Ray Kroc","difficulty":"Hard","category":"Fast Food"},
+{"id":"q3058","question":"Which fermented milk drink, made with 'grains' of yeast and bacteria, comes from the Caucasus?","answer":"Kefir","difficulty":"Hard","category":"Drink"},
+{"id":"q3059","question":"By US law, which grain must make up at least 51% of bourbon's mash?","answer":"Corn (maize)","difficulty":"Hard","category":"Alcohol & Mixology"}
 ]

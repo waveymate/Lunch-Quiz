@@ -135,5 +135,13 @@
 {"id":"q2895","question":"Which 55 km bridge-and-tunnel link, the world's longest sea crossing, opened in 2018?","answer":"The Hong Kong–Zhuhai–Macau Bridge","difficulty":"Very Hard","category":"Engineering"},
 {"id":"q2896","question":"Which OpenAI system creates images from text descriptions?","answer":"DALL·E","difficulty":"Hard","category":"Artificial Intelligence"},
 {"id":"q2897","question":"How many gold-coated hexagonal segments make up the James Webb Space Telescope's main mirror?","answer":"18","difficulty":"Hard","category":"Space Technology"},
-{"id":"q2898","question":"In which year was the first Apple Watch released?","answer":"2015","difficulty":"Hard","category":"Gadgets"}
+{"id":"q2898","question":"In which year was the first Apple Watch released?","answer":"2015","difficulty":"Hard","category":"Gadgets"},
+{"id":"q2992","question":"Which American bridge, nicknamed 'Galloping Gertie', collapsed in the wind in 1940?","answer":"The Tacoma Narrows Bridge","difficulty":"Very Hard","category":"Engineering"},
+{"id":"q2993","question":"Which city's Golden Gate Bridge opened in 1937?","answer":"San Francisco","difficulty":"Medium","category":"Engineering"},
+{"id":"q2994","question":"Which award is often described as the 'Nobel Prize of computing'?","answer":"The Turing Award","difficulty":"Hard","category":"Artificial Intelligence"},
+{"id":"q2995","question":"Which early neural-network machine did Frank Rosenblatt build in 1958?","answer":"The Perceptron","difficulty":"PhD","category":"Artificial Intelligence"},
+{"id":"q2996","question":"Which Russian space station was brought down from orbit in 2001?","answer":"Mir","difficulty":"Hard","category":"Space Technology"},
+{"id":"q2997","question":"Which reusable spacecraft first flew in 1981, with Columbia?","answer":"The Space Shuttle","difficulty":"Medium","category":"Space Technology"},
+{"id":"q2998","question":"Which company makes AirPods?","answer":"Apple","difficulty":"Easy","category":"Gadgets"},
+{"id":"q2999","question":"Which company made the Discman portable CD player?","answer":"Sony","difficulty":"Medium","category":"Gadgets"}
 ]

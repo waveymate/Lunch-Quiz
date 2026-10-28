@@ -134,5 +134,9 @@
 {"id":"q2880","question":"Which molecule carries the genetic instructions in almost all living things?","answer":"DNA (deoxyribonucleic acid)","difficulty":"Easy","category":"Biology"},
 {"id":"q2881","question":"What is an organism that makes its own food, for example from sunlight, called?","answer":"An autotroph","difficulty":"Very Hard","category":"Biology"},
 {"id":"q2882","question":"How many teeth does a typical adult human have, including wisdom teeth?","answer":"32","difficulty":"Medium","category":"Anatomy"},
-{"id":"q2883","question":"What lies at the centre of the Milky Way?","answer":"A supermassive black hole, Sagittarius A*","difficulty":"Very Hard","category":"Space & Astronomy"}
+{"id":"q2883","question":"What lies at the centre of the Milky Way?","answer":"A supermassive black hole, Sagittarius A*","difficulty":"Very Hard","category":"Space & Astronomy"},
+{"id":"q2976","question":"Which is the only bone in the human body not joined to any other bone?","answer":"The hyoid bone, in the throat","difficulty":"Very Hard","category":"Anatomy"},
+{"id":"q2977","question":"Which is the longest cranial nerve, wandering from the brainstem down into the abdomen?","answer":"The vagus nerve","difficulty":"PhD","category":"Anatomy"},
+{"id":"q2978","question":"What is the point in the Moon's orbit where it is farthest from Earth called?","answer":"Apogee","difficulty":"Hard","category":"Space & Astronomy"},
+{"id":"q2979","question":"Which is the brightest star in the night sky?","answer":"Sirius, the 'Dog Star'","difficulty":"Medium","category":"Space & Astronomy"}
 ]
