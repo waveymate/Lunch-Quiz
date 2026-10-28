@@ -174,5 +174,17 @@
 {"id":"q3090","question":"What does the name 'Velociraptor' mean?","answer":"'Swift seizer' (or 'swift thief')","difficulty":"Hard","category":"Dinosaurs"},
 {"id":"q3091","question":"Which Italian island volcano, almost always erupting, is called the 'Lighthouse of the Mediterranean'?","answer":"Stromboli","difficulty":"Hard","category":"Volcanoes"},
 {"id":"q3092","question":"What are the thin, glowing clouds high in the mesosphere, seen at twilight, called?","answer":"Noctilucent clouds","difficulty":"PhD","category":"Meteorology"},
-{"id":"q3093","question":"Which device measures the depth of water by timing pulses of sound?","answer":"An echo sounder (sonar)","difficulty":"Hard","category":"Oceanography"}
+{"id":"q3093","question":"Which device measures the depth of water by timing pulses of sound?","answer":"An echo sounder (sonar)","difficulty":"Hard","category":"Oceanography"},
+{"id":"q3180","question":"Which is the largest species of penguin?","answer":"The emperor penguin","difficulty":"Medium","category":"Fauna"},
+{"id":"q3181","question":"Which tiny jellyfish is called 'immortal' because it can turn back into its juvenile form?","answer":"Turritopsis dohrnii","difficulty":"Very Hard","category":"Fauna"},
+{"id":"q3182","question":"What do silkworms feed on?","answer":"Mulberry leaves","difficulty":"Hard","category":"Insects"},
+{"id":"q3183","question":"Which wasp turns cockroaches into obedient 'zombies' before laying its egg on them?","answer":"The emerald jewel wasp (emerald cockroach wasp)","difficulty":"PhD","category":"Insects"},
+{"id":"q3184","question":"Which famous sauropod name was dropped for decades in favour of Apatosaurus, then revived as a separate genus in 2015?","answer":"Brontosaurus","difficulty":"Very Hard","category":"Dinosaurs"},
+{"id":"q3185","question":"Which dinosaur had a domed skull up to about 25 cm thick?","answer":"Pachycephalosaurus","difficulty":"Hard","category":"Dinosaurs"},
+{"id":"q3186","question":"Which active volcano near Mexico City is nicknamed 'El Popo'?","answer":"Popocatépetl","difficulty":"Hard","category":"Volcanoes"},
+{"id":"q3187","question":"Which new island rose out of the sea off southern Iceland in a 1963 eruption?","answer":"Surtsey","difficulty":"PhD","category":"Volcanoes"},
+{"id":"q3188","question":"Which instrument measures wind speed?","answer":"An anemometer","difficulty":"Medium","category":"Meteorology"},
+{"id":"q3189","question":"What is the atmospheric circulation cell between the Equator and about 30° latitude called?","answer":"The Hadley cell","difficulty":"PhD","category":"Meteorology"},
+{"id":"q3190","question":"What is the name of the deepest point in the Atlantic Ocean, in the Puerto Rico Trench?","answer":"The Milwaukee Deep","difficulty":"PhD","category":"Oceanography"},
+{"id":"q3191","question":"Which ocean current, the strongest on Earth, flows eastward around Antarctica?","answer":"The Antarctic Circumpolar Current","difficulty":"Very Hard","category":"Oceanography"}
 ]

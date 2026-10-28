@@ -152,5 +152,9 @@
 {"id":"q3081","question":"Which gene-editing tool, adapted from a bacterial immune system in 2012, has transformed biology?","answer":"CRISPR-Cas9","difficulty":"Hard","category":"Biology"},
 {"id":"q3082","question":"Which theory holds that mitochondria and chloroplasts were once free-living bacteria?","answer":"The endosymbiotic theory","difficulty":"PhD","category":"Biology"},
 {"id":"q3083","question":"What is the bundle of specialised heart fibres that carries the electrical signal to the ventricles called?","answer":"The bundle of His","difficulty":"PhD","category":"Anatomy"},
-{"id":"q3084","question":"Which large moon of Neptune orbits in the opposite direction to the planet's rotation?","answer":"Triton","difficulty":"Hard","category":"Space & Astronomy"}
+{"id":"q3084","question":"Which large moon of Neptune orbits in the opposite direction to the planet's rotation?","answer":"Triton","difficulty":"Hard","category":"Space & Astronomy"},
+{"id":"q3176","question":"What is the larynx better known as?","answer":"The voice box","difficulty":"Medium","category":"Anatomy"},
+{"id":"q3177","question":"Which part of the inner ear, including the semicircular canals, controls balance?","answer":"The vestibular system","difficulty":"Very Hard","category":"Anatomy"},
+{"id":"q3178","question":"Which planet has the shortest day, rotating in under 10 hours?","answer":"Jupiter","difficulty":"Hard","category":"Space & Astronomy"},
+{"id":"q3179","question":"What is the distance within which a moon would be torn apart by its planet's tidal forces called?","answer":"The Roche limit","difficulty":"PhD","category":"Space & Astronomy"}
 ]

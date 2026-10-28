@@ -300,5 +300,21 @@
 {"id":"q3067","question":"Lake Malawi is shared by which three countries?","answer":"Malawi, Mozambique and Tanzania","difficulty":"Very Hard","category":"Lakes"},
 {"id":"q3068","question":"Which Cambodian river reverses its direction of flow every year during the monsoon?","answer":"The Tonlé Sap","difficulty":"PhD","category":"Rivers"},
 {"id":"q3069","question":"Which sea is almost completely enclosed by Europe, Africa and Asia?","answer":"The Mediterranean Sea","difficulty":"Easy","category":"Seas"},
-{"id":"q3070","question":"What is the boundary between the Earth's mantle and its outer core called?","answer":"The Gutenberg discontinuity","difficulty":"PhD","category":"Geology"}
+{"id":"q3070","question":"What is the boundary between the Earth's mantle and its outer core called?","answer":"The Gutenberg discontinuity","difficulty":"PhD","category":"Geology"},
+{"id":"q3160","question":"Which is the only African country with Spanish as an official language?","answer":"Equatorial Guinea","difficulty":"Very Hard","category":"Countries"},
+{"id":"q3161","question":"Liechtenstein is one of only two 'doubly landlocked' countries. Which is the other?","answer":"Uzbekistan","difficulty":"PhD","category":"Countries"},
+{"id":"q3162","question":"What is the capital of Mozambique?","answer":"Maputo","difficulty":"Very Hard","category":"Capital Cities"},
+{"id":"q3163","question":"What is the capital of Tuvalu?","answer":"Funafuti","difficulty":"PhD","category":"Capital Cities"},
+{"id":"q3164","question":"Which is the largest country in Central America by area?","answer":"Nicaragua","difficulty":"Very Hard","category":"Area"},
+{"id":"q3165","question":"Which is the largest country in the world without a single permanent river?","answer":"Saudi Arabia","difficulty":"PhD","category":"Area"},
+{"id":"q3166","question":"Which country's flag is a red disc on a green background?","answer":"Bangladesh","difficulty":"Hard","category":"Flags"},
+{"id":"q3167","question":"Which Pacific nation's flag shows a frigatebird flying over a rising sun?","answer":"Kiribati","difficulty":"PhD","category":"Flags"},
+{"id":"q3168","question":"Which Ethiopian lake is the source of the Blue Nile?","answer":"Lake Tana","difficulty":"Very Hard","category":"Lakes"},
+{"id":"q3169","question":"Which Oregon lake, filling a collapsed volcano, is the deepest lake in the United States?","answer":"Crater Lake","difficulty":"Hard","category":"Lakes"},
+{"id":"q3170","question":"Which river flows through the centre of Berlin?","answer":"The Spree","difficulty":"Hard","category":"Rivers"},
+{"id":"q3171","question":"Which African river is the deepest in the world, at over 220 m in places?","answer":"The Congo","difficulty":"Very Hard","category":"Rivers"},
+{"id":"q3172","question":"Which sea lies between the south-west Philippines and north-east Borneo?","answer":"The Sulu Sea","difficulty":"PhD","category":"Seas"},
+{"id":"q3173","question":"The Sinai Peninsula sits between the Gulf of Aqaba and which other gulf?","answer":"The Gulf of Suez","difficulty":"PhD","category":"Seas"},
+{"id":"q3174","question":"Which mineral is the main ingredient of limestone?","answer":"Calcite (calcium carbonate)","difficulty":"Hard","category":"Geology"},
+{"id":"q3175","question":"Which supercontinent, also called Nuna, existed about 1.8 billion years ago, before Rodinia?","answer":"Columbia","difficulty":"PhD","category":"Geology"}
 ]

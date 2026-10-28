@@ -150,5 +150,13 @@
 {"id":"q3097","question":"Which three-tiered Roman aqueduct bridge stands in southern France?","answer":"The Pont du Gard","difficulty":"Very Hard","category":"Engineering"},
 {"id":"q3098","question":"Which Apple voice assistant first launched on the iPhone 4S in 2011?","answer":"Siri","difficulty":"Medium","category":"Artificial Intelligence"},
 {"id":"q3099","question":"Which NASA probe made the first flyby of Pluto, in 2015?","answer":"New Horizons","difficulty":"Hard","category":"Space Technology"},
-{"id":"q3100","question":"Which South Korean company released the MPMan, the first mass-produced MP3 player, in 1998?","answer":"Saehan Information Systems","difficulty":"PhD","category":"Gadgets"}
+{"id":"q3100","question":"Which South Korean company released the MPMan, the first mass-produced MP3 player, in 1998?","answer":"Saehan Information Systems","difficulty":"PhD","category":"Gadgets"},
+{"id":"q3192","question":"Which country built the Delta Works, a vast system of dams and storm-surge barriers?","answer":"The Netherlands","difficulty":"Medium","category":"Engineering"},
+{"id":"q3193","question":"Who built 'Locomotion No. 1', which pulled the first train on the Stockton and Darlington Railway in 1825?","answer":"George Stephenson","difficulty":"Hard","category":"Engineering"},
+{"id":"q3194","question":"In AI, what does 'NLP' stand for?","answer":"Natural Language Processing","difficulty":"Hard","category":"Artificial Intelligence"},
+{"id":"q3195","question":"Which 1980s AI programs used large sets of hand-written 'if–then' rules to mimic human specialists?","answer":"Expert systems","difficulty":"Very Hard","category":"Artificial Intelligence"},
+{"id":"q3196","question":"What does 'NASA' stand for?","answer":"National Aeronautics and Space Administration","difficulty":"Medium","category":"Space Technology"},
+{"id":"q3197","question":"Which spacecraft carry the 'Golden Records' of sounds and images from Earth?","answer":"Voyager 1 and Voyager 2","difficulty":"Hard","category":"Space Technology"},
+{"id":"q3198","question":"What control did the first iPod use to scroll through songs?","answer":"A mechanical scroll wheel (later replaced by the click wheel)","difficulty":"Hard","category":"Gadgets"},
+{"id":"q3258","question":"Which tech giant makes the Xbox games console?","answer":"Microsoft","difficulty":"Easy","category":"Gadgets"}
 ]

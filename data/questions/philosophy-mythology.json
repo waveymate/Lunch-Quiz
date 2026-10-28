@@ -149,5 +149,15 @@
 {"id":"q3145","question":"Which Roman goddess of luck and fortune was often shown with a wheel?","answer":"Fortuna","difficulty":"Medium","category":"Roman Mythology"},
 {"id":"q3146","question":"Which squirrel runs up and down Yggdrasil carrying insults between an eagle and a dragon?","answer":"Ratatoskr","difficulty":"PhD","category":"Norse Mythology"},
 {"id":"q3147","question":"Which giant serpent was the eternal enemy of the sun god Ra?","answer":"Apep (Apophis)","difficulty":"Very Hard","category":"Egyptian Mythology"},
-{"id":"q3148","question":"What is the name of the sacred mirror, one of Japan's three Imperial Regalia?","answer":"Yata no Kagami","difficulty":"PhD","category":"Japanese Mythology"}
+{"id":"q3148","question":"What is the name of the sacred mirror, one of Japan's three Imperial Regalia?","answer":"Yata no Kagami","difficulty":"PhD","category":"Japanese Mythology"},
+{"id":"q3242","question":"Which lame Greek god was the blacksmith of the gods?","answer":"Hephaestus","difficulty":"Medium","category":"Greek Mythology"},
+{"id":"q3243","question":"What were the hundred-handed giants who helped Zeus defeat the Titans called?","answer":"The Hecatoncheires","difficulty":"PhD","category":"Greek Mythology"},
+{"id":"q3244","question":"Apart from Diana, which Roman goddess personified the Moon?","answer":"Luna","difficulty":"PhD","category":"Roman Mythology"},
+{"id":"q3245","question":"In Roman religion, who were the Manes?","answer":"The spirits of dead ancestors","difficulty":"PhD","category":"Roman Mythology"},
+{"id":"q3246","question":"What is the name of the god Freyr's shining golden boar?","answer":"Gullinbursti","difficulty":"PhD","category":"Norse Mythology"},
+{"id":"q3247","question":"What is the underworld ruled by the goddess Hel called?","answer":"Helheim (or Hel)","difficulty":"Hard","category":"Norse Mythology"},
+{"id":"q3248","question":"Which crocodile-headed Egyptian god was linked with the Nile and fertility?","answer":"Sobek","difficulty":"Hard","category":"Egyptian Mythology"},
+{"id":"q3249","question":"Which god, 'the Hidden One', was later merged with the sun god to become king of the gods?","answer":"Amun (Amun-Ra)","difficulty":"Very Hard","category":"Egyptian Mythology"},
+{"id":"q3250","question":"What is the code of honour followed by the samurai called?","answer":"Bushidō","difficulty":"Medium","category":"Japanese Mythology"},
+{"id":"q3251","question":"Which goddess hid in a cave, plunging the world into darkness, until the other gods lured her out?","answer":"Amaterasu","difficulty":"Very Hard","category":"Japanese Mythology"}
 ]

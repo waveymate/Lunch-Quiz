@@ -125,5 +125,11 @@
 {"id":"q3156","question":"Which country is the world's largest producer of tea?","answer":"China","difficulty":"Hard","category":"Drink"},
 {"id":"q3157","question":"What is pu-erh?","answer":"A fermented, aged dark tea from Yunnan province in China","difficulty":"PhD","category":"Drink"},
 {"id":"q3158","question":"Which bitter herb gives absinthe its name?","answer":"Wormwood (Artemisia absinthium)","difficulty":"Very Hard","category":"Alcohol & Mixology"},
-{"id":"q3159","question":"In whisky-making, what is the 'angels' share'?","answer":"The spirit lost to evaporation while it ages in the cask","difficulty":"Hard","category":"Alcohol & Mixology"}
+{"id":"q3159","question":"In whisky-making, what is the 'angels' share'?","answer":"The spirit lost to evaporation while it ages in the cask","difficulty":"Hard","category":"Alcohol & Mixology"},
+{"id":"q3252","question":"Which country does Manchego cheese come from?","answer":"Spain","difficulty":"Hard","category":"Food"},
+{"id":"q3253","question":"What is the traditional Japanese ceremony of pounding steamed rice into mochi called?","answer":"Mochitsuki","difficulty":"PhD","category":"Food"},
+{"id":"q3254","question":"Which coffee species makes up most of the world's coffee production?","answer":"Arabica","difficulty":"Hard","category":"Drink"},
+{"id":"q3255","question":"What is the traditional South American drink chicha usually made from?","answer":"Fermented maize (corn)","difficulty":"PhD","category":"Drink"},
+{"id":"q3256","question":"Rioja wine comes from which country?","answer":"Spain","difficulty":"Medium","category":"Alcohol & Mixology"},
+{"id":"q3257","question":"What is the key step of the 'méthode champenoise' used for Champagne?","answer":"A second fermentation inside the bottle, which creates the bubbles","difficulty":"Very Hard","category":"Alcohol & Mixology"}
 ]

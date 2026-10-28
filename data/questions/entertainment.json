@@ -163,5 +163,7 @@
 {"id":"q3107","question":"Draughts (checkers) was 'solved' by computer in 2007. What is the result with perfect play from both sides?","answer":"A draw","difficulty":"PhD","category":"Games"},
 {"id":"q3108","question":"Which company created 'Fortnite'?","answer":"Epic Games","difficulty":"Medium","category":"Video Games"},
 {"id":"q3109","question":"Which game, on a Game Boy, became one of the first video games played in space, aboard Mir in 1993?","answer":"Tetris","difficulty":"Very Hard","category":"Video Games"},
-{"id":"q3110","question":"Which 1958 oscilloscope game by William Higinbotham is often called one of the first video games?","answer":"Tennis for Two","difficulty":"Very Hard","category":"Video Games"}
+{"id":"q3110","question":"Which 1958 oscilloscope game by William Higinbotham is often called one of the first video games?","answer":"Tennis for Two","difficulty":"Very Hard","category":"Video Games"},
+{"id":"q3199","question":"What is the film technique 'day for night'?","answer":"Shooting in daylight and darkening the image so the scene looks like night","difficulty":"Very Hard","category":"Cinematography"},
+{"id":"q3200","question":"Which filming rule says the camera should stay on one side of an imaginary line between two characters?","answer":"The 180-degree rule","difficulty":"Hard","category":"Cinematography"}
 ]

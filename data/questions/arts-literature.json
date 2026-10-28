@@ -321,5 +321,21 @@
 {"id":"q3137","question":"What is the cursive everyday script of ancient Egypt, found on the Rosetta Stone alongside hieroglyphs and Greek?","answer":"Demotic","difficulty":"PhD","category":"Languages"},
 {"id":"q3138","question":"Which branch of mathematics takes its name from the Arabic 'al-jabr'?","answer":"Algebra","difficulty":"Hard","category":"Etymology"},
 {"id":"q3139","question":"From which language does the English word 'ballet' come?","answer":"French (originally from Italian 'balletto')","difficulty":"Medium","category":"Etymology"},
-{"id":"q3140","question":"'Checkmate' comes from the Persian 'shāh māt'. What does that mean?","answer":"'The king is helpless' (often given as 'the king is dead')","difficulty":"Very Hard","category":"Etymology"}
+{"id":"q3140","question":"'Checkmate' comes from the Persian 'shāh māt'. What does that mean?","answer":"'The king is helpless' (often given as 'the king is dead')","difficulty":"Very Hard","category":"Etymology"},
+{"id":"q3226","question":"In which Shakespeare comedy is the pompous steward Malvolio tricked into wearing yellow stockings?","answer":"Twelfth Night","difficulty":"Hard","category":"Shakespearean Plays"},
+{"id":"q3227","question":"In 'Othello', what is the name of Iago's wife?","answer":"Emilia","difficulty":"Very Hard","category":"Shakespearean Plays"},
+{"id":"q3228","question":"What lesson does Aesop's 'The Fox Without a Tail' teach?","answer":"Beware of advice from people who would gain from your loss","difficulty":"PhD","category":"Fables"},
+{"id":"q3229","question":"Which 1st-century Roman writer, a freed slave, retold Aesop's fables in Latin verse?","answer":"Phaedrus","difficulty":"PhD","category":"Fables"},
+{"id":"q3230","question":"Which Dutch painter created 'The Milkmaid' (c. 1658)?","answer":"Johannes Vermeer","difficulty":"Hard","category":"Paintings"},
+{"id":"q3231","question":"Which Spanish artist painted his grim 'Black Paintings' directly onto the walls of his house?","answer":"Francisco Goya","difficulty":"Very Hard","category":"Paintings"},
+{"id":"q3232","question":"Which ancient sculpture in the Vatican shows a Trojan priest and his sons attacked by sea serpents?","answer":"Laocoön and His Sons","difficulty":"Very Hard","category":"Sculptors"},
+{"id":"q3233","question":"Which sculptor created 'The Burghers of Calais' and 'The Gates of Hell'?","answer":"Auguste Rodin","difficulty":"Medium","category":"Sculptors"},
+{"id":"q3234","question":"Which architect designed New York's bronze-and-glass Seagram Building (1958)?","answer":"Ludwig Mies van der Rohe (with Philip Johnson)","difficulty":"Hard","category":"Architects"},
+{"id":"q3235","question":"Which Finnish architect designed the Paimio Sanatorium?","answer":"Alvar Aalto","difficulty":"PhD","category":"Architects"},
+{"id":"q3236","question":"Which Italian city is considered the birthplace of the Renaissance?","answer":"Florence","difficulty":"Hard","category":"Art Movements"},
+{"id":"q3237","question":"The German group 'Die Brücke', founded in 1905, was part of which art movement?","answer":"Expressionism","difficulty":"Very Hard","category":"Art Movements"},
+{"id":"q3238","question":"What is 'tenebrism' in painting?","answer":"An extreme chiaroscuro in which figures emerge from deep darkness, as in Caravaggio","difficulty":"PhD","category":"Art Techniques"},
+{"id":"q3239","question":"What is 'marquetry'?","answer":"Decorating furniture with inlaid pieces of wood veneer forming pictures or patterns","difficulty":"Very Hard","category":"Art Techniques"},
+{"id":"q3240","question":"In which city is the Museu Picasso?","answer":"Barcelona","difficulty":"Medium","category":"Museums"},
+{"id":"q3241","question":"Which London gallery houses one of Van Gogh's 'Sunflowers' paintings?","answer":"The National Gallery","difficulty":"Hard","category":"Museums"}
 ]

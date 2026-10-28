@@ -1,74 +1,75 @@
 {
- "total": 2600,
+ "total": 2700,
  "counts": {
   "Alcohol & Mixology": {
    "Easy": 10,
-   "Medium": 5,
+   "Medium": 6,
    "Hard": 4,
-   "Very Hard": 4,
+   "Very Hard": 5,
    "PhD": 2
   },
   "Anatomy": {
    "Easy": 6,
-   "Medium": 7,
+   "Medium": 8,
    "Hard": 5,
-   "Very Hard": 4,
+   "Very Hard": 5,
    "PhD": 3
   },
   "Architects": {
    "Medium": 5,
    "Easy": 2,
-   "Hard": 8,
+   "Hard": 9,
    "Very Hard": 6,
-   "PhD": 4
+   "PhD": 5
   },
   "Area": {
    "Easy": 6,
    "Medium": 9,
-   "Very Hard": 3,
-   "Hard": 7
+   "Very Hard": 4,
+   "Hard": 7,
+   "PhD": 1
   },
   "Art Movements": {
    "Easy": 5,
    "Medium": 6,
-   "Hard": 7,
-   "Very Hard": 5,
+   "Hard": 8,
+   "Very Hard": 6,
    "PhD": 2
   },
   "Art Techniques": {
    "Easy": 3,
    "Medium": 8,
    "Hard": 7,
-   "Very Hard": 2,
-   "PhD": 5
+   "Very Hard": 3,
+   "PhD": 6
   },
   "Artificial Intelligence": {
    "Easy": 6,
-   "Hard": 7,
+   "Hard": 8,
    "Medium": 4,
-   "Very Hard": 4,
+   "Very Hard": 5,
    "PhD": 4
   },
   "Athletics": {
    "Medium": 9,
    "Hard": 5,
    "Easy": 5,
-   "Very Hard": 4,
-   "PhD": 2
+   "Very Hard": 5,
+   "PhD": 3
   },
   "Baseball": {
    "Easy": 7,
-   "Medium": 7,
+   "Medium": 8,
    "Hard": 7,
-   "Very Hard": 3,
+   "Very Hard": 4,
    "PhD": 1
   },
   "Basketball": {
    "Medium": 10,
    "Hard": 6,
-   "Easy": 6,
+   "Easy": 7,
    "Very Hard": 2,
-   "PhD": 1
+   "PhD": 2
   },
   "Biology": {
    "Easy": 7,
@@ -81,8 +82,8 @@
    "Medium": 5,
    "Easy": 6,
    "Hard": 6,
-   "Very Hard": 6,
-   "PhD": 2
+   "Very Hard": 7,
+   "PhD": 3
   },
   "Chemistry": {
    "Easy": 7,
@@ -93,8 +94,8 @@
   },
   "Cinematography": {
    "Medium": 8,
-   "Hard": 7,
-   "Very Hard": 5,
+   "Hard": 8,
+   "Very Hard": 6,
    "Easy": 2,
    "PhD": 3
   },
@@ -116,15 +117,15 @@
    "Medium": 10,
    "Hard": 8,
    "Easy": 3,
-   "Very Hard": 3,
-   "PhD": 1
+   "Very Hard": 4,
+   "PhD": 2
   },
   "Cricket": {
-   "Easy": 9,
+   "Easy": 10,
    "Hard": 6,
    "Medium": 7,
    "Very Hard": 2,
-   "PhD": 1
+   "PhD": 2
   },
   "Culinary Traditions": {
    "Easy": 10,
@@ -135,9 +136,10 @@
   },
   "Cycling": {
    "Easy": 3,
-   "Very Hard": 6,
+   "Very Hard": 7,
    "Medium": 9,
-   "Hard": 7
+   "Hard": 7,
+   "PhD": 1
   },
   "DC": {
    "Medium": 19,
@@ -155,8 +157,8 @@
   "Dinosaurs": {
    "Medium": 5,
    "Easy": 2,
-   "Very Hard": 7,
-   "Hard": 8,
+   "Very Hard": 8,
+   "Hard": 9,
    "PhD": 3
   },
   "Doctor Who": {
@@ -167,23 +169,23 @@
    "PhD": 1
   },
   "Drink": {
-   "Hard": 6,
+   "Hard": 7,
    "Easy": 4,
    "Medium": 10,
    "Very Hard": 3,
-   "PhD": 2
+   "PhD": 3
   },
   "Egyptian Mythology": {
    "Easy": 5,
    "Medium": 7,
-   "Hard": 5,
-   "Very Hard": 6,
+   "Hard": 6,
+   "Very Hard": 7,
    "PhD": 2
   },
   "Engineering": {
-   "Medium": 7,
+   "Medium": 8,
    "Easy": 6,
-   "Hard": 5,
+   "Hard": 6,
    "Very Hard": 6,
    "PhD": 1
   },
@@ -196,16 +198,16 @@
   },
   "F1": {
    "Medium": 10,
-   "Very Hard": 4,
+   "Very Hard": 5,
    "Easy": 5,
-   "Hard": 6
+   "Hard": 7
   },
   "Fables": {
    "Easy": 8,
    "Medium": 5,
    "Hard": 5,
    "Very Hard": 4,
-   "PhD": 3
+   "PhD": 5
   },
   "Fast Food": {
    "Medium": 5,
@@ -216,17 +218,17 @@
   },
   "Fauna": {
    "Easy": 7,
-   "Medium": 5,
+   "Medium": 6,
    "Hard": 7,
-   "Very Hard": 3,
+   "Very Hard": 4,
    "PhD": 3
   },
   "Flags": {
    "Medium": 7,
    "Easy": 5,
-   "Hard": 6,
+   "Hard": 7,
    "Very Hard": 2,
-   "PhD": 5
+   "PhD": 6
   },
   "Flora": {
    "Medium": 9,
@@ -238,19 +240,20 @@
   "Food": {
    "Medium": 11,
    "Easy": 8,
-   "Hard": 3,
-   "PhD": 2,
+   "Hard": 4,
+   "PhD": 3,
    "Very Hard": 1
   },
   "Football": {
    "Easy": 9,
-   "Medium": 10,
+   "Medium": 11,
    "Hard": 2,
-   "Very Hard": 4
+   "Very Hard": 4,
+   "PhD": 1
   },
   "Gadgets": {
-   "Easy": 7,
-   "Hard": 8,
+   "Easy": 8,
+   "Hard": 9,
    "Very Hard": 2,
    "Medium": 4,
    "PhD": 4
@@ -275,25 +278,25 @@
    "PhD": 1
   },
   "Geology": {
-   "Hard": 9,
+   "Hard": 10,
    "Easy": 5,
    "Very Hard": 2,
    "Medium": 6,
-   "PhD": 3
+   "PhD": 4
   },
   "Golf": {
-   "Easy": 10,
+   "Easy": 11,
    "Medium": 6,
    "Hard": 5,
-   "Very Hard": 2,
+   "Very Hard": 3,
    "PhD": 2
   },
   "Greek Mythology": {
    "Easy": 12,
    "Hard": 5,
-   "Medium": 5,
+   "Medium": 6,
    "Very Hard": 2,
-   "PhD": 1
+   "PhD": 2
   },
   "Harry Potter": {
    "Easy": 33,
@@ -311,15 +314,15 @@
   "Ice Hockey": {
    "Easy": 7,
    "Medium": 11,
-   "Hard": 3,
-   "Very Hard": 4
+   "Hard": 4,
+   "Very Hard": 5
   },
   "Insects": {
    "Easy": 4,
    "Medium": 7,
-   "Hard": 7,
+   "Hard": 8,
    "Very Hard": 3,
-   "PhD": 4
+   "PhD": 5
   },
   "Internet": {
    "Easy": 9,
@@ -329,16 +332,16 @@
    "PhD": 2
   },
   "Japanese Mythology": {
-   "Medium": 8,
+   "Medium": 9,
    "Hard": 8,
-   "Very Hard": 4,
+   "Very Hard": 5,
    "PhD": 5
   },
   "Lakes": {
    "Medium": 9,
-   "Hard": 7,
+   "Hard": 8,
    "Easy": 3,
-   "Very Hard": 4,
+   "Very Hard": 5,
    "PhD": 2
   },
   "Languages": {
@@ -375,11 +378,11 @@
    "Very Hard": 4
   },
   "Meteorology": {
-   "Medium": 9,
+   "Medium": 10,
    "Easy": 4,
    "Hard": 6,
    "Very Hard": 3,
-   "PhD": 3
+   "PhD": 4
   },
   "Movies": {
    "Easy": 10,
@@ -388,8 +391,8 @@
    "Very Hard": 3
   },
   "Museums": {
-   "Medium": 8,
-   "Hard": 6,
+   "Medium": 9,
+   "Hard": 7,
    "Easy": 5,
    "Very Hard": 5,
    "PhD": 1
@@ -408,23 +411,23 @@
    "PhD": 1
   },
   "Norse Mythology": {
-   "Hard": 8,
+   "Hard": 9,
    "Medium": 6,
    "Easy": 5,
    "Very Hard": 2,
-   "PhD": 4
+   "PhD": 5
   },
   "Oceanography": {
    "Easy": 4,
    "Medium": 4,
    "Hard": 10,
-   "Very Hard": 5,
-   "PhD": 2
+   "Very Hard": 6,
+   "PhD": 3
   },
   "Olympics": {
    "Easy": 8,
-   "Hard": 6,
-   "Medium": 8,
+   "Hard": 7,
+   "Medium": 9,
    "Very Hard": 2,
    "PhD": 1
   },
@@ -438,8 +441,8 @@
   "Paintings": {
    "Easy": 10,
    "Medium": 5,
-   "Hard": 8,
-   "Very Hard": 2
+   "Hard": 9,
+   "Very Hard": 3
   },
   "Performers": {
    "Easy": 3,
@@ -471,8 +474,8 @@
   "Rivers": {
    "Easy": 4,
    "Medium": 10,
-   "Hard": 6,
-   "Very Hard": 3,
+   "Hard": 7,
+   "Very Hard": 4,
    "PhD": 2
   },
   "Roman Mythology": {
@@ -480,18 +483,19 @@
    "Medium": 9,
    "Very Hard": 3,
    "Hard": 4,
-   "PhD": 1
+   "PhD": 3
   },
   "Rugby": {
-   "Medium": 10,
+   "Medium": 11,
    "Hard": 5,
    "Easy": 7,
-   "Very Hard": 3
+   "Very Hard": 3,
+   "PhD": 1
   },
   "Sculptors": {
    "Easy": 2,
-   "Medium": 7,
-   "Very Hard": 9,
+   "Medium": 8,
+   "Very Hard": 10,
    "Hard": 6,
    "PhD": 1
   },
@@ -500,32 +504,33 @@
    "Medium": 6,
    "Hard": 9,
    "Very Hard": 1,
-   "PhD": 1
+   "PhD": 3
   },
   "Shakespearean Plays": {
    "Medium": 9,
    "Easy": 6,
-   "Very Hard": 2,
-   "Hard": 7,
+   "Very Hard": 3,
+   "Hard": 8,
    "PhD": 1
   },
   "Snooker": {
    "Medium": 12,
-   "Easy": 4,
+   "Easy": 5,
    "Very Hard": 2,
    "Hard": 6,
-   "PhD": 1
+   "PhD": 2
   },
   "Space & Astronomy": {
    "Medium": 10,
    "Easy": 5,
    "Very Hard": 5,
-   "Hard": 5
+   "Hard": 6,
+   "PhD": 1
   },
   "Space Technology": {
    "Easy": 5,
-   "Medium": 6,
-   "Hard": 8,
+   "Medium": 7,
+   "Hard": 9,
    "Very Hard": 4,
    "PhD": 2
   },
@@ -551,9 +556,9 @@
   "Tennis": {
    "Hard": 5,
    "Easy": 6,
-   "Medium": 10,
+   "Medium": 11,
    "Very Hard": 3,
-   "PhD": 1
+   "PhD": 2
   },
   "The Witcher": {
    "Medium": 13,
@@ -568,11 +573,11 @@
    "Very Hard": 3
   },
   "Volcanoes": {
-   "Hard": 8,
+   "Hard": 9,
    "Very Hard": 4,
    "Medium": 7,
    "Easy": 4,
-   "PhD": 2
+   "PhD": 3
   }
  }
 }
