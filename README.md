@@ -7,7 +7,7 @@ A shuffled list of quiz questions, with answers, for reading out to a group at l
 ## Using it
 
 - Every visit shuffles the questions. Cards load 20 at a time as you scroll.
-- **Filters:** pick difficulties (Easy, Medium, Hard, Very Hard, PhD) and categories. Tapping a group name selects all of its subcategories.
+- **Filters:** pick difficulties (Easy, Medium, Hard, Very Hard, PhD) and categories. Tapping a group name selects all of its subcategories. Each badge shows how many questions in the bank match it, given whatever else you've filtered.
 - **Answers switch:** shows or hides every answer at once.
 - **✓ Asked:** marks a question as read. It stays hidden on later visits until you press **Reset**.
 - **Skip:** sets a question aside without asking it. Find it under **Skipped** at the bottom of the page and bring it back whenever you like (Reset brings back all of them).
@@ -24,7 +24,9 @@ Plain HTML, CSS and JavaScript with no build step, hosted on GitHub Pages.
 index.html, styles.css, app.js
 data/categories.json            groups, subcategories, colours, difficulty levels
 data/questions/<group>.json     one file per group, only fetched when needed
-tools/quiz.py                   checks the bank, adds/removes questions
+data/counts.json                question counts for the filter badges (generated, don't edit)
+data/blocklist.json             categories and keywords that must never be added
+tools/quiz.py                   checks the bank, adds/removes/moves questions
 ```
 
 Each question looks like this:
@@ -42,6 +44,12 @@ Each question looks like this:
 3. Run `python tools/quiz.py check`, then commit and push. The live site updates in about a minute.
 
 **Removing reported questions:** `python tools/quiz.py remove q0123 q0456`
+
+**Moving questions to another category:** `python tools/quiz.py move q0001 "Capital Cities"` (IDs stay the same, so anyone's asked/skipped lists still work).
+
+**Blocklist:** `data/blocklist.json` lists categories (currently Horse Racing) and keywords that `add` refuses and `check` reports as errors.
+
+The script rewrites `data/counts.json` whenever the bank changes, so the filter numbers stay correct.
 
 **Recent events / stale facts:** `python tools/quiz.py dated --before 2026` lists time-sensitive questions due a re-check.
 

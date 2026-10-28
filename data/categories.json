@@ -5,7 +5,7 @@
       "id": "history-geography",
       "name": "History & Geography",
       "hue": 28,
-      "categories": ["History", "Geography", "Countries", "Geology"]
+      "categories": ["History", "Geography", "Countries", "Capital Cities", "Area", "Flags", "Lakes", "Rivers", "Seas", "Geology"]
     },
     {
       "id": "science",
@@ -17,7 +17,7 @@
       "id": "nature",
       "name": "Nature",
       "hue": 120,
-      "categories": ["Fauna", "Flora"]
+      "categories": ["Fauna", "Flora", "Meteorology", "Oceanography"]
     },
     {
       "id": "technology",
@@ -41,13 +41,13 @@
       "id": "sport",
       "name": "Sport",
       "hue": 150,
-      "categories": ["Football", "F1", "Olympics", "Athletics", "Golf", "Ice Hockey", "Cricket", "Baseball", "Basketball", "Rugby", "Tennis", "Cycling", "Horse Racing", "Snooker"]
+      "categories": ["Football", "F1", "Olympics", "Athletics", "Golf", "Ice Hockey", "Cricket", "Baseball", "Basketball", "Rugby", "Tennis", "Cycling", "Snooker"]
     },
     {
       "id": "arts-literature",
       "name": "Arts & Literature",
       "hue": 0,
-      "categories": ["Literature & Books", "Shakespearean Plays", "Fables", "Paintings", "Sculptors", "Architects", "Art Movements", "Art Techniques", "Museums", "Design"]
+      "categories": ["Literature & Books", "Shakespearean Plays", "Fables", "Paintings", "Sculptors", "Architects", "Art Movements", "Art Techniques", "Museums", "Design", "Languages", "Etymology"]
     },
     {
       "id": "classical-music",

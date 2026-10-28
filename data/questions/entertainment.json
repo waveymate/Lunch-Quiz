@@ -113,5 +113,21 @@
 {"id":"q1481","question":"Which singer is known as the 'Queen of Soul'?","answer":"Aretha Franklin","difficulty":"Easy","category":"Music"},
 {"id":"q1482","question":"What was the name of David Bowie's glam-rock alter ego from 1972?","answer":"Ziggy Stardust","difficulty":"Medium","category":"Music"},
 {"id":"q1483","question":"Which Detroit record label, founded by Berry Gordy, launched the Supremes and Stevie Wonder?","answer":"Motown","difficulty":"Medium","category":"Music"},
-{"id":"q1484","question":"Which song was the first music video played on MTV in 1981?","answer":"'Video Killed the Radio Star' by The Buggles","difficulty":"Hard","category":"Music"}
+{"id":"q1484","question":"Which song was the first music video played on MTV in 1981?","answer":"'Video Killed the Radio Star' by The Buggles","difficulty":"Hard","category":"Music"},
+{"id":"q1757","question":"In 'Friends', what is the name of Ross's pet monkey?","answer":"Marcel","difficulty":"Medium","category":"TV Shows"},
+{"id":"q1758","question":"Which British sitcom is set in a Torquay hotel run by Basil Fawlty?","answer":"Fawlty Towers","difficulty":"Medium","category":"TV Shows"},
+{"id":"q1759","question":"Which Australian cartoon follows a family of Blue Heeler dogs in Brisbane?","answer":"Bluey","difficulty":"Easy","category":"TV Shows"},
+{"id":"q1760","question":"In film-making, what is an 'establishing shot'?","answer":"A wide shot, usually at the start of a scene, that shows where the action takes place","difficulty":"Medium","category":"Cinematography"},
+{"id":"q1761","question":"Who was the cinematographer of 'Apocalypse Now' and 'The Last Emperor'?","answer":"Vittorio Storaro","difficulty":"PhD","category":"Cinematography"},
+{"id":"q1762","question":"In photography and film, what is 'depth of field'?","answer":"The range of distance in a shot that appears sharply in focus","difficulty":"Hard","category":"Cinematography"},
+{"id":"q1763","question":"Which 1993 black-and-white film famously shows a little girl in a red coat in colour?","answer":"Schindler's List","difficulty":"Medium","category":"Cinematography"},
+{"id":"q1764","question":"What does a film's 'aspect ratio' describe?","answer":"The ratio of the picture's width to its height (e.g. 16:9)","difficulty":"Easy","category":"Cinematography"},
+{"id":"q1765","question":"What is the technique of filming in front of a green or blue screen and replacing the background called?","answer":"Chroma key (green-screen compositing)","difficulty":"Medium","category":"Cinematography"},
+{"id":"q1766","question":"Christopher Nolan shot 'Oppenheimer' largely on which large-format film?","answer":"IMAX 65 mm film","difficulty":"Hard","category":"Cinematography"},
+{"id":"q1767","question":"On a film set, what does the 'gaffer' do?","answer":"Heads the lighting department (the chief lighting technician)","difficulty":"Hard","category":"Cinematography"},
+{"id":"q1768","question":"How many pieces does each player start with in chess?","answer":"16","difficulty":"Easy","category":"Games"},
+{"id":"q1769","question":"Which tile-laying board game, released in 2000, has players build a medieval French landscape?","answer":"Carcassonne","difficulty":"Hard","category":"Games"},
+{"id":"q1770","question":"What is the name of Mario's brother?","answer":"Luigi","difficulty":"Easy","category":"Video Games"},
+{"id":"q1771","question":"Which studio developed 'The Elder Scrolls V: Skyrim'?","answer":"Bethesda Game Studios","difficulty":"Medium","category":"Video Games"},
+{"id":"q1772","question":"In which year were the first Pokémon games released in Japan?","answer":"1996","difficulty":"Hard","category":"Video Games"}
 ]

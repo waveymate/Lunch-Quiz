@@ -4,7 +4,13 @@ Usage:
   python tools/quiz.py check                 Validate every file and flag likely duplicates
   python tools/quiz.py add NEW.json          Add questions (IDs assigned, duplicates skipped)
   python tools/quiz.py remove q0123 q0456    Delete questions (e.g. IDs copied from "Reported")
+  python tools/quiz.py move q0001 "Capital Cities" [ID CATEGORY ...]
+                                             Recategorise questions (keeps their IDs)
   python tools/quiz.py dated [--before 2026] List time-sensitive questions (those with "asOf")
+
+Categories and keywords in data/blocklist.json are refused by `add` and flagged by `check`.
+Every command that changes the bank (and `check`) rewrites data/counts.json, which the app
+uses for the numbers on its filter chips.
 
 NEW.json is a JSON array of objects with: question, answer, difficulty, category
 (or the short keys q, a, d, c), and optionally asOf ("2026" or "2026-10") for
@@ -20,6 +26,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 QUESTIONS = DATA / "questions"
+BLOCKLIST_FILE = DATA / "blocklist.json"
+COUNTS_FILE = DATA / "counts.json"
 
 REQUIRED = ("id", "question", "answer", "difficulty", "category")
 # Batch files for `add` may use these short keys to stay compact.
@@ -117,10 +125,45 @@ def all_questions(bank):
     return [q for qs in bank.values() for q in qs]
 
 
+def load_blocklist():
+    if not BLOCKLIST_FILE.exists():
+        return set(), []
+    data = load_json(BLOCKLIST_FILE)
+    return set(data.get("categories", [])), [w.lower() for w in data.get("keywords", [])]
+
+
+def blocked_reason(q, blocked_cats, blocked_words):
+    if q.get("category") in blocked_cats:
+        return f"category '{q['category']}' is blocklisted"
+    text = f"{q.get('question', '')} {q.get('answer', '')}".lower()
+    hit = next((w for w in blocked_words if w in text), None)
+    return f"mentions blocklisted term '{hit}'" if hit else None
+
+
+def write_counts(bank):
+    counts = {}
+    for q in all_questions(bank):
+        counts.setdefault(q["category"], Counter())[q["difficulty"]] += 1
+    data = {"total": len(all_questions(bank)),
+            "counts": {c: dict(n) for c, n in sorted(counts.items())}}
+    COUNTS_FILE.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
+
+
+def save_bank(cats, bank):
+    for g in cats["groups"]:
+        save_json(QUESTIONS / f"{g['id']}.json", bank[g["id"]])
+    write_counts(bank)
+
+
 def cmd_check():
     cats, group_of = load_taxonomy()
     bank = load_bank(cats)
     errors = validate(cats, group_of, bank)
+    blocked_cats, blocked_words = load_blocklist()
+    for q in all_questions(bank):
+        why = blocked_reason(q, blocked_cats, blocked_words)
+        if why:
+            errors.append(f"{q['id']}: {why}")
     for e in errors:
         print("ERROR", e)
 
@@ -142,6 +185,7 @@ def cmd_check():
         if empty:
             line += f"  (empty: {', '.join(empty)})"
         print(line)
+    write_counts(bank)
     return 1 if errors else 0
 
 
@@ -155,6 +199,7 @@ def cmd_add(path):
     cats, group_of = load_taxonomy()
     bank = load_bank(cats)
     incoming = load_json(Path(path))
+    blocked_cats, blocked_words = load_blocklist()
     existing = all_questions(bank)
     n = next_id_number(bank)
     added, skipped, review = [], [], []
@@ -165,6 +210,8 @@ def cmd_add(path):
         problem = None
         if not all(q.get(k) for k in ("question", "answer", "difficulty", "category")):
             problem = "missing a field"
+        elif why := blocked_reason(q, blocked_cats, blocked_words):
+            problem = why
         elif q["category"] not in group_of:
             problem = f"unknown category '{q['category']}' (add it to data/categories.json first)"
         elif q["difficulty"] not in cats["difficulties"]:
@@ -186,8 +233,7 @@ def cmd_add(path):
         if hits:
             review.append((q, hits[0]))
 
-    for g in cats["groups"]:
-        save_json(QUESTIONS / f"{g['id']}.json", bank[g["id"]])
+    save_bank(cats, bank)
 
     print(f"Added {len(added)}, skipped {len(skipped)}")
     for text, why in skipped:
@@ -203,13 +249,37 @@ def cmd_remove(ids):
     wanted = {i.strip(", ") for i in ids if i.strip(", ")}
     removed = []
     for g in cats["groups"]:
-        keep = [q for q in bank[g["id"]] if q["id"] not in wanted]
         removed += [q for q in bank[g["id"]] if q["id"] in wanted]
-        save_json(QUESTIONS / f"{g['id']}.json", keep)
+        bank[g["id"]] = [q for q in bank[g["id"]] if q["id"] not in wanted]
+    save_bank(cats, bank)
     for q in removed:
         print(f"Removed {q['id']}: {q['question']}")
     for missing in sorted(wanted - {q["id"] for q in removed}):
         print(f"Not found: {missing}")
+    return 0
+
+
+def cmd_move(args):
+    if len(args) % 2:
+        print('Usage: move ID CATEGORY [ID CATEGORY ...]  (quote names with spaces, e.g. "Capital Cities")')
+        return 1
+    cats, group_of = load_taxonomy()
+    bank = load_bank(cats)
+    by_id = {q["id"]: (gid, q) for gid, qs in bank.items() for q in qs}
+    for qid, category in zip(args[::2], args[1::2]):
+        if qid not in by_id:
+            print(f"Not found: {qid}")
+            continue
+        if category not in group_of:
+            print(f"Unknown category '{category}' (add it to data/categories.json first)")
+            continue
+        old_group, q = by_id[qid]
+        bank[old_group].remove(q)
+        q["category"] = category
+        bank[group_of[category]].append(q)
+        by_id[qid] = (group_of[category], q)
+        print(f"Moved {qid} -> {category}")
+    save_bank(cats, bank)
     return 0
 
 
@@ -238,6 +308,8 @@ def main(argv):
         return cmd_add(rest[0])
     if cmd == "remove" and rest:
         return cmd_remove(rest)
+    if cmd == "move" and rest:
+        return cmd_move(rest)
     if cmd == "dated":
         return cmd_dated(rest)
     print(__doc__)

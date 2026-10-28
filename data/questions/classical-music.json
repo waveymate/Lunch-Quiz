@@ -51,5 +51,22 @@
 {"id":"q1533","question":"What is the written text of an opera called?","answer":"The libretto","difficulty":"Medium","category":"Operas"},
 {"id":"q1556","question":"Which Spanish guitarist did most to establish the classical guitar as a concert instrument?","answer":"Andrés Segovia","difficulty":"Very Hard","category":"Performers"},
 {"id":"q1557","question":"Which American conductor of the New York Philharmonic also composed the music for 'West Side Story'?","answer":"Leonard Bernstein","difficulty":"Medium","category":"Performers"},
-{"id":"q1558","question":"Which British cellist made the celebrated 1965 recording of Elgar's Cello Concerto?","answer":"Jacqueline du Pré","difficulty":"Very Hard","category":"Performers"}
+{"id":"q1558","question":"Which British cellist made the celebrated 1965 recording of Elgar's Cello Concerto?","answer":"Jacqueline du Pré","difficulty":"Very Hard","category":"Performers"},
+{"id":"q1989","question":"In which Italian city is the opera house La Scala?","answer":"Milan","difficulty":"Easy","category":"Operas"},
+{"id":"q1990","question":"Which Puccini opera follows a group of poor young artists in Paris's Latin Quarter?","answer":"La Bohème","difficulty":"Medium","category":"Operas"},
+{"id":"q1991","question":"Which Gershwin opera is set in Catfish Row, Charleston?","answer":"Porgy and Bess","difficulty":"Hard","category":"Operas"},
+{"id":"q1992","question":"What is a solo song for one singer in an opera called?","answer":"An aria","difficulty":"Easy","category":"Operas"},
+{"id":"q1993","question":"From which Wagner opera does the 'Ride of the Valkyries' come?","answer":"Die Walküre (The Valkyrie)","difficulty":"Hard","category":"Operas"},
+{"id":"q1994","question":"Which 1607 opera by Claudio Monteverdi is often called the first great opera?","answer":"L'Orfeo","difficulty":"Very Hard","category":"Operas"},
+{"id":"q1995","question":"Which Spanish tenor completed the Three Tenors with Luciano Pavarotti and José Carreras?","answer":"Plácido Domingo","difficulty":"Medium","category":"Performers"},
+{"id":"q1996","question":"Which Chinese pianist performed at the opening ceremony of the 2008 Beijing Olympics?","answer":"Lang Lang","difficulty":"Hard","category":"Performers"},
+{"id":"q1997","question":"Which Israeli-American violinist played the solo violin theme in the film 'Schindler's List'?","answer":"Itzhak Perlman","difficulty":"Hard","category":"Performers"},
+{"id":"q1998","question":"Which composer toured Europe as a child prodigy keyboard player from the age of six, in the 1760s?","answer":"Wolfgang Amadeus Mozart","difficulty":"Medium","category":"Performers"},
+{"id":"q1999","question":"Which New Zealand soprano sang at the wedding of Prince Charles and Lady Diana in 1981?","answer":"Dame Kiri Te Kanawa","difficulty":"Hard","category":"Performers"},
+{"id":"q2000","question":"Which Russian pianist and composer, famous for his huge hands, wrote notoriously difficult piano concertos?","answer":"Sergei Rachmaninoff","difficulty":"Medium","category":"Performers"},
+{"id":"q2001","question":"Which pianist and conductor co-founded the West-Eastern Divan Orchestra of Israeli and Arab musicians?","answer":"Daniel Barenboim","difficulty":"Very Hard","category":"Performers"},
+{"id":"q2002","question":"Which British cellist won BBC Young Musician in 2016 and played at the 2018 royal wedding?","answer":"Sheku Kanneh-Mason","difficulty":"Very Hard","category":"Performers"},
+{"id":"q2003","question":"How many lines are there on a musical staff (stave)?","answer":"Five","difficulty":"Easy","category":"Music Theory"},
+{"id":"q2004","question":"What does 'crescendo' mean in music?","answer":"Gradually getting louder","difficulty":"Medium","category":"Music Theory"},
+{"id":"q2005","question":"Which Italian tempo marking means 'slowly, at ease'?","answer":"Adagio","difficulty":"Hard","category":"Music Theory"}
 ]

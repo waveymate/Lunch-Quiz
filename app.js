@@ -55,6 +55,7 @@ const state = {
   skipped: new Set(savedList("lq.skipped")),
   reports: loadReports(),     // question id -> { reason, comment }
   showAnswers: store.get("lq.showAnswers", true) !== false,
+  counts: null,               // category -> { difficulty: number of questions }, from data/counts.json
   order: new Map(),           // question id -> random sort key for this visit
   pool: [],                   // filtered, shuffled questions for the current view
   rendered: 0,
@@ -136,6 +137,14 @@ async function loadCategories() {
   for (const d of [...state.selectedDifficulties]) {
     if (!state.difficulties.includes(d)) state.selectedDifficulties.delete(d);
   }
+}
+
+// Written by tools/quiz.py. If it's missing, the filter chips simply show no numbers.
+async function loadCounts() {
+  try {
+    const res = await fetch("data/counts.json", { cache: "no-cache" });
+    if (res.ok) state.counts = (await res.json()).counts;
+  } catch { /* no numbers on chips */ }
 }
 
 function neededGroups() {
@@ -307,11 +316,28 @@ function onReportSubmit(event) {
 
 // ---------- Filters ----------
 
-function chip(text, hue, pressed, onclick, extraClass = "") {
+function chip(text, hue, pressed, onclick, extraClass = "", count = null) {
   return el("button", {
     type: "button", class: `chip ${extraClass}`.trim(), style: `--h:${hue}`,
-    "aria-pressed": String(pressed), text, onclick,
-  });
+    "aria-pressed": String(pressed), onclick,
+  }, [text, count == null ? null : el("span", { class: "chip-count", text: ` (${count})` })]);
+}
+
+// How many questions in the bank match these categories and difficulties
+// (an empty difficulty set means any difficulty).
+function countMatching(categories, difficulties) {
+  if (!state.counts) return null;
+  let n = 0;
+  for (const c of categories) {
+    for (const [d, k] of Object.entries(state.counts[c] || {})) {
+      if (difficulties.size === 0 || difficulties.has(d)) n += k;
+    }
+  }
+  return n;
+}
+
+function activeCategories() {
+  return state.selectedCategories.size ? [...state.selectedCategories] : [...state.groupOfCategory.keys()];
 }
 
 function renderFilters() {
@@ -319,7 +345,7 @@ function renderFilters() {
     chip(d, DIFFICULTY_HUES[d] ?? 30, state.selectedDifficulties.has(d), () => {
       toggle(state.selectedDifficulties, d);
       onFiltersChanged();
-    })));
+    }, "", countMatching(activeCategories(), new Set([d])))));
 
   els.groupChips.replaceChildren(...state.groups.map((group) => {
     const selected = group.categories.filter((c) => state.selectedCategories.has(c)).length;
@@ -330,7 +356,8 @@ function renderFilters() {
         else state.selectedCategories.add(c);
       }
       onFiltersChanged();
-    }, `group-chip${selected > 0 && !all ? " partial" : ""}`);
+    }, `group-chip${selected > 0 && !all ? " partial" : ""}`,
+    countMatching(group.categories, state.selectedDifficulties));
 
     return el("div", { class: "group" }, [
       groupChip,
@@ -338,7 +365,7 @@ function renderFilters() {
         chip(c, group.hue, state.selectedCategories.has(c), () => {
           toggle(state.selectedCategories, c);
           onFiltersChanged();
-        }))),
+        }, "", countMatching([c], state.selectedDifficulties)))),
     ]);
   }));
 
@@ -495,7 +522,7 @@ async function init() {
   applyAnswersVisibility();
   wire();
   try {
-    await loadCategories();
+    await Promise.all([loadCategories(), loadCounts()]);
   } catch (err) {
     els.stats.textContent = "Couldn't load the question bank.";
     console.error(err);

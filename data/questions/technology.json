@@ -54,5 +54,17 @@
 {"id":"q1418","question":"What does it mean for a programming language or system to be 'Turing complete'?","answer":"Given enough time and memory, it can compute anything any computer can (it can simulate a Turing machine)","difficulty":"PhD","category":"Computing"},
 {"id":"q1419","question":"Which US research network, first used in 1969, became the foundation of the internet?","answer":"ARPANET","difficulty":"Hard","category":"Internet"},
 {"id":"q1420","question":"How many bits long is an IPv6 address?","answer":"128","difficulty":"Very Hard","category":"Internet"},
-{"id":"q1421","question":"What does 'HTML' stand for?","answer":"HyperText Markup Language","difficulty":"Easy","category":"Internet"}
+{"id":"q1421","question":"What does 'HTML' stand for?","answer":"HyperText Markup Language","difficulty":"Easy","category":"Internet"},
+{"id":"q1745","question":"What does 'URL' stand for?","answer":"Uniform Resource Locator","difficulty":"Easy","category":"Internet"},
+{"id":"q1746","question":"In 'HTTPS', what does the 'S' stand for?","answer":"Secure","difficulty":"Easy","category":"Internet"},
+{"id":"q1747","question":"Which network port does HTTPS use by default?","answer":"443","difficulty":"Very Hard","category":"Internet"},
+{"id":"q1748","question":"Which standards body for the web did Tim Berners-Lee found in 1994?","answer":"The World Wide Web Consortium (W3C)","difficulty":"Hard","category":"Internet"},
+{"id":"q1749","question":"Who is credited with patenting the telephone in 1876?","answer":"Alexander Graham Bell","difficulty":"Easy","category":"Engineering"},
+{"id":"q1750","question":"Which Victorian engineer designed the Clifton Suspension Bridge and the Great Western Railway?","answer":"Isambard Kingdom Brunel","difficulty":"Hard","category":"Engineering"},
+{"id":"q1751","question":"Which bridge, opened in Turkey in 2022, has the longest main span of any suspension bridge?","answer":"The 1915 Çanakkale Bridge (2,023 m span)","difficulty":"Very Hard","category":"Engineering","asOf":"2026"},
+{"id":"q1752","question":"What is the Sydney Harbour Bridge's famous nickname?","answer":"'The Coathanger'","difficulty":"Medium","category":"Engineering"},
+{"id":"q1753","question":"What does 'LED' stand for?","answer":"Light-Emitting Diode","difficulty":"Easy","category":"Engineering"},
+{"id":"q1754","question":"Which Scottish engineer greatly improved the steam engine and gave his name to a unit of power?","answer":"James Watt","difficulty":"Medium","category":"Engineering"},
+{"id":"q1755","question":"Which tunnel under the Swiss Alps is the world's longest railway tunnel, at about 57 km?","answer":"The Gotthard Base Tunnel","difficulty":"Very Hard","category":"Engineering"},
+{"id":"q1756","question":"What is the SI unit of power?","answer":"The watt (W)","difficulty":"Easy","category":"Engineering"}
 ]

@@ -172,6 +172,7 @@ h1, h2 { margin: 0; }
 .chip.partial { opacity: 1; border-style: dashed; border-color: currentColor; }
 .chip.group-chip { font-weight: 650; }
 .chip:hover { opacity: 1; }
+.chip-count { font-weight: 400; opacity: 0.8; font-variant-numeric: tabular-nums; }
 
 /* Badges on cards (same colours, not interactive) */
 .badge {
