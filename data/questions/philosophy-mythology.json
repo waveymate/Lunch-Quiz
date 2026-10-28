@@ -166,5 +166,14 @@
 {"id":"q3348","question":"Which Roman god protected boundaries and boundary stones?","answer":"Terminus","difficulty":"PhD","category":"Roman Mythology"},
 {"id":"q3349","question":"What is the realm of the giants called in Norse mythology?","answer":"Jötunheim","difficulty":"Hard","category":"Norse Mythology"},
 {"id":"q3350","question":"Which Egyptian goddess, shown with a scorpion on her head, protected people from venom?","answer":"Serket (Selket)","difficulty":"PhD","category":"Egyptian Mythology"},
-{"id":"q3351","question":"What is the faceless ghost of Japanese folklore called?","answer":"Noppera-bō","difficulty":"PhD","category":"Japanese Mythology"}
+{"id":"q3351","question":"What is the faceless ghost of Japanese folklore called?","answer":"Noppera-bō","difficulty":"PhD","category":"Japanese Mythology"},
+{"id":"q3446","question":"Which Greek philosopher was tutor to Alexander the Great?","answer":"Aristotle","difficulty":"Medium","category":"Philosophy"},
+{"id":"q3447","question":"In philosophy, what is 'a priori' knowledge?","answer":"Knowledge that can be known independently of experience, such as maths and logic","difficulty":"PhD","category":"Philosophy"},
+{"id":"q3448","question":"Who is the Titan god who drove the chariot of the Sun across the sky?","answer":"Helios","difficulty":"Hard","category":"Greek Mythology"},
+{"id":"q3449","question":"Which king was punished in the underworld with food and water always just out of reach?","answer":"Tantalus","difficulty":"Hard","category":"Greek Mythology"},
+{"id":"q3450","question":"Which Roman goddess of flowers and spring was honoured at the Floralia festival?","answer":"Flora","difficulty":"Hard","category":"Roman Mythology"},
+{"id":"q3451","question":"Which Roman goddess personified the city of Rome itself?","answer":"Roma (Dea Roma)","difficulty":"PhD","category":"Roman Mythology"},
+{"id":"q3452","question":"Which wolf chases and finally swallows the Sun at Ragnarök?","answer":"Sköll","difficulty":"PhD","category":"Norse Mythology"},
+{"id":"q3453","question":"Which Egyptian goddess, often shown with cow horns and a sun disc, was linked with love, music and joy?","answer":"Hathor","difficulty":"Very Hard","category":"Egyptian Mythology"},
+{"id":"q3454","question":"Which Japanese yōkai is an old paper umbrella that comes to life, with one eye and one leg?","answer":"The kasa-obake (karakasa-obake)","difficulty":"PhD","category":"Japanese Mythology"}
 ]

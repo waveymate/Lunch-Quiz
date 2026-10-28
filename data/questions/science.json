@@ -170,5 +170,9 @@
 {"id":"q3281","question":"What are telomeres?","answer":"Protective caps of repeated DNA at the ends of chromosomes, which shorten as cells divide","difficulty":"Very Hard","category":"Biology"},
 {"id":"q3282","question":"Which type of RNA carries amino acids to the ribosome during protein building?","answer":"Transfer RNA (tRNA)","difficulty":"PhD","category":"Biology"},
 {"id":"q3283","question":"What is the largest artery in the human body?","answer":"The aorta","difficulty":"Medium","category":"Anatomy"},
-{"id":"q3284","question":"What is the boundary where the Sun's solar wind gives way to interstellar space called?","answer":"The heliopause","difficulty":"PhD","category":"Space & Astronomy"}
+{"id":"q3284","question":"What is the boundary where the Sun's solar wind gives way to interstellar space called?","answer":"The heliopause","difficulty":"PhD","category":"Space & Astronomy"},
+{"id":"q3376","question":"Which organs filter the blood to make urine?","answer":"The kidneys","difficulty":"Easy","category":"Anatomy"},
+{"id":"q3377","question":"What is the bundle of nerve roots at the base of the spinal cord, named after a horse's tail, called?","answer":"The cauda equina","difficulty":"PhD","category":"Anatomy"},
+{"id":"q3378","question":"Charon is the largest moon of which world?","answer":"Pluto","difficulty":"Hard","category":"Space & Astronomy"},
+{"id":"q3379","question":"Which famous comet returns to the inner solar system roughly every 76 years?","answer":"Halley's Comet","difficulty":"Medium","category":"Space & Astronomy"}
 ]

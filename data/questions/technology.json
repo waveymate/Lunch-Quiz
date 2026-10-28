@@ -168,5 +168,13 @@
 {"id":"q3300","question":"Which German-born engineer designed the Brooklyn Bridge?","answer":"John A. Roebling (completed by his son Washington and Emily Roebling)","difficulty":"PhD","category":"Engineering"},
 {"id":"q3301","question":"What is a 'deepfake'?","answer":"A realistic fake video, image or audio of a real person, made with AI","difficulty":"Medium","category":"Artificial Intelligence"},
 {"id":"q3302","question":"What was the first satellite launched by the United States, in 1958?","answer":"Explorer 1","difficulty":"Very Hard","category":"Space Technology"},
-{"id":"q3303","question":"Who invented the PalmPilot handheld organiser?","answer":"Jeff Hawkins","difficulty":"PhD","category":"Gadgets"}
+{"id":"q3303","question":"Who invented the PalmPilot handheld organiser?","answer":"Jeff Hawkins","difficulty":"PhD","category":"Gadgets"},
+{"id":"q3392","question":"Which Chinese dam, about 305 m high, is the tallest in the world?","answer":"The Jinping-I Dam","difficulty":"PhD","category":"Engineering"},
+{"id":"q3393","question":"Which London bridge opens in the middle to let tall ships through?","answer":"Tower Bridge","difficulty":"Easy","category":"Engineering"},
+{"id":"q3394","question":"What was Google's AI chatbot Bard renamed in 2024?","answer":"Gemini","difficulty":"Hard","category":"Artificial Intelligence"},
+{"id":"q3395","question":"What was the name of Marvin Minsky's 1951 machine, one of the first neural networks that could learn?","answer":"SNARC","difficulty":"PhD","category":"Artificial Intelligence"},
+{"id":"q3396","question":"Which Space Shuttle was the first to fly into space, in 1981?","answer":"Columbia","difficulty":"Hard","category":"Space Technology"},
+{"id":"q3397","question":"Which Soviet probe sent back the first photos of the far side of the Moon, in 1959?","answer":"Luna 3","difficulty":"PhD","category":"Space Technology"},
+{"id":"q3398","question":"Which Nintendo handheld console of 2004 had two screens?","answer":"The Nintendo DS","difficulty":"Medium","category":"Gadgets"},
+{"id":"q3399","question":"What does 'QR' stand for in 'QR code'?","answer":"Quick Response","difficulty":"Hard","category":"Gadgets"}
 ]

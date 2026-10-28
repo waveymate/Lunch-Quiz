@@ -138,5 +138,10 @@
 {"id":"q3355","question":"Which burger chain was originally called 'Insta-Burger King'?","answer":"Burger King","difficulty":"Very Hard","category":"Fast Food"},
 {"id":"q3356","question":"Which fast-food chain, founded in 1962, sells the Crunchwrap Supreme?","answer":"Taco Bell","difficulty":"Hard","category":"Fast Food"},
 {"id":"q3357","question":"What is the shade-grown Japanese tea leaf that is ground to make matcha called?","answer":"Tencha","difficulty":"PhD","category":"Drink"},
-{"id":"q3358","question":"Which cocktail mixes rum with coconut cream and pineapple juice?","answer":"The piña colada","difficulty":"Easy","category":"Alcohol & Mixology"}
+{"id":"q3358","question":"Which cocktail mixes rum with coconut cream and pineapple juice?","answer":"The piña colada","difficulty":"Easy","category":"Alcohol & Mixology"},
+{"id":"q3455","question":"What is shakshuka?","answer":"Eggs poached in a spiced tomato and pepper sauce","difficulty":"Medium","category":"Food"},
+{"id":"q3456","question":"Parmigiano-Reggiano cheese comes from which Italian region?","answer":"Emilia-Romagna","difficulty":"Hard","category":"Culinary Traditions"},
+{"id":"q3457","question":"Outside the United States, which country has the most McDonald's restaurants?","answer":"China","difficulty":"PhD","category":"Fast Food","asOf":"2025"},
+{"id":"q3458","question":"What is traditional Spanish horchata made from?","answer":"Tiger nuts (chufa)","difficulty":"Very Hard","category":"Drink"},
+{"id":"q3459","question":"Which spirit, with cola and lime, makes a Cuba Libre?","answer":"Rum","difficulty":"Easy","category":"Alcohol & Mixology"}
 ]

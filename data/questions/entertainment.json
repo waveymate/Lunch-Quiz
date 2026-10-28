@@ -178,5 +178,7 @@
 {"id":"q3313","question":"In Scrabble, what is a 'bingo'?","answer":"Playing all seven of your tiles in one turn, which earns a 50-point bonus","difficulty":"PhD","category":"Games"},
 {"id":"q3314","question":"Which video game series follows the Spartan warrior Kratos?","answer":"God of War","difficulty":"Medium","category":"Video Games"},
 {"id":"q3315","question":"Which 1976 Atari arcade game was built with help from Steve Jobs and Steve Wozniak?","answer":"Breakout","difficulty":"PhD","category":"Video Games"},
-{"id":"q3316","question":"Which studio, founded by Will Wright, created 'The Sims'?","answer":"Maxis","difficulty":"Hard","category":"Video Games"}
+{"id":"q3316","question":"Which studio, founded by Will Wright, created 'The Sims'?","answer":"Maxis","difficulty":"Hard","category":"Video Games"},
+{"id":"q3400","question":"What is a 'crane shot'?","answer":"A shot taken from a camera mounted on a crane, letting it sweep up, down or over the scene","difficulty":"Hard","category":"Cinematography"},
+{"id":"q3401","question":"Which cinematographer filmed 'Lawrence of Arabia' (1962)?","answer":"Freddie Young","difficulty":"PhD","category":"Cinematography"}
 ]

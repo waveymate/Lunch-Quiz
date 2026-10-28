@@ -327,5 +327,21 @@
 {"id":"q3267","question":"Which Swedish lake is the largest in the European Union?","answer":"Lake Vänern","difficulty":"PhD","category":"Lakes"},
 {"id":"q3268","question":"Which river flows through Lisbon?","answer":"The Tagus","difficulty":"Hard","category":"Rivers"},
 {"id":"q3269","question":"Which sea lies between Norway and Iceland, crossing the Arctic Circle?","answer":"The Norwegian Sea","difficulty":"Very Hard","category":"Seas"},
-{"id":"q3270","question":"What is the largest division of geological time, bigger than an era?","answer":"An eon","difficulty":"Hard","category":"Geology"}
+{"id":"q3270","question":"What is the largest division of geological time, bigger than an era?","answer":"An eon","difficulty":"Hard","category":"Geology"},
+{"id":"q3360","question":"Which country has the world's oldest written constitution still in use, dating from 1600?","answer":"San Marino","difficulty":"PhD","category":"Countries"},
+{"id":"q3361","question":"Which country was known as Zaire from 1971 to 1997?","answer":"The Democratic Republic of the Congo","difficulty":"Hard","category":"Countries"},
+{"id":"q3362","question":"What is the capital of Croatia?","answer":"Zagreb","difficulty":"Hard","category":"Capital Cities"},
+{"id":"q3363","question":"What is the capital of the Comoros?","answer":"Moroni","difficulty":"PhD","category":"Capital Cities"},
+{"id":"q3364","question":"After Australia, which is the largest country in Oceania by area?","answer":"Papua New Guinea","difficulty":"Very Hard","category":"Area"},
+{"id":"q3365","question":"Which is the largest country in South-East Asia by area?","answer":"Indonesia","difficulty":"Hard","category":"Area"},
+{"id":"q3366","question":"What colour is the cross on England's flag?","answer":"Red (the Cross of St George, on white)","difficulty":"Easy","category":"Flags"},
+{"id":"q3367","question":"Which country's flag features the 'Sun of May', a sun with a human face?","answer":"Argentina (Uruguay's flag has one too)","difficulty":"Very Hard","category":"Flags"},
+{"id":"q3368","question":"What is the largest lake in the British Isles?","answer":"Lough Neagh, in Northern Ireland","difficulty":"Hard","category":"Lakes"},
+{"id":"q3369","question":"Which Kenyan Rift Valley lake is famous for its huge flocks of flamingos?","answer":"Lake Nakuru","difficulty":"PhD","category":"Lakes"},
+{"id":"q3370","question":"Which river flows through Florence?","answer":"The Arno","difficulty":"Hard","category":"Rivers"},
+{"id":"q3371","question":"What is the longest river entirely within France?","answer":"The Loire","difficulty":"Very Hard","category":"Rivers"},
+{"id":"q3372","question":"Which sea lies between Vietnam and the Philippines?","answer":"The South China Sea","difficulty":"Medium","category":"Seas"},
+{"id":"q3373","question":"Which stretch of water separates Sicily from Tunisia?","answer":"The Strait of Sicily (Sicilian Channel)","difficulty":"PhD","category":"Seas"},
+{"id":"q3374","question":"In a cave, which hang down from the ceiling: stalactites or stalagmites?","answer":"Stalactites","difficulty":"Easy","category":"Geology"},
+{"id":"q3375","question":"Which mineral has a hardness of 7 on the Mohs scale?","answer":"Quartz","difficulty":"Very Hard","category":"Geology"}
 ]

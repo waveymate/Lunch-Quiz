@@ -195,5 +195,17 @@
 {"id":"q3290","question":"Which armoured dinosaur had a heavy bony club at the end of its tail?","answer":"Ankylosaurus","difficulty":"Hard","category":"Dinosaurs"},
 {"id":"q3291","question":"Which Antarctic volcano is the southernmost active volcano on Earth?","answer":"Mount Erebus","difficulty":"Very Hard","category":"Volcanoes"},
 {"id":"q3292","question":"What is the 'Fujiwhara effect'?","answer":"Two nearby cyclones circling around each other (and sometimes merging)","difficulty":"PhD","category":"Meteorology"},
-{"id":"q3293","question":"Which ocean did National Geographic officially recognise as the world's fifth in 2021?","answer":"The Southern Ocean","difficulty":"Hard","category":"Oceanography"}
+{"id":"q3293","question":"Which ocean did National Geographic officially recognise as the world's fifth in 2021?","answer":"The Southern Ocean","difficulty":"Hard","category":"Oceanography"},
+{"id":"q3380","question":"Which bird lays the largest eggs?","answer":"The ostrich","difficulty":"Medium","category":"Fauna"},
+{"id":"q3381","question":"Which is the only venomous primate?","answer":"The slow loris","difficulty":"PhD","category":"Fauna"},
+{"id":"q3382","question":"Which dragonfly makes the longest known insect migration, across the Indian Ocean?","answer":"The globe skimmer (wandering glider)","difficulty":"PhD","category":"Insects"},
+{"id":"q3383","question":"The grubs known as 'leatherjackets' are the larvae of which insect?","answer":"The crane fly ('daddy-long-legs')","difficulty":"PhD","category":"Insects"},
+{"id":"q3384","question":"Which dinosaur's name means 'roof lizard'?","answer":"Stegosaurus","difficulty":"Hard","category":"Dinosaurs"},
+{"id":"q3385","question":"Which group of two-legged, mostly meat-eating dinosaurs includes T. rex and Velociraptor?","answer":"The theropods","difficulty":"Very Hard","category":"Dinosaurs"},
+{"id":"q3386","question":"Which volcano's 1985 eruption sent mudflows that buried the Colombian town of Armero?","answer":"Nevado del Ruiz","difficulty":"PhD","category":"Volcanoes"},
+{"id":"q3387","question":"What is a fast-moving volcanic mudflow called?","answer":"A lahar","difficulty":"Hard","category":"Volcanoes"},
+{"id":"q3388","question":"What is rain that freezes as soon as it hits cold surfaces called?","answer":"Freezing rain","difficulty":"Hard","category":"Meteorology"},
+{"id":"q3389","question":"What is a bright spot of light beside the Sun, caused by ice crystals, commonly called?","answer":"A sundog (or parhelion)","difficulty":"Very Hard","category":"Meteorology"},
+{"id":"q3390","question":"What is a layer in the ocean where water density changes sharply with depth called?","answer":"A pycnocline","difficulty":"PhD","category":"Oceanography"},
+{"id":"q3391","question":"Which bathyscaphe made the first dive to the bottom of the Challenger Deep, in 1960?","answer":"The Trieste","difficulty":"PhD","category":"Oceanography"}
 ]
