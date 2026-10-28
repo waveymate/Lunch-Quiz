@@ -116,5 +116,9 @@
 {"id":"q2582","question":"How many chromosomes does a typical human body cell have?","answer":"46 (23 pairs)","difficulty":"Medium","category":"Biology"},
 {"id":"q2583","question":"What is the type of cell division that produces sperm and egg cells called?","answer":"Meiosis","difficulty":"Hard","category":"Biology"},
 {"id":"q2584","question":"Who discovered penicillin in 1928?","answer":"Alexander Fleming","difficulty":"Medium","category":"Biology"},
-{"id":"q2585","question":"Which hormone, made by the pineal gland, helps regulate sleep?","answer":"Melatonin","difficulty":"Hard","category":"Anatomy"}
+{"id":"q2585","question":"Which hormone, made by the pineal gland, helps regulate sleep?","answer":"Melatonin","difficulty":"Hard","category":"Anatomy"},
+{"id":"q2777","question":"Which bony structure protects the brain?","answer":"The skull (cranium)","difficulty":"Easy","category":"Anatomy"},
+{"id":"q2778","question":"Which heart valve sits between the left atrium and the left ventricle?","answer":"The mitral (bicuspid) valve","difficulty":"PhD","category":"Anatomy"},
+{"id":"q2779","question":"Which planet has the hottest surface in the solar system?","answer":"Venus","difficulty":"Medium","category":"Space & Astronomy"},
+{"id":"q2780","question":"Which dwarf planet is the largest object in the asteroid belt?","answer":"Ceres","difficulty":"Hard","category":"Space & Astronomy"}
 ]

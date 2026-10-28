@@ -139,5 +139,7 @@
 {"id":"q2601","question":"Which chess rule lets a player claim a draw after 50 moves each with no capture or pawn move?","answer":"The fifty-move rule","difficulty":"Hard","category":"Games"},
 {"id":"q2602","question":"Which 2017 Zelda game sent Link into a vast open-world Hyrule?","answer":"The Legend of Zelda: Breath of the Wild","difficulty":"Medium","category":"Video Games"},
 {"id":"q2603","question":"Which company released the Famicom games console in Japan in 1983?","answer":"Nintendo (it became the NES abroad)","difficulty":"Hard","category":"Video Games"},
-{"id":"q2604","question":"Which 1993 id Software game popularised the first-person shooter?","answer":"Doom","difficulty":"Hard","category":"Video Games"}
+{"id":"q2604","question":"Which 1993 id Software game popularised the first-person shooter?","answer":"Doom","difficulty":"Hard","category":"Video Games"},
+{"id":"q2803","question":"How is slow-motion footage usually created?","answer":"By filming at a higher frame rate than it's played back at","difficulty":"Hard","category":"Cinematography"},
+{"id":"q2804","question":"In editing, what is a 'jump cut'?","answer":"An abrupt cut between two shots of the same subject, making it seem to jump forward in time","difficulty":"Very Hard","category":"Cinematography"}
 ]

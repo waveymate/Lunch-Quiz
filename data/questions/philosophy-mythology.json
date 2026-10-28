@@ -116,5 +116,10 @@
 {"id":"q2646","question":"Which lioness-headed Egyptian goddess was a fierce warrior and bringer of plague?","answer":"Sekhmet","difficulty":"Hard","category":"Egyptian Mythology"},
 {"id":"q2647","question":"Which Egyptian god personified the yearly flooding of the Nile?","answer":"Hapi","difficulty":"Very Hard","category":"Egyptian Mythology"},
 {"id":"q2648","question":"Who is the dragon god of the sea in Japanese mythology?","answer":"Ryūjin","difficulty":"Very Hard","category":"Japanese Mythology"},
-{"id":"q2649","question":"During which Japanese summer festival are ancestors' spirits believed to return home?","answer":"Obon","difficulty":"Medium","category":"Japanese Mythology"}
+{"id":"q2649","question":"During which Japanese summer festival are ancestors' spirits believed to return home?","answer":"Obon","difficulty":"Medium","category":"Japanese Mythology"},
+{"id":"q2849","question":"Which Greek messenger god wore winged sandals?","answer":"Hermes","difficulty":"Easy","category":"Greek Mythology"},
+{"id":"q2850","question":"What were Rome's secretive festivals of the wine god, banned by the Senate in 186 BC, called?","answer":"The Bacchanalia","difficulty":"PhD","category":"Roman Mythology"},
+{"id":"q2851","question":"Which Norse goddess of love rides a chariot pulled by two cats?","answer":"Freyja","difficulty":"Hard","category":"Norse Mythology"},
+{"id":"q2852","question":"Which ram-headed Egyptian god was said to shape people on his potter's wheel?","answer":"Khnum","difficulty":"PhD","category":"Egyptian Mythology"},
+{"id":"q2853","question":"In Japanese folklore, the shape-shifting tanuki is based on which real animal?","answer":"The raccoon dog","difficulty":"Medium","category":"Japanese Mythology"}
 ]

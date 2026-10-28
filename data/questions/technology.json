@@ -117,5 +117,16 @@
 {"id":"q2756","question":"What does 'OLED' stand for, as in OLED screens?","answer":"Organic Light-Emitting Diode","difficulty":"Hard","category":"Gadgets"},
 {"id":"q2757","question":"Which company developed the compact disc together with Philips, launching it in 1982?","answer":"Sony","difficulty":"Hard","category":"Gadgets"},
 {"id":"q2758","question":"Phone battery capacity is usually given in which unit?","answer":"Milliampere-hours (mAh)","difficulty":"Medium","category":"Gadgets"},
-{"id":"q2759","question":"What was the first commercially available handheld mobile phone, released by Motorola in 1983?","answer":"The DynaTAC 8000X","difficulty":"PhD","category":"Gadgets"}
+{"id":"q2759","question":"What was the first commercially available handheld mobile phone, released by Motorola in 1983?","answer":"The DynaTAC 8000X","difficulty":"PhD","category":"Gadgets"},
+{"id":"q2792","question":"Which ancient structure was the tallest human-made building in the world for nearly 4,000 years?","answer":"The Great Pyramid of Giza","difficulty":"Medium","category":"Engineering"},
+{"id":"q2793","question":"What volcanic-ash ingredient helped make ancient Roman concrete so long-lasting?","answer":"Pozzolana","difficulty":"PhD","category":"Engineering"},
+{"id":"q2794","question":"Which dam on the Yangtze is the world's largest power station by capacity?","answer":"The Three Gorges Dam","difficulty":"Hard","category":"Engineering"},
+{"id":"q2795","question":"What does 'AGI' stand for in discussions about AI?","answer":"Artificial General Intelligence","difficulty":"Hard","category":"Artificial Intelligence"},
+{"id":"q2796","question":"Which company makes the Gemini AI models?","answer":"Google","difficulty":"Easy","category":"Artificial Intelligence"},
+{"id":"q2797","question":"What was the name of the 1960s chatbot that imitated a psychotherapist?","answer":"ELIZA","difficulty":"Very Hard","category":"Artificial Intelligence"},
+{"id":"q2798","question":"What is the name of Europe's main family of heavy rockets, launched from French Guiana?","answer":"Ariane","difficulty":"Very Hard","category":"Space Technology"},
+{"id":"q2799","question":"Which SpaceX rocket's first-stage boosters fly back and land themselves for reuse?","answer":"Falcon 9","difficulty":"Medium","category":"Space Technology"},
+{"id":"q2800","question":"What was the name of Apple's 1993 handheld personal digital assistant?","answer":"The Newton MessagePad","difficulty":"PhD","category":"Gadgets"},
+{"id":"q2801","question":"What does 'HDMI' stand for?","answer":"High-Definition Multimedia Interface","difficulty":"Hard","category":"Gadgets"},
+{"id":"q2802","question":"Which Apple tablet, launched in 2010, kick-started the modern tablet market?","answer":"The iPad","difficulty":"Easy","category":"Gadgets"}
 ]

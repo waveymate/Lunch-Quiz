@@ -245,5 +245,22 @@
 {"id":"q2572","question":"Which geological era, meaning 'middle life', is known as the Age of Reptiles?","answer":"The Mesozoic","difficulty":"Hard","category":"Geology"},
 {"id":"q2660","question":"Which instrument records the shaking of the ground during an earthquake?","answer":"A seismograph (or seismometer)","difficulty":"Medium","category":"Geology"},
 {"id":"q2661","question":"What is the point on the Earth's surface directly above where an earthquake starts called?","answer":"The epicentre","difficulty":"Medium","category":"Geology"},
-{"id":"q2662","question":"Which geological period, beginning about 540 million years ago, opened the Palaeozoic Era?","answer":"The Cambrian","difficulty":"Hard","category":"Geology"}
+{"id":"q2662","question":"Which geological period, beginning about 540 million years ago, opened the Palaeozoic Era?","answer":"The Cambrian","difficulty":"Hard","category":"Geology"},
+{"id":"q2760","question":"Which country, with more than 17,000 islands, is the world's largest archipelago nation?","answer":"Indonesia","difficulty":"Medium","category":"Countries"},
+{"id":"q2761","question":"Counting its overseas territories, which country spans the most time zones?","answer":"France (12)","difficulty":"Very Hard","category":"Countries"},
+{"id":"q2762","question":"What is the capital of Vietnam?","answer":"Hanoi","difficulty":"Easy","category":"Capital Cities"},
+{"id":"q2763","question":"What is the capital of Uzbekistan?","answer":"Tashkent","difficulty":"Hard","category":"Capital Cities"},
+{"id":"q2764","question":"What is the largest country that lies entirely within Asia?","answer":"China","difficulty":"Hard","category":"Area"},
+{"id":"q2765","question":"What is the largest country lying entirely in the Southern Hemisphere?","answer":"Australia","difficulty":"Medium","category":"Area"},
+{"id":"q2766","question":"Which country's flag, from 1977 to 2011, was a plain green field with no other design?","answer":"Libya","difficulty":"PhD","category":"Flags"},
+{"id":"q2767","question":"Which country's flag is a yellow Nordic cross on a blue background?","answer":"Sweden","difficulty":"Easy","category":"Flags"},
+{"id":"q2768","question":"In which country is Lake Bled, famous for its island church?","answer":"Slovenia","difficulty":"Hard","category":"Lakes"},
+{"id":"q2769","question":"What is the largest lake entirely within Canada?","answer":"Great Bear Lake","difficulty":"Very Hard","category":"Lakes"},
+{"id":"q2770","question":"Which river runs past Shanghai's famous waterfront, the Bund?","answer":"The Huangpu","difficulty":"Very Hard","category":"Rivers"},
+{"id":"q2771","question":"Which river flows through both Khartoum and Cairo?","answer":"The Nile","difficulty":"Medium","category":"Rivers"},
+{"id":"q2772","question":"Which sea, home to the Great Barrier Reef, lies off north-east Australia?","answer":"The Coral Sea","difficulty":"Hard","category":"Seas"},
+{"id":"q2773","question":"Which strait, named after a Portuguese explorer, links the Atlantic and Pacific near South America's southern tip?","answer":"The Strait of Magellan","difficulty":"Hard","category":"Seas"},
+{"id":"q2774","question":"What is the weak, partly molten layer of the upper mantle on which tectonic plates move called?","answer":"The asthenosphere","difficulty":"PhD","category":"Geology"},
+{"id":"q2775","question":"Which hard, speckled igneous rock is popular for kitchen worktops?","answer":"Granite","difficulty":"Hard","category":"Geology"},
+{"id":"q2776","question":"What type of fault, like California's San Andreas, has two blocks sliding horizontally past each other?","answer":"A strike-slip (or transform) fault","difficulty":"Very Hard","category":"Geology"}
 ]

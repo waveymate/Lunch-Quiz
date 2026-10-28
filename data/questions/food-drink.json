@@ -93,5 +93,10 @@
 {"id":"q2656","question":"What is the traditional Japanese tea ceremony called?","answer":"Chanoyu (also sadō, 'the way of tea')","difficulty":"Very Hard","category":"Drink"},
 {"id":"q2657","question":"Which fruit is traditional cider made from?","answer":"Apples","difficulty":"Easy","category":"Drink"},
 {"id":"q2658","question":"Which spirit is traditionally distilled from grain or potatoes in Russia and Poland?","answer":"Vodka","difficulty":"Easy","category":"Alcohol & Mixology"},
-{"id":"q2659","question":"On a cognac label, what does 'VSOP' stand for?","answer":"Very Superior Old Pale","difficulty":"PhD","category":"Alcohol & Mixology"}
+{"id":"q2659","question":"On a cognac label, what does 'VSOP' stand for?","answer":"Very Superior Old Pale","difficulty":"PhD","category":"Alcohol & Mixology"},
+{"id":"q2854","question":"Which spice gives many curries their yellow colour?","answer":"Turmeric","difficulty":"Easy","category":"Food"},
+{"id":"q2855","question":"Which French dish is beef slowly stewed in red Burgundy wine?","answer":"Bœuf bourguignon","difficulty":"Medium","category":"Culinary Traditions"},
+{"id":"q2856","question":"Which burrito chain was founded in Denver in 1993?","answer":"Chipotle Mexican Grill","difficulty":"Hard","category":"Fast Food"},
+{"id":"q2857","question":"What is the small long-handled pot used to brew Turkish coffee called?","answer":"A cezve (also called an ibrik)","difficulty":"PhD","category":"Drink"},
+{"id":"q2858","question":"Which blackcurrant liqueur is mixed with white wine to make a Kir?","answer":"Crème de cassis","difficulty":"Very Hard","category":"Alcohol & Mixology"}
 ]

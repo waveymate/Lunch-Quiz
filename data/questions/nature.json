@@ -134,5 +134,16 @@
 {"id":"q2710","question":"What is the largest known volcano in the solar system?","answer":"Olympus Mons, on Mars","difficulty":"Medium","category":"Volcanoes"},
 {"id":"q2711","question":"'Pāhoehoe' and 'ʻaʻā' are Hawaiian names for what?","answer":"Two types of basalt lava flow: smooth and ropy, and rough and rubbly","difficulty":"PhD","category":"Volcanoes"},
 {"id":"q2712","question":"Which scale measures how explosive a volcanic eruption is?","answer":"The Volcanic Explosivity Index (VEI)","difficulty":"Very Hard","category":"Volcanoes"},
-{"id":"q2713","question":"Which is Europe's most active volcano, on Sicily?","answer":"Mount Etna","difficulty":"Medium","category":"Volcanoes"}
+{"id":"q2713","question":"Which is Europe's most active volcano, on Sicily?","answer":"Mount Etna","difficulty":"Medium","category":"Volcanoes"},
+{"id":"q2781","question":"Which insects live in colonies with a king and queen and can build mounds several metres tall?","answer":"Termites","difficulty":"Medium","category":"Insects"},
+{"id":"q2782","question":"How many wings do most adult insects have?","answer":"Four (two pairs)","difficulty":"Hard","category":"Insects"},
+{"id":"q2783","question":"How many wings did the small feathered dinosaur Microraptor have?","answer":"Four","difficulty":"PhD","category":"Dinosaurs"},
+{"id":"q2784","question":"Which large, sail-backed dinosaur is thought to have hunted fish in rivers?","answer":"Spinosaurus","difficulty":"Hard","category":"Dinosaurs"},
+{"id":"q2785","question":"What is a volcano that isn't erupting now but could erupt again called?","answer":"Dormant","difficulty":"Easy","category":"Volcanoes"},
+{"id":"q2786","question":"What is the bowl-shaped opening at the top of a volcano called?","answer":"A crater","difficulty":"Medium","category":"Volcanoes"},
+{"id":"q2787","question":"Which volcano in the Democratic Republic of the Congo is famous for its vast lava lake?","answer":"Mount Nyiragongo","difficulty":"Very Hard","category":"Volcanoes"},
+{"id":"q2788","question":"What is a mix of fog and smoky air pollution called?","answer":"Smog","difficulty":"Easy","category":"Meteorology"},
+{"id":"q2789","question":"Which type of cloud forms a flat, featureless grey layer across the sky?","answer":"Stratus","difficulty":"Hard","category":"Meteorology"},
+{"id":"q2790","question":"What are unusually huge, unexpected waves far out at sea called?","answer":"Rogue waves","difficulty":"Hard","category":"Oceanography"},
+{"id":"q2791","question":"Which warm ocean current flows from the Gulf of Mexico up the US coast and across the Atlantic?","answer":"The Gulf Stream","difficulty":"Medium","category":"Oceanography"}
 ]
