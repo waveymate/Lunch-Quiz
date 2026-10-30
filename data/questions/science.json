@@ -188,5 +188,21 @@
 {"id":"q3481","question":"What is the jelly-like fluid that fills a cell called?","answer":"Cytoplasm","difficulty":"Hard","category":"Biology"},
 {"id":"q3482","question":"What is the two-part 'genus and species' naming system for living things, devised by Linnaeus, called?","answer":"Binomial nomenclature","difficulty":"Hard","category":"Biology"},
 {"id":"q3483","question":"How many lungs does a human have?","answer":"Two","difficulty":"Easy","category":"Anatomy"},
-{"id":"q3484","question":"Which planet is closest to the Sun?","answer":"Mercury","difficulty":"Easy","category":"Space & Astronomy"}
+{"id":"q3484","question":"Which planet is closest to the Sun?","answer":"Mercury","difficulty":"Easy","category":"Space & Astronomy"},
+{"id":"q3594","question":"At what temperature does water boil at sea level, in degrees Celsius?","answer":"100 °C","difficulty":"Easy","category":"Physics"},
+{"id":"q3595","question":"What is the energy an object has because it is moving called?","answer":"Kinetic energy","difficulty":"Medium","category":"Physics"},
+{"id":"q3596","question":"What are particles such as electrons and quarks, which can't be split into anything smaller, called?","answer":"Elementary (or fundamental) particles","difficulty":"Hard","category":"Quantum Mechanics"},
+{"id":"q3597","question":"In quantum mechanics, what is the 'observer effect'?","answer":"The act of measuring a system unavoidably disturbs it","difficulty":"Very Hard","category":"Quantum Mechanics"},
+{"id":"q3598","question":"Which element is the densest naturally occurring element?","answer":"Osmium","difficulty":"PhD","category":"Chemistry"},
+{"id":"q3599","question":"Apart from mercury, which element is a liquid at room temperature?","answer":"Bromine","difficulty":"Hard","category":"Chemistry"},
+{"id":"q3600","question":"What do herbivores eat?","answer":"Plants","difficulty":"Easy","category":"Biology"},
+{"id":"q3601","question":"What does the Hardy–Weinberg principle describe?","answer":"Gene (allele) frequencies staying constant from generation to generation when no evolutionary forces act","difficulty":"PhD","category":"Biology"},
+{"id":"q3602","question":"Which organ pumps blood around the body?","answer":"The heart","difficulty":"Easy","category":"Anatomy"},
+{"id":"q3603","question":"Which organ controls thinking, memory and movement?","answer":"The brain","difficulty":"Easy","category":"Anatomy"},
+{"id":"q3604","question":"What is the long bone of the upper arm called?","answer":"The humerus","difficulty":"Medium","category":"Anatomy"},
+{"id":"q3605","question":"What is the largest muscle in the human body?","answer":"The gluteus maximus (in the buttock)","difficulty":"Hard","category":"Anatomy"},
+{"id":"q3606","question":"What is the name of Earth's only natural satellite?","answer":"The Moon","difficulty":"Easy","category":"Space & Astronomy"},
+{"id":"q3607","question":"Which planet is most famous for its spectacular rings?","answer":"Saturn","difficulty":"Easy","category":"Space & Astronomy"},
+{"id":"q3608","question":"Which planet spins on its side, with its axis tilted about 98 degrees?","answer":"Uranus","difficulty":"Hard","category":"Space & Astronomy"},
+{"id":"q3609","question":"Which dwarf galaxy, discovered in 2003, is often named as the closest galaxy to the Milky Way?","answer":"The Canis Major Dwarf Galaxy","difficulty":"PhD","category":"Space & Astronomy"}
 ]

@@ -153,5 +153,20 @@
 {"id":"q3555","question":"Which country is the world's largest producer of cocoa beans?","answer":"Côte d'Ivoire (Ivory Coast)","difficulty":"Hard","category":"Drink"},
 {"id":"q3556","question":"What is a 'ristretto'?","answer":"A short, extra-concentrated espresso made with less water","difficulty":"Very Hard","category":"Drink"},
 {"id":"q3557","question":"Which fruit is wine traditionally made from?","answer":"Grapes","difficulty":"Easy","category":"Alcohol & Mixology"},
-{"id":"q3558","question":"At which Dublin brewery has Guinness been made since 1759?","answer":"St James's Gate","difficulty":"PhD","category":"Alcohol & Mixology"}
+{"id":"q3558","question":"At which Dublin brewery has Guinness been made since 1759?","answer":"St James's Gate","difficulty":"PhD","category":"Alcohol & Mixology"},
+{"id":"q3795","question":"What is a bain-marie?","answer":"A hot-water bath used to cook or melt food gently","difficulty":"Hard","category":"Food"},
+{"id":"q3796","question":"Which yellow fruit grows in bunches called 'hands'?","answer":"The banana","difficulty":"Easy","category":"Food"},
+{"id":"q3797","question":"Which soft Italian cheese is the key ingredient in tiramisu?","answer":"Mascarpone","difficulty":"Hard","category":"Food"},
+{"id":"q3798","question":"What is a taco?","answer":"A folded tortilla with a filling such as meat, beans or cheese","difficulty":"Easy","category":"Culinary Traditions"},
+{"id":"q3799","question":"Which country is pad thai from?","answer":"Thailand","difficulty":"Medium","category":"Culinary Traditions"},
+{"id":"q3800","question":"What is the cylindrical clay oven used to bake naan and tandoori chicken called?","answer":"A tandoor","difficulty":"Hard","category":"Culinary Traditions"},
+{"id":"q3801","question":"What is KFC best known for selling?","answer":"Fried chicken","difficulty":"Easy","category":"Fast Food"},
+{"id":"q3802","question":"Which sandwich chain sells 'footlong' subs?","answer":"Subway","difficulty":"Medium","category":"Fast Food"},
+{"id":"q3803","question":"In which English town did the first KFC in the UK open, in 1965?","answer":"Preston","difficulty":"PhD","category":"Fast Food"},
+{"id":"q3804","question":"Which fizzy drink has a famous secret recipe and a red-and-white logo?","answer":"Coca-Cola","difficulty":"Easy","category":"Drink"},
+{"id":"q3805","question":"What is the golden foam on top of a well-made espresso called?","answer":"The crema","difficulty":"PhD","category":"Drink"},
+{"id":"q3806","question":"Which sweet North African drink is made from green tea and fresh mint?","answer":"Moroccan mint tea","difficulty":"Hard","category":"Drink"},
+{"id":"q3807","question":"Which alcoholic drink is brewed from malted barley, water and hops?","answer":"Beer","difficulty":"Easy","category":"Alcohol & Mixology"},
+{"id":"q3808","question":"What is the 'worm' sometimes found in bottles of mezcal?","answer":"The larva of a moth that lives on agave plants","difficulty":"PhD","category":"Alcohol & Mixology"},
+{"id":"q3809","question":"What is the sweet Japanese liqueur made from ume plums called?","answer":"Umeshu","difficulty":"Very Hard","category":"Alcohol & Mixology"}
 ]

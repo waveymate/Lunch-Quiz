@@ -123,5 +123,16 @@
 {"id":"q2156","question":"What does the 'circle of fifths' show?","answer":"All 12 keys arranged a fifth apart, showing how they relate and how many sharps or flats each has","difficulty":"Very Hard","category":"Music Theory"},
 {"id":"q2157","question":"What is the cadence that moves from chord V to chord I called?","answer":"A perfect (or authentic) cadence","difficulty":"Very Hard","category":"Music Theory"},
 {"id":"q2158","question":"What is the relative minor key of C major?","answer":"A minor","difficulty":"Hard","category":"Music Theory"},
-{"id":"q2159","question":"Which mode is built by playing a major scale starting from its second note (e.g. D to D on the white keys)?","answer":"The Dorian mode","difficulty":"PhD","category":"Music Theory"}
+{"id":"q2159","question":"Which mode is built by playing a major scale starting from its second note (e.g. D to D on the white keys)?","answer":"The Dorian mode","difficulty":"PhD","category":"Music Theory"},
+{"id":"q3766","question":"Which composer wrote the piano piece 'Für Elise'?","answer":"Ludwig van Beethoven","difficulty":"Easy","category":"Composers"},
+{"id":"q3767","question":"Which Austrian composer wrote 'The Blue Danube' waltz?","answer":"Johann Strauss II","difficulty":"Hard","category":"Composers"},
+{"id":"q3768","question":"In which language are most of the best-known classic operas written?","answer":"Italian","difficulty":"Easy","category":"Operas"},
+{"id":"q3769","question":"What is the highest of the main male singing voices in opera?","answer":"Tenor","difficulty":"Medium","category":"Operas"},
+{"id":"q3770","question":"Which Wagner opera tells of a ghostly sea captain doomed to sail forever?","answer":"The Flying Dutchman","difficulty":"Very Hard","category":"Operas"},
+{"id":"q3771","question":"Which Italian tenor's 'Nessun dorma' became the anthem of the 1990 World Cup?","answer":"Luciano Pavarotti","difficulty":"Easy","category":"Performers"},
+{"id":"q3772","question":"In a British orchestra, what is the principal first violinist called?","answer":"The leader (the concertmaster in the US)","difficulty":"Hard","category":"Performers"},
+{"id":"q3773","question":"Which American pianist won the first International Tchaikovsky Competition in Moscow, in 1958?","answer":"Van Cliburn","difficulty":"PhD","category":"Performers"},
+{"id":"q3774","question":"How many different notes are in a major scale, not counting the repeated top note?","answer":"Seven","difficulty":"Easy","category":"Music Theory"},
+{"id":"q3775","question":"In music, what is a 'hemiola'?","answer":"A rhythmic shift where two bars of triple time are felt as three bars of duple time","difficulty":"PhD","category":"Music Theory"},
+{"id":"q3776","question":"What is a key signature?","answer":"The sharps or flats at the start of each stave that show which key the music is in","difficulty":"Hard","category":"Music Theory"}
 ]

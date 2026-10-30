@@ -191,5 +191,21 @@
 {"id":"q3511","question":"In which board game do players try to win by putting the enemy king in checkmate?","answer":"Chess","difficulty":"Easy","category":"Games"},
 {"id":"q3512","question":"In contract bridge, which is the highest-ranking suit?","answer":"Spades (only no-trumps ranks higher)","difficulty":"Very Hard","category":"Games"},
 {"id":"q3513","question":"Which company publishes the 'Call of Duty' series?","answer":"Activision","difficulty":"Hard","category":"Video Games"},
-{"id":"q3514","question":"Which massive online game, set in the world of Azeroth, launched in 2004?","answer":"World of Warcraft","difficulty":"Hard","category":"Video Games"}
+{"id":"q3514","question":"Which massive online game, set in the world of Azeroth, launched in 2004?","answer":"World of Warcraft","difficulty":"Hard","category":"Video Games"},
+{"id":"q3655","question":"Which cartoon character lives in a pineapple under the sea?","answer":"SpongeBob SquarePants","difficulty":"Easy","category":"TV Shows"},
+{"id":"q3656","question":"Which anthology series, created by Charlie Brooker, explores the dark side of technology?","answer":"Black Mirror","difficulty":"Medium","category":"TV Shows"},
+{"id":"q3657","question":"What does a film director traditionally shout to start a take?","answer":"'Action!'","difficulty":"Easy","category":"Cinematography"},
+{"id":"q3658","question":"What is a 'close-up' in film?","answer":"A shot tightly framing a face or object to show detail and emotion","difficulty":"Medium","category":"Cinematography"},
+{"id":"q3659","question":"What is a 'tracking shot'?","answer":"A shot in which the camera moves alongside the action, often on rails or a dolly","difficulty":"Hard","category":"Cinematography"},
+{"id":"q3660","question":"What is the 'Ken Burns effect' in documentaries?","answer":"Slowly panning and zooming across still photographs to bring them to life","difficulty":"Very Hard","category":"Cinematography"},
+{"id":"q3661","question":"Which instrument usually has 88 keys?","answer":"The piano","difficulty":"Easy","category":"Music"},
+{"id":"q3662","question":"Which Manchester band released 'Wonderwall' in 1995?","answer":"Oasis","difficulty":"Medium","category":"Music"},
+{"id":"q3663","question":"How many players take part in a game of chess?","answer":"Two","difficulty":"Easy","category":"Games"},
+{"id":"q3664","question":"In Snakes and Ladders, what happens when you land on a snake's head?","answer":"You slide down to its tail","difficulty":"Easy","category":"Games"},
+{"id":"q3665","question":"Which Chinese tile game is usually played with 144 tiles?","answer":"Mahjong","difficulty":"Hard","category":"Games"},
+{"id":"q3666","question":"Name the four railway stations on a UK Monopoly board.","answer":"King's Cross, Marylebone, Fenchurch Street and Liverpool Street","difficulty":"Very Hard","category":"Games"},
+{"id":"q3667","question":"Which pink, round Nintendo hero can inhale enemies and copy their powers?","answer":"Kirby","difficulty":"Easy","category":"Video Games"},
+{"id":"q3668","question":"What is the name of Mario's green dinosaur friend?","answer":"Yoshi","difficulty":"Easy","category":"Video Games"},
+{"id":"q3669","question":"In which game series is Ezio Auditore a famous assassin?","answer":"Assassin's Creed","difficulty":"Medium","category":"Video Games"},
+{"id":"q3670","question":"In which 1981 arcade game did Mario first appear, as 'Jumpman'?","answer":"Donkey Kong","difficulty":"Hard","category":"Video Games"}
 ]
