@@ -207,5 +207,21 @@
 {"id":"q3667","question":"Which pink, round Nintendo hero can inhale enemies and copy their powers?","answer":"Kirby","difficulty":"Easy","category":"Video Games"},
 {"id":"q3668","question":"What is the name of Mario's green dinosaur friend?","answer":"Yoshi","difficulty":"Easy","category":"Video Games"},
 {"id":"q3669","question":"In which game series is Ezio Auditore a famous assassin?","answer":"Assassin's Creed","difficulty":"Medium","category":"Video Games"},
-{"id":"q3670","question":"In which 1981 arcade game did Mario first appear, as 'Jumpman'?","answer":"Donkey Kong","difficulty":"Hard","category":"Video Games"}
+{"id":"q3670","question":"In which 1981 arcade game did Mario first appear, as 'Jumpman'?","answer":"Donkey Kong","difficulty":"Hard","category":"Video Games"},
+{"id":"q3904","question":"Which 1902 French film shows a rocket landing in the eye of the Man in the Moon?","answer":"'A Trip to the Moon' (Le Voyage dans la Lune) by Georges Méliès","difficulty":"PhD","category":"Movies"},
+{"id":"q3906","question":"Which music video was the first thing shown on MTV in 1981?","answer":"\"Video Killed the Radio Star\" by The Buggles","difficulty":"PhD","category":"TV Shows"},
+{"id":"q3907","question":"Which grumpy sitcom character is famous for saying \"I don't believe it!\"?","answer":"Victor Meldrew ('One Foot in the Grave')","difficulty":"Very Hard","category":"TV Shows"},
+{"id":"q3908","question":"In 'The Sopranos', what is the name of the strip club where Tony does business?","answer":"The Bada Bing!","difficulty":"PhD","category":"TV Shows"},
+{"id":"q3909","question":"What is a 'Dutch angle' in filmmaking?","answer":"A shot with the camera tilted so the horizon slopes, to suggest unease","difficulty":"Very Hard","category":"Cinematography"},
+{"id":"q3910","question":"What is the 'Kuleshov effect'?","answer":"Viewers read different emotions into the same shot depending on what it is cut with","difficulty":"PhD","category":"Cinematography"},
+{"id":"q3911","question":"Who invented the Steadicam, first used in feature films in 1976?","answer":"Garrett Brown","difficulty":"PhD","category":"Cinematography"},
+{"id":"q3913","question":"Which band's 1967 debut album was 'The Piper at the Gates of Dawn'?","answer":"Pink Floyd","difficulty":"Very Hard","category":"Music"},
+{"id":"q3914","question":"What was David Bowie's real name?","answer":"David Robert Jones","difficulty":"Very Hard","category":"Music"},
+{"id":"q3915","question":"Which German band pioneered electronic pop with the 1974 album 'Autobahn'?","answer":"Kraftwerk","difficulty":"PhD","category":"Music"},
+{"id":"q3916","question":"Which word game did Alfred Butts invent, first calling it 'Lexiko'?","answer":"Scrabble","difficulty":"Very Hard","category":"Games"},
+{"id":"q3917","question":"Which ancient board game, found in royal tombs in Mesopotamia, dates back about 4,500 years?","answer":"The Royal Game of Ur","difficulty":"PhD","category":"Games"},
+{"id":"q3919","question":"Which studio created the original 'Halo' games?","answer":"Bungie","difficulty":"Very Hard","category":"Video Games"},
+{"id":"q3950","question":"What was the name of the first home video game console, released by Magnavox in 1972?","answer":"The Magnavox Odyssey","difficulty":"PhD","category":"Video Games"},
+{"id":"q3967","question":"Who directed 'Lawrence of Arabia' (1962) and 'The Bridge on the River Kwai' (1957)?","answer":"David Lean","difficulty":"Very Hard","category":"Movies"},
+{"id":"q3972","question":"How many weapons are there in the classic game of Cluedo?","answer":"Six (candlestick, dagger, lead pipe, revolver, rope and spanner)","difficulty":"Very Hard","category":"Games"}
 ]

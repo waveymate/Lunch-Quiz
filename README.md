@@ -55,6 +55,19 @@ The script rewrites `data/counts.json` whenever the bank changes, so the filter 
 
 **Changing the app itself:** after editing `app.js` or `styles.css`, bump the `?v=` number on both links in `index.html` so browsers fetch the new files. Question files don't need this.
 
+## Balanced batches
+
+When asked for a "balanced" batch:
+
+- **Categories:** top up the smallest subcategories first (water-filling), so every subcategory converges on the same size. Nerd & Fandoms is left out unless asked for by name.
+- **Difficulty:** pick the batch mix that moves the whole bank towards these target shares:
+
+| Easy | Medium | Hard | Very Hard | PhD |
+| --- | --- | --- | --- | --- |
+| 20% | 20% | 25% | 20% | 15% |
+
+(Targets set October 2026.) A level that is already over its target gets few or no new questions until the others catch up.
+
 ## Adding a category
 
 Add the name to a group's `categories` list in `data/categories.json`. To add a whole new group, add an entry with an `id`, `name`, `hue` (0–360 for its badge colour) and `categories`, plus an empty `data/questions/<id>.json` containing `[]`. The filter badges are built from this file, so no code changes are needed.
