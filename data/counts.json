@@ -1,5 +1,5 @@
 {
- "total": 3500,
+ "total": 3750,
  "counts": {
   "Alcohol & Mixology": {
    "Easy": 14,
@@ -25,9 +25,9 @@
   "Area": {
    "Easy": 7,
    "Medium": 11,
-   "Very Hard": 7,
-   "Hard": 12,
-   "PhD": 1
+   "Very Hard": 11,
+   "Hard": 17,
+   "PhD": 4
   },
   "Art Movements": {
    "Easy": 7,
@@ -79,11 +79,11 @@
    "Very Hard": 7
   },
   "Capital Cities": {
-   "Medium": 6,
-   "Easy": 9,
-   "Hard": 9,
-   "Very Hard": 9,
-   "PhD": 5
+   "Medium": 36,
+   "Easy": 33,
+   "Hard": 47,
+   "Very Hard": 54,
+   "PhD": 28
   },
   "Chemistry": {
    "Easy": 8,
@@ -115,10 +115,10 @@
   },
   "Countries": {
    "Medium": 11,
-   "Hard": 11,
+   "Hard": 12,
    "Easy": 5,
-   "Very Hard": 7,
-   "PhD": 4
+   "Very Hard": 12,
+   "PhD": 9
   },
   "Cricket": {
    "Easy": 11,
@@ -227,9 +227,9 @@
   "Flags": {
    "Medium": 8,
    "Easy": 8,
-   "Hard": 11,
-   "Very Hard": 5,
-   "PhD": 6
+   "Hard": 15,
+   "Very Hard": 9,
+   "PhD": 8
   },
   "Flora": {
    "Medium": 9,
@@ -274,16 +274,16 @@
   "Geography": {
    "Medium": 10,
    "Easy": 10,
-   "Hard": 10,
-   "Very Hard": 5,
-   "PhD": 4
+   "Hard": 13,
+   "Very Hard": 8,
+   "PhD": 8
   },
   "Geology": {
-   "Hard": 13,
+   "Hard": 15,
    "Easy": 8,
-   "Very Hard": 5,
+   "Very Hard": 10,
    "Medium": 7,
-   "PhD": 6
+   "PhD": 10
   },
   "Golf": {
    "Easy": 12,
@@ -309,8 +309,8 @@
    "Easy": 18,
    "Medium": 36,
    "Hard": 14,
-   "Very Hard": 7,
-   "PhD": 1
+   "Very Hard": 9,
+   "PhD": 3
   },
   "Ice Hockey": {
    "Easy": 8,
@@ -342,10 +342,10 @@
   },
   "Lakes": {
    "Medium": 10,
-   "Hard": 10,
+   "Hard": 13,
    "Easy": 4,
-   "Very Hard": 8,
-   "PhD": 6
+   "Very Hard": 12,
+   "PhD": 9
   },
   "Languages": {
    "Medium": 7,
@@ -481,9 +481,9 @@
   "Rivers": {
    "Easy": 5,
    "Medium": 11,
-   "Hard": 11,
-   "Very Hard": 6,
-   "PhD": 5
+   "Hard": 15,
+   "Very Hard": 11,
+   "PhD": 8
   },
   "Roman Mythology": {
    "Easy": 9,
@@ -509,9 +509,9 @@
   "Seas": {
    "Easy": 9,
    "Medium": 8,
-   "Hard": 11,
-   "Very Hard": 4,
-   "PhD": 6
+   "Hard": 12,
+   "Very Hard": 9,
+   "PhD": 10
   },
   "Shakespearean Plays": {
    "Medium": 11,
