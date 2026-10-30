@@ -1,12 +1,12 @@
 {
- "total": 3750,
+ "total": 4000,
  "counts": {
   "Alcohol & Mixology": {
    "Easy": 14,
    "Medium": 6,
-   "Hard": 5,
-   "Very Hard": 7,
-   "PhD": 5
+   "Hard": 12,
+   "Very Hard": 19,
+   "PhD": 15
   },
   "Anatomy": {
    "Easy": 10,
@@ -102,9 +102,9 @@
   "Composers": {
    "Easy": 6,
    "Medium": 11,
-   "Very Hard": 11,
-   "Hard": 8,
-   "PhD": 4
+   "Very Hard": 22,
+   "Hard": 14,
+   "PhD": 14
   },
   "Computing": {
    "Easy": 9,
@@ -129,10 +129,10 @@
   },
   "Culinary Traditions": {
    "Easy": 11,
-   "Very Hard": 6,
+   "Very Hard": 17,
    "Medium": 11,
-   "Hard": 7,
-   "PhD": 4
+   "Hard": 13,
+   "PhD": 14
   },
   "Cycling": {
    "Easy": 4,
@@ -169,11 +169,11 @@
    "PhD": 1
   },
   "Drink": {
-   "Hard": 9,
+   "Hard": 16,
    "Easy": 5,
    "Medium": 10,
-   "Very Hard": 8,
-   "PhD": 6
+   "Very Hard": 19,
+   "PhD": 16
   },
   "Egyptian Mythology": {
    "Easy": 7,
@@ -213,9 +213,9 @@
   "Fast Food": {
    "Medium": 7,
    "Easy": 9,
-   "Hard": 10,
-   "Very Hard": 7,
-   "PhD": 6
+   "Hard": 16,
+   "Very Hard": 18,
+   "PhD": 16
   },
   "Fauna": {
    "Easy": 10,
@@ -241,9 +241,9 @@
   "Food": {
    "Medium": 13,
    "Easy": 11,
-   "Hard": 8,
-   "PhD": 4,
-   "Very Hard": 4
+   "Hard": 14,
+   "PhD": 13,
+   "Very Hard": 15
   },
   "Football": {
    "Easy": 12,
@@ -411,9 +411,9 @@
   "Music Theory": {
    "Medium": 12,
    "Easy": 7,
-   "Hard": 10,
-   "Very Hard": 5,
-   "PhD": 3
+   "Hard": 17,
+   "Very Hard": 18,
+   "PhD": 12
   },
   "Norse Mythology": {
    "Hard": 11,
@@ -439,9 +439,9 @@
   "Operas": {
    "Medium": 12,
    "Easy": 8,
-   "Hard": 7,
-   "Very Hard": 8,
-   "PhD": 4
+   "Hard": 14,
+   "Very Hard": 19,
+   "PhD": 14
   },
   "Paintings": {
    "Easy": 11,
@@ -452,10 +452,10 @@
   },
   "Performers": {
    "Easy": 4,
-   "Hard": 13,
-   "Very Hard": 11,
+   "Hard": 20,
+   "Very Hard": 23,
    "Medium": 6,
-   "PhD": 4
+   "PhD": 14
   },
   "Philosophy": {
    "Easy": 8,
